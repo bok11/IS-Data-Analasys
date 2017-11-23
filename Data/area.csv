@@ -1,0 +1,2271 @@
+Time stamp,Area,Day,Parking_Category,Peak Hour,Free_Spaces,Used_Spaces,% full
+2014-04-08 08:00:00,12th Ave,Weekday,Paid Parking,No,78.0,22.0,78.0
+2014-04-08 09:00:00,12th Ave,Weekday,Paid Parking,No,78.0,44.0,64.0
+2014-04-08 10:00:00,12th Ave,Weekday,Paid Parking,No,78.0,48.0,62.0
+2014-04-08 11:00:00,12th Ave,Weekday,Paid Parking,No,78.0,46.0,63.0
+2014-04-08 12:00:00,12th Ave,Weekday,Paid Parking,No,78.0,51.0,60.0
+2014-04-08 13:00:00,12th Ave,Weekday,Paid Parking,No,78.0,58.0,57.0
+2014-04-08 14:00:00,12th Ave,Weekday,Paid Parking,No,78.0,51.0,60.0
+2014-04-08 15:00:00,12th Ave,Weekday,Paid Parking,No,78.0,51.0,60.0
+2014-04-08 16:00:00,12th Ave,Weekday,Paid Parking,No,78.0,53.0,60.0
+2014-04-08 17:00:00,12th Ave,Weekday,Paid Parking,No,78.0,70.0,53.0
+2014-04-08 18:00:00,12th Ave,Weekday,Paid Parking,No,78.0,83.0,48.0
+2014-04-08 19:00:00,12th Ave,Weekday,Paid Parking,No,78.0,83.0,48.0
+2014-04-08 20:00:00,12th Ave,Weekday,Paid Parking,No,78.0,81.0,49.0
+2014-04-08 21:00:00,12th Ave,Weekday,Paid Parking,No,78.0,63.0,55.0
+2014-04-08 22:00:00,12th Ave,Weekday,Paid Parking,No,78.0,46.0,63.0
+2014-04-08 23:00:00,12th Ave,Weekday,Paid Parking,No,78.0,45.0,63.0
+2014-04-09 08:00:00,University District,Weekday,Paid Parking,No,483.0,194.0,71.0
+2014-04-09 08:00:00,Uptown Triangle,Weekday,Paid Parking,No,209.0,124.0,63.0
+2014-04-09 08:00:00,Westlake,Weekday,Restricted Parking Zone,No,385.0,135.0,74.0
+2014-04-09 09:00:00,University District,Weekday,Paid Parking,No,483.0,223.0,68.0
+2014-04-09 09:00:00,Uptown Triangle,Weekday,Paid Parking,No,209.0,144.0,59.0
+2014-04-09 09:00:00,Westlake,Weekday,Restricted Parking Zone,No,385.0,197.0,66.0
+2014-04-09 10:00:00,University District,Weekday,Paid Parking,No,483.0,282.0,63.0
+2014-04-09 10:00:00,Uptown Triangle,Weekday,Paid Parking,No,209.0,175.0,54.0
+2014-04-09 10:00:00,Westlake,Weekday,Restricted Parking Zone,No,385.0,285.0,57.0
+2014-04-09 11:00:00,University District,Weekday,Paid Parking,No,483.0,313.0,61.0
+2014-04-09 11:00:00,Uptown Triangle,Weekday,Paid Parking,No,209.0,204.0,51.0
+2014-04-09 11:00:00,Westlake,Weekday,Restricted Parking Zone,No,385.0,330.0,54.0
+2014-04-09 12:00:00,University District,Weekday,Paid Parking,No,483.0,340.0,59.0
+2014-04-09 12:00:00,Uptown Triangle,Weekday,Paid Parking,No,209.0,186.0,53.0
+2014-04-09 12:00:00,Westlake,Weekday,Restricted Parking Zone,No,385.0,317.0,55.0
+2014-04-09 13:00:00,University District,Weekday,Paid Parking,No,483.0,336.0,59.0
+2014-04-09 13:00:00,Uptown Triangle,Weekday,Paid Parking,No,209.0,186.0,53.0
+2014-04-09 13:00:00,Westlake,Weekday,Restricted Parking Zone,No,385.0,326.0,54.0
+2014-04-09 14:00:00,University District,Weekday,Paid Parking,No,483.0,308.0,61.0
+2014-04-09 14:00:00,Uptown Triangle,Weekday,Paid Parking,No,209.0,189.0,53.0
+2014-04-09 14:00:00,Westlake,Weekday,Restricted Parking Zone,No,385.0,326.0,54.0
+2014-04-09 15:00:00,University District,Weekday,Paid Parking,No,469.0,272.0,63.0
+2014-04-09 15:00:00,University District,Weekday,Paid Parking,Yes,14.0,6.0,70.0
+2014-04-09 15:00:00,Uptown Triangle,Weekday,Paid Parking,No,209.0,141.0,60.0
+2014-04-09 15:00:00,Westlake,Weekday,Restricted Parking Zone,No,385.0,317.0,55.0
+2014-04-09 16:00:00,University District,Weekday,Paid Parking,No,469.0,247.0,66.0
+2014-04-09 16:00:00,University District,Weekday,Paid Parking,Yes,14.0,0.0,100.0
+2014-04-09 16:00:00,Uptown Triangle,Weekday,Paid Parking,No,209.0,118.0,64.0
+2014-04-09 16:00:00,Westlake,Weekday,Restricted Parking Zone,No,385.0,293.0,57.0
+2014-04-09 17:00:00,University District,Weekday,Paid Parking,No,469.0,230.0,67.0
+2014-04-09 17:00:00,University District,Weekday,Paid Parking,Yes,14.0,4.0,78.0
+2014-04-09 17:00:00,Uptown Triangle,Weekday,Paid Parking,No,209.0,121.0,63.0
+2014-04-09 17:00:00,Westlake,Weekday,Restricted Parking Zone,No,385.0,248.0,61.0
+2014-04-09 18:00:00,University District,Weekday,Paid Parking,No,469.0,270.0,63.0
+2014-04-09 18:00:00,University District,Weekday,Paid Parking,Yes,14.0,0.0,100.0
+2014-04-09 18:00:00,Uptown Triangle,Weekday,Paid Parking,No,209.0,122.0,63.0
+2014-04-09 18:00:00,Westlake,Weekday,Restricted Parking Zone,No,385.0,225.0,63.0
+2014-04-09 19:00:00,University District,Weekday,Paid Parking,No,483.0,327.0,60.0
+2014-04-09 19:00:00,Uptown Triangle,Weekday,Paid Parking,No,209.0,139.0,60.0
+2014-04-09 19:00:00,Westlake,Weekday,Restricted Parking Zone,No,385.0,190.0,67.0
+2014-04-09 20:00:00,University District,Weekday,Paid Parking,No,483.0,331.0,59.0
+2014-04-09 20:00:00,Uptown Triangle,Weekday,Paid Parking,No,209.0,145.0,59.0
+2014-04-09 20:00:00,Westlake,Weekday,Restricted Parking Zone,No,385.0,132.0,74.0
+2014-04-10 08:00:00,Ballard,Weekday,Paid Parking,No,80.0,1.0,99.0
+2014-04-10 09:00:00,Ballard,Weekday,Paid Parking,No,80.0,2.0,98.0
+2014-04-10 10:00:00,Ballard,Weekday,Paid Parking,No,80.0,5.0,94.0
+2014-04-10 11:00:00,Ballard,Weekday,Paid Parking,No,80.0,19.0,81.0
+2014-04-10 12:00:00,Ballard,Weekday,Paid Parking,No,80.0,22.0,78.0
+2014-04-10 13:00:00,Ballard,Weekday,Paid Parking,No,80.0,40.0,67.0
+2014-04-10 14:00:00,Ballard,Weekday,Paid Parking,No,80.0,49.0,62.0
+2014-04-10 15:00:00,Ballard,Weekday,Paid Parking,No,80.0,26.0,75.0
+2014-04-10 16:00:00,Ballard,Weekday,Paid Parking,No,80.0,30.0,73.0
+2014-04-10 17:00:00,Ballard,Weekday,Paid Parking,No,80.0,21.0,79.0
+2014-04-10 18:00:00,Ballard,Weekday,Paid Parking,No,80.0,11.0,88.0
+2014-04-10 19:00:00,Ballard,Weekday,Paid Parking,No,80.0,20.0,80.0
+2014-04-10 20:00:00,Ballard,Weekday,Paid Parking,No,80.0,14.0,85.0
+2014-04-15 08:00:00,Chinatown,Weekday,Paid Parking,No,411.0,82.0,83.0
+2014-04-15 08:00:00,Fremont,Weekday,Paid Parking,No,85.0,15.0,85.0
+2014-04-15 08:00:00,Fremont,Weekday,Paid Parking,Yes,6.0,0.0,100.0
+2014-04-15 08:00:00,Fremont,Weekday,Time Limited Parking,No,312.0,152.0,67.0
+2014-04-15 08:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,24.0,55.0
+2014-04-15 08:00:00,Green Lake,Weekday,Paid Parking,No,85.0,42.0,67.0
+2014-04-15 08:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,41.0,59.0
+2014-04-15 08:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,51.0,53.0
+2014-04-15 09:00:00,Chinatown,Weekday,Paid Parking,No,411.0,129.0,76.0
+2014-04-15 09:00:00,Fremont,Weekday,Paid Parking,No,91.0,32.0,74.0
+2014-04-15 09:00:00,Fremont,Weekday,Time Limited Parking,No,312.0,178.0,64.0
+2014-04-15 09:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,26.0,53.0
+2014-04-15 09:00:00,Green Lake,Weekday,Paid Parking,No,85.0,45.0,65.0
+2014-04-15 09:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,44.0,57.0
+2014-04-15 09:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,53.0,52.0
+2014-04-15 10:00:00,Chinatown,Weekday,Paid Parking,No,411.0,212.0,66.0
+2014-04-15 10:00:00,Fremont,Weekday,Paid Parking,No,91.0,38.0,71.0
+2014-04-15 10:00:00,Fremont,Weekday,Time Limited Parking,No,312.0,219.0,59.0
+2014-04-15 10:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,27.0,52.0
+2014-04-15 10:00:00,Green Lake,Weekday,Paid Parking,No,85.0,59.0,59.0
+2014-04-15 10:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,47.0,56.0
+2014-04-15 10:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,56.0,51.0
+2014-04-15 11:00:00,Chinatown,Weekday,Paid Parking,No,411.0,272.0,60.0
+2014-04-15 11:00:00,Fremont,Weekday,Paid Parking,No,91.0,46.0,66.0
+2014-04-15 11:00:00,Fremont,Weekday,Time Limited Parking,No,312.0,233.0,57.0
+2014-04-15 11:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,26.0,53.0
+2014-04-15 11:00:00,Green Lake,Weekday,Paid Parking,No,85.0,72.0,54.0
+2014-04-15 11:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,45.0,57.0
+2014-04-15 11:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,57.0,50.0
+2014-04-15 12:00:00,Chinatown,Weekday,Paid Parking,No,411.0,327.0,56.0
+2014-04-15 12:00:00,Fremont,Weekday,Paid Parking,No,91.0,72.0,56.0
+2014-04-15 12:00:00,Fremont,Weekday,Time Limited Parking,No,312.0,208.0,60.0
+2014-04-15 12:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,27.0,52.0
+2014-04-15 12:00:00,Green Lake,Weekday,Paid Parking,No,85.0,55.0,61.0
+2014-04-15 12:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,50.0,54.0
+2014-04-15 12:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,57.0,50.0
+2014-04-15 13:00:00,Chinatown,Weekday,Paid Parking,No,411.0,326.0,56.0
+2014-04-15 13:00:00,Fremont,Weekday,Paid Parking,No,91.0,71.0,56.0
+2014-04-15 13:00:00,Fremont,Weekday,Time Limited Parking,No,312.0,241.0,56.0
+2014-04-15 13:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,23.0,56.0
+2014-04-15 13:00:00,Green Lake,Weekday,Paid Parking,No,85.0,51.0,62.0
+2014-04-15 13:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,49.0,55.0
+2014-04-15 13:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,56.0,51.0
+2014-04-15 14:00:00,Chinatown,Weekday,Paid Parking,No,411.0,265.0,61.0
+2014-04-15 14:00:00,Fremont,Weekday,Paid Parking,No,91.0,64.0,59.0
+2014-04-15 14:00:00,Fremont,Weekday,Time Limited Parking,No,312.0,197.0,61.0
+2014-04-15 14:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,24.0,55.0
+2014-04-15 14:00:00,Green Lake,Weekday,Paid Parking,No,85.0,59.0,59.0
+2014-04-15 14:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,43.0,58.0
+2014-04-15 14:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,52.0,53.0
+2014-04-15 15:00:00,Chinatown,Weekday,Paid Parking,No,392.0,253.0,61.0
+2014-04-15 15:00:00,Chinatown,Weekday,Paid Parking,Yes,19.0,1.0,95.0
+2014-04-15 15:00:00,Fremont,Weekday,Paid Parking,No,91.0,64.0,59.0
+2014-04-15 15:00:00,Fremont,Weekday,Time Limited Parking,No,312.0,174.0,64.0
+2014-04-15 15:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,22.0,57.0
+2014-04-15 15:00:00,Green Lake,Weekday,Paid Parking,No,85.0,55.0,61.0
+2014-04-15 15:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,47.0,56.0
+2014-04-15 15:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,55.0,51.0
+2014-04-15 16:00:00,Chinatown,Weekday,Paid Parking,No,392.0,209.0,65.0
+2014-04-15 16:00:00,Chinatown,Weekday,Paid Parking,Yes,19.0,0.0,100.0
+2014-04-15 16:00:00,Fremont,Weekday,Paid Parking,No,87.0,64.0,58.0
+2014-04-15 16:00:00,Fremont,Weekday,Paid Parking,Yes,4.0,3.0,57.0
+2014-04-15 16:00:00,Fremont,Weekday,Time Limited Parking,No,285.0,184.0,61.0
+2014-04-15 16:00:00,Fremont,Weekday,Time Limited Parking,Yes,27.0,18.0,60.0
+2014-04-15 16:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,25.0,54.0
+2014-04-15 16:00:00,Green Lake,Weekday,Paid Parking,No,85.0,48.0,64.0
+2014-04-15 16:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,47.0,56.0
+2014-04-15 16:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,53.0,52.0
+2014-04-15 17:00:00,Chinatown,Weekday,Paid Parking,No,392.0,204.0,66.0
+2014-04-15 17:00:00,Chinatown,Weekday,Paid Parking,Yes,19.0,0.0,100.0
+2014-04-15 17:00:00,Fremont,Weekday,Paid Parking,No,87.0,60.0,59.0
+2014-04-15 17:00:00,Fremont,Weekday,Paid Parking,Yes,4.0,2.0,67.0
+2014-04-15 17:00:00,Fremont,Weekday,Time Limited Parking,No,285.0,190.0,60.0
+2014-04-15 17:00:00,Fremont,Weekday,Time Limited Parking,Yes,27.0,16.0,63.0
+2014-04-15 17:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,22.0,57.0
+2014-04-15 17:00:00,Green Lake,Weekday,Paid Parking,No,85.0,80.0,52.0
+2014-04-15 17:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,51.0,54.0
+2014-04-15 17:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,50.0,54.0
+2014-04-15 18:00:00,Chinatown,Weekday,Paid Parking,No,392.0,289.0,58.0
+2014-04-15 18:00:00,Chinatown,Weekday,Paid Parking,Yes,19.0,2.0,90.0
+2014-04-15 18:00:00,Fremont,Weekday,Paid Parking,No,91.0,70.0,57.0
+2014-04-15 18:00:00,Fremont,Weekday,Time Limited Parking,No,312.0,205.0,60.0
+2014-04-15 18:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,18.0,62.0
+2014-04-15 18:00:00,Green Lake,Weekday,Paid Parking,No,85.0,92.0,48.0
+2014-04-15 18:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,52.0,53.0
+2014-04-15 18:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,61.0,49.0
+2014-04-15 19:00:00,Chinatown,Weekday,Paid Parking,No,411.0,297.0,58.0
+2014-04-15 19:00:00,Fremont,Weekday,Paid Parking,No,91.0,86.0,51.0
+2014-04-15 19:00:00,Fremont,Weekday,Time Limited Parking,No,312.0,253.0,55.0
+2014-04-15 19:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,25.0,54.0
+2014-04-15 19:00:00,Green Lake,Weekday,Paid Parking,No,85.0,87.0,49.0
+2014-04-15 19:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,55.0,52.0
+2014-04-15 19:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,57.0,50.0
+2014-04-15 20:00:00,Chinatown,Weekday,Paid Parking,No,411.0,272.0,60.0
+2014-04-15 20:00:00,Fremont,Weekday,Paid Parking,No,91.0,78.0,54.0
+2014-04-15 20:00:00,Fremont,Weekday,Time Limited Parking,No,312.0,211.0,60.0
+2014-04-15 20:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,21.0,58.0
+2014-04-15 20:00:00,Green Lake,Weekday,Paid Parking,No,85.0,81.0,51.0
+2014-04-15 20:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,48.0,55.0
+2014-04-15 20:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,55.0,51.0
+2014-04-15 21:00:00,Chinatown,Weekday,Paid Parking,No,411.0,252.0,62.0
+2014-04-15 21:00:00,Fremont,Weekday,Paid Parking,No,91.0,64.0,59.0
+2014-04-15 21:00:00,Fremont,Weekday,Time Limited Parking,No,312.0,208.0,60.0
+2014-04-15 21:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,21.0,58.0
+2014-04-15 21:00:00,Green Lake,Weekday,Paid Parking,No,85.0,81.0,51.0
+2014-04-15 21:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,46.0,56.0
+2014-04-15 21:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,45.0,56.0
+2014-04-15 22:00:00,Chinatown,Weekday,Paid Parking,No,411.0,202.0,67.0
+2014-04-15 22:00:00,Fremont,Weekday,Paid Parking,No,91.0,41.0,69.0
+2014-04-15 22:00:00,Fremont,Weekday,Time Limited Parking,No,312.0,188.0,62.0
+2014-04-15 22:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,10.0,74.0
+2014-04-15 22:00:00,Green Lake,Weekday,Paid Parking,No,85.0,72.0,54.0
+2014-04-15 22:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,37.0,61.0
+2014-04-15 22:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,49.0,54.0
+2014-04-15 23:00:00,Fremont,Weekday,Paid Parking,No,91.0,27.0,77.0
+2014-04-15 23:00:00,Fremont,Weekday,Time Limited Parking,No,312.0,128.0,71.0
+2014-04-15 23:00:00,Fremont,Weekday,Unrestricted Parking,No,29.0,9.0,76.0
+2014-04-15 23:00:00,Green Lake,Weekday,Paid Parking,No,85.0,56.0,60.0
+2014-04-15 23:00:00,Green Lake,Weekday,Time Limited Parking,No,59.0,36.0,62.0
+2014-04-15 23:00:00,Green Lake,Weekday,Unrestricted Parking,No,58.0,47.0,55.0
+2014-04-16 08:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,103.0,73.0
+2014-04-16 08:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,42.0,51.0
+2014-04-16 08:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,93.0,54.0
+2014-04-16 08:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,49.0,52.0
+2014-04-16 08:00:00,Cherry Hill,Weekday,Paid Parking,No,59.0,43.0,58.0
+2014-04-16 08:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,207.0,164.0,56.0
+2014-04-16 08:00:00,Cherry Hill,Weekday,Time Limited Parking,No,21.0,18.0,54.0
+2014-04-16 08:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,49.0,45.0,52.0
+2014-04-16 08:00:00,Cherry Hill,Weekday,Unrestricted Parking,Yes,16.0,17.0,48.0
+2014-04-16 09:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,124.0,70.0
+2014-04-16 09:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,44.0,49.0
+2014-04-16 09:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,95.0,53.0
+2014-04-16 09:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,53.0,50.0
+2014-04-16 09:00:00,Cherry Hill,Weekday,Paid Parking,No,59.0,48.0,55.0
+2014-04-16 09:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,207.0,165.0,56.0
+2014-04-16 09:00:00,Cherry Hill,Weekday,Time Limited Parking,No,21.0,17.0,55.0
+2014-04-16 09:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,65.0,64.0,50.0
+2014-04-16 10:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,162.0,64.0
+2014-04-16 10:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,44.0,49.0
+2014-04-16 10:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,96.0,53.0
+2014-04-16 10:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,52.0,51.0
+2014-04-16 10:00:00,Cherry Hill,Weekday,Paid Parking,No,59.0,48.0,55.0
+2014-04-16 10:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,207.0,169.0,55.0
+2014-04-16 10:00:00,Cherry Hill,Weekday,Time Limited Parking,No,21.0,19.0,52.0
+2014-04-16 10:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,65.0,64.0,50.0
+2014-04-16 11:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,175.0,62.0
+2014-04-16 11:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,44.0,49.0
+2014-04-16 11:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,99.0,52.0
+2014-04-16 11:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,48.0,53.0
+2014-04-16 11:00:00,Cherry Hill,Weekday,Paid Parking,No,59.0,52.0,53.0
+2014-04-16 11:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,207.0,166.0,55.0
+2014-04-16 11:00:00,Cherry Hill,Weekday,Time Limited Parking,No,21.0,16.0,57.0
+2014-04-16 11:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,65.0,64.0,50.0
+2014-04-16 12:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,199.0,59.0
+2014-04-16 12:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,43.0,50.0
+2014-04-16 12:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,103.0,51.0
+2014-04-16 12:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,46.0,54.0
+2014-04-16 12:00:00,Cherry Hill,Weekday,Paid Parking,No,59.0,48.0,55.0
+2014-04-16 12:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,207.0,163.0,56.0
+2014-04-16 12:00:00,Cherry Hill,Weekday,Time Limited Parking,No,21.0,13.0,62.0
+2014-04-16 12:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,65.0,64.0,50.0
+2014-04-16 13:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,203.0,58.0
+2014-04-16 13:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,45.0,49.0
+2014-04-16 13:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,99.0,52.0
+2014-04-16 13:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,41.0,57.0
+2014-04-16 13:00:00,Cherry Hill,Weekday,Paid Parking,No,59.0,55.0,52.0
+2014-04-16 13:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,207.0,162.0,56.0
+2014-04-16 13:00:00,Cherry Hill,Weekday,Time Limited Parking,No,21.0,16.0,57.0
+2014-04-16 13:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,65.0,61.0,52.0
+2014-04-16 14:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,184.0,61.0
+2014-04-16 14:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,48.0,47.0
+2014-04-16 14:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,97.0,53.0
+2014-04-16 14:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,42.0,56.0
+2014-04-16 14:00:00,Cherry Hill,Weekday,Paid Parking,No,59.0,48.0,55.0
+2014-04-16 14:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,207.0,154.0,57.0
+2014-04-16 14:00:00,Cherry Hill,Weekday,Time Limited Parking,No,10.0,9.0,53.0
+2014-04-16 14:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,65.0,59.0,52.0
+2014-04-16 15:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,165.0,63.0
+2014-04-16 15:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,45.0,49.0
+2014-04-16 15:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,99.0,52.0
+2014-04-16 15:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,46.0,54.0
+2014-04-16 15:00:00,Cherry Hill,Weekday,Paid Parking,No,59.0,41.0,59.0
+2014-04-16 15:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,207.0,157.0,57.0
+2014-04-16 15:00:00,Cherry Hill,Weekday,Time Limited Parking,No,21.0,10.0,68.0
+2014-04-16 15:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,65.0,55.0,54.0
+2014-04-16 16:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,144.0,66.0
+2014-04-16 16:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,46.0,48.0
+2014-04-16 16:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,97.0,53.0
+2014-04-16 16:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,37.0,59.0
+2014-04-16 16:00:00,Cherry Hill,Weekday,Paid Parking,No,59.0,38.0,61.0
+2014-04-16 16:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,207.0,152.0,58.0
+2014-04-16 16:00:00,Cherry Hill,Weekday,Time Limited Parking,No,21.0,9.0,70.0
+2014-04-16 16:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,45.0,35.0,56.0
+2014-04-16 16:00:00,Cherry Hill,Weekday,Unrestricted Parking,Yes,20.0,18.0,53.0
+2014-04-16 17:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,193.0,60.0
+2014-04-16 17:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,49.0,47.0
+2014-04-16 17:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,99.0,52.0
+2014-04-16 17:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,45.0,55.0
+2014-04-16 17:00:00,Cherry Hill,Weekday,Paid Parking,No,59.0,39.0,60.0
+2014-04-16 17:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,207.0,148.0,58.0
+2014-04-16 17:00:00,Cherry Hill,Weekday,Time Limited Parking,No,21.0,8.0,72.0
+2014-04-16 17:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,45.0,32.0,58.0
+2014-04-16 17:00:00,Cherry Hill,Weekday,Unrestricted Parking,Yes,20.0,13.0,61.0
+2014-04-16 18:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,195.0,59.0
+2014-04-16 18:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,52.0,45.0
+2014-04-16 18:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,107.0,50.0
+2014-04-16 18:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,42.0,56.0
+2014-04-16 18:00:00,Cherry Hill,Weekday,Paid Parking,No,59.0,41.0,59.0
+2014-04-16 18:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,207.0,136.0,60.0
+2014-04-16 18:00:00,Cherry Hill,Weekday,Time Limited Parking,No,21.0,10.0,68.0
+2014-04-16 18:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,65.0,39.0,62.0
+2014-04-16 19:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,283.0,50.0
+2014-04-16 19:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,52.0,45.0
+2014-04-16 19:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,110.0,50.0
+2014-04-16 19:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,46.0,54.0
+2014-04-16 19:00:00,Cherry Hill,Weekday,Paid Parking,No,59.0,56.0,51.0
+2014-04-16 19:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,207.0,146.0,59.0
+2014-04-16 19:00:00,Cherry Hill,Weekday,Time Limited Parking,No,21.0,13.0,62.0
+2014-04-16 19:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,65.0,46.0,59.0
+2014-04-16 20:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,294.0,49.0
+2014-04-16 20:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,53.0,45.0
+2014-04-16 20:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,111.0,49.0
+2014-04-16 20:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,45.0,55.0
+2014-04-16 20:00:00,Cherry Hill,Weekday,Paid Parking,No,59.0,52.0,53.0
+2014-04-16 20:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,207.0,165.0,56.0
+2014-04-16 20:00:00,Cherry Hill,Weekday,Time Limited Parking,No,21.0,13.0,62.0
+2014-04-16 20:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,65.0,44.0,60.0
+2014-04-16 21:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,274.0,51.0
+2014-04-16 21:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,45.0,49.0
+2014-04-16 21:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,105.0,51.0
+2014-04-16 21:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,44.0,55.0
+2014-04-16 21:00:00,Cherry Hill,Weekday,Paid Parking,No,59.0,44.0,57.0
+2014-04-16 21:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,207.0,150.0,58.0
+2014-04-16 21:00:00,Cherry Hill,Weekday,Time Limited Parking,No,21.0,11.0,66.0
+2014-04-16 21:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,65.0,35.0,65.0
+2014-04-16 22:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,254.0,53.0
+2014-04-16 22:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,35.0,55.0
+2014-04-16 22:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,109.0,50.0
+2014-04-16 22:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,41.0,57.0
+2014-04-16 23:00:00,Capitol Hill,Weekday,Paid Parking,No,284.0,199.0,59.0
+2014-04-16 23:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,43.0,35.0,55.0
+2014-04-16 23:00:00,Capitol Hill,Weekday,Time Limited Parking,No,108.0,100.0,52.0
+2014-04-16 23:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,54.0,36.0,60.0
+2014-04-17 08:00:00,Belltown,Weekday,Paid Parking,No,1087.0,413.0,72.0
+2014-04-17 08:00:00,Little Saigon,Weekday,Time Limited Parking,No,271.0,96.0,74.0
+2014-04-17 08:00:00,Little Saigon,Weekday,Time Limited Parking,TBD,10.0,0.0,100.0
+2014-04-17 08:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,56.0,57.0
+2014-04-17 09:00:00,Belltown,Weekday,Paid Parking,No,1087.0,477.0,70.0
+2014-04-17 09:00:00,Little Saigon,Weekday,Time Limited Parking,No,271.0,119.0,69.0
+2014-04-17 09:00:00,Little Saigon,Weekday,Time Limited Parking,TBD,10.0,0.0,100.0
+2014-04-17 09:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,54.0,57.0
+2014-04-17 10:00:00,Belltown,Weekday,Paid Parking,No,1087.0,595.0,65.0
+2014-04-17 10:00:00,Little Saigon,Weekday,Time Limited Parking,No,271.0,126.0,68.0
+2014-04-17 10:00:00,Little Saigon,Weekday,Time Limited Parking,TBD,10.0,0.0,100.0
+2014-04-17 10:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,54.0,57.0
+2014-04-17 11:00:00,Belltown,Weekday,Paid Parking,No,1087.0,630.0,63.0
+2014-04-17 11:00:00,Little Saigon,Weekday,Time Limited Parking,No,271.0,156.0,63.0
+2014-04-17 11:00:00,Little Saigon,Weekday,Time Limited Parking,TBD,10.0,3.0,77.0
+2014-04-17 11:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,59.0,55.0
+2014-04-17 12:00:00,Belltown,Weekday,Paid Parking,No,1087.0,726.0,60.0
+2014-04-17 12:00:00,Little Saigon,Weekday,Time Limited Parking,No,271.0,159.0,63.0
+2014-04-17 12:00:00,Little Saigon,Weekday,Time Limited Parking,TBD,10.0,4.0,71.0
+2014-04-17 12:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,52.0,58.0
+2014-04-17 13:00:00,Belltown,Weekday,Paid Parking,No,1087.0,731.0,60.0
+2014-04-17 13:00:00,Little Saigon,Weekday,Time Limited Parking,No,271.0,175.0,61.0
+2014-04-17 13:00:00,Little Saigon,Weekday,Time Limited Parking,TBD,10.0,4.0,71.0
+2014-04-17 13:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,56.0,57.0
+2014-04-17 14:00:00,Belltown,Weekday,Paid Parking,No,1087.0,622.0,64.0
+2014-04-17 14:00:00,Little Saigon,Weekday,Time Limited Parking,No,271.0,164.0,62.0
+2014-04-17 14:00:00,Little Saigon,Weekday,Time Limited Parking,TBD,10.0,4.0,71.0
+2014-04-17 14:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,59.0,55.0
+2014-04-17 15:00:00,Belltown,Weekday,Paid Parking,No,1071.0,551.0,66.0
+2014-04-17 15:00:00,Belltown,Weekday,Paid Parking,Yes,16.0,2.0,89.0
+2014-04-17 15:00:00,Little Saigon,Weekday,Time Limited Parking,No,271.0,153.0,64.0
+2014-04-17 15:00:00,Little Saigon,Weekday,Time Limited Parking,TBD,10.0,5.0,67.0
+2014-04-17 15:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,49.0,60.0
+2014-04-17 16:00:00,Belltown,Weekday,Paid Parking,No,1063.0,489.0,68.0
+2014-04-17 16:00:00,Belltown,Weekday,Paid Parking,Yes,24.0,1.0,96.0
+2014-04-17 16:00:00,Little Saigon,Weekday,Time Limited Parking,No,271.0,120.0,69.0
+2014-04-17 16:00:00,Little Saigon,Weekday,Time Limited Parking,TBD,10.0,0.0,100.0
+2014-04-17 16:00:00,Little Saigon,Weekday,Unrestricted Parking,No,59.0,40.0,60.0
+2014-04-17 16:00:00,Little Saigon,Weekday,Unrestricted Parking,Yes,14.0,1.0,93.0
+2014-04-17 17:00:00,Belltown,Weekday,Paid Parking,No,1063.0,567.0,65.0
+2014-04-17 17:00:00,Belltown,Weekday,Paid Parking,Yes,24.0,3.0,89.0
+2014-04-17 17:00:00,Little Saigon,Weekday,Time Limited Parking,No,271.0,101.0,73.0
+2014-04-17 17:00:00,Little Saigon,Weekday,Time Limited Parking,TBD,10.0,0.0,100.0
+2014-04-17 17:00:00,Little Saigon,Weekday,Unrestricted Parking,No,59.0,26.0,69.0
+2014-04-17 17:00:00,Little Saigon,Weekday,Unrestricted Parking,Yes,14.0,0.0,100.0
+2014-04-17 18:00:00,Belltown,Weekday,Paid Parking,No,1087.0,677.0,62.0
+2014-04-17 18:00:00,Little Saigon,Weekday,Time Limited Parking,No,271.0,83.0,77.0
+2014-04-17 18:00:00,Little Saigon,Weekday,Time Limited Parking,TBD,10.0,0.0,100.0
+2014-04-17 18:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,21.0,78.0
+2014-04-17 19:00:00,Belltown,Weekday,Paid Parking,No,1087.0,815.0,57.0
+2014-04-17 19:00:00,Little Saigon,Weekday,Time Limited Parking,No,271.0,83.0,77.0
+2014-04-17 19:00:00,Little Saigon,Weekday,Time Limited Parking,TBD,10.0,0.0,100.0
+2014-04-17 19:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,18.0,80.0
+2014-04-17 20:00:00,Belltown,Weekday,Paid Parking,No,1087.0,748.0,59.0
+2014-04-17 20:00:00,Little Saigon,Weekday,Time Limited Parking,No,271.0,74.0,79.0
+2014-04-17 20:00:00,Little Saigon,Weekday,Time Limited Parking,TBD,10.0,0.0,100.0
+2014-04-17 20:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,12.0,86.0
+2014-04-17 21:00:00,Belltown,Weekday,Paid Parking,No,772.0,483.0,62.0
+2014-04-17 22:00:00,Belltown,Weekday,Paid Parking,No,772.0,481.0,62.0
+2014-04-17 23:00:00,Belltown,Weekday,Paid Parking,No,772.0,505.0,60.0
+2014-04-22 08:00:00,Pioneer Square,Weekday,Paid Parking,No,501.0,290.0,63.0
+2014-04-22 08:00:00,Pioneer Square,Weekday,Paid Parking,TBD,46.0,0.0,100.0
+2014-04-22 08:00:00,Pioneer Square,Weekday,Paid Parking,Yes,75.0,0.0,100.0
+2014-04-22 08:00:00,Pioneer Square,Weekday,Unrestricted Parking,No,20.0,19.0,51.0
+2014-04-22 09:00:00,Pioneer Square,Weekday,Paid Parking,No,576.0,338.0,63.0
+2014-04-22 09:00:00,Pioneer Square,Weekday,Paid Parking,TBD,46.0,7.0,87.0
+2014-04-22 09:00:00,Pioneer Square,Weekday,Unrestricted Parking,No,20.0,20.0,50.0
+2014-04-22 10:00:00,Pioneer Square,Weekday,Paid Parking,No,576.0,404.0,59.0
+2014-04-22 10:00:00,Pioneer Square,Weekday,Paid Parking,TBD,46.0,20.0,70.0
+2014-04-22 10:00:00,Pioneer Square,Weekday,Unrestricted Parking,No,20.0,20.0,50.0
+2014-04-22 11:00:00,Pioneer Square,Weekday,Paid Parking,No,576.0,454.0,56.0
+2014-04-22 11:00:00,Pioneer Square,Weekday,Paid Parking,TBD,46.0,19.0,71.0
+2014-04-22 11:00:00,Pioneer Square,Weekday,Unrestricted Parking,No,20.0,24.0,45.0
+2014-04-22 12:00:00,Pioneer Square,Weekday,Paid Parking,No,576.0,495.0,54.0
+2014-04-22 12:00:00,Pioneer Square,Weekday,Paid Parking,TBD,46.0,48.0,49.0
+2014-04-22 12:00:00,Pioneer Square,Weekday,Unrestricted Parking,No,20.0,20.0,50.0
+2014-04-22 13:00:00,Pioneer Square,Weekday,Paid Parking,No,576.0,527.0,52.0
+2014-04-22 13:00:00,Pioneer Square,Weekday,Paid Parking,TBD,46.0,43.0,52.0
+2014-04-22 13:00:00,Pioneer Square,Weekday,Unrestricted Parking,No,20.0,20.0,50.0
+2014-04-22 14:00:00,Pioneer Square,Weekday,Paid Parking,No,576.0,465.0,55.0
+2014-04-22 14:00:00,Pioneer Square,Weekday,Paid Parking,TBD,46.0,40.0,53.0
+2014-04-22 14:00:00,Pioneer Square,Weekday,Unrestricted Parking,No,20.0,20.0,50.0
+2014-04-22 15:00:00,Pioneer Square,Weekday,Paid Parking,No,510.0,398.0,56.0
+2014-04-22 15:00:00,Pioneer Square,Weekday,Paid Parking,TBD,46.0,33.0,58.0
+2014-04-22 15:00:00,Pioneer Square,Weekday,Paid Parking,Yes,66.0,8.0,89.0
+2014-04-22 15:00:00,Pioneer Square,Weekday,Unrestricted Parking,No,20.0,20.0,50.0
+2014-04-22 16:00:00,Pioneer Square,Weekday,Paid Parking,No,486.0,362.0,57.0
+2014-04-22 16:00:00,Pioneer Square,Weekday,Paid Parking,TBD,46.0,35.0,57.0
+2014-04-22 16:00:00,Pioneer Square,Weekday,Paid Parking,Yes,90.0,3.0,97.0
+2014-04-22 16:00:00,Pioneer Square,Weekday,Unrestricted Parking,No,20.0,20.0,50.0
+2014-04-22 17:00:00,Pioneer Square,Weekday,Paid Parking,No,486.0,323.0,60.0
+2014-04-22 17:00:00,Pioneer Square,Weekday,Paid Parking,TBD,46.0,30.0,61.0
+2014-04-22 17:00:00,Pioneer Square,Weekday,Paid Parking,Yes,90.0,1.0,99.0
+2014-04-22 17:00:00,Pioneer Square,Weekday,Unrestricted Parking,No,20.0,20.0,50.0
+2014-04-22 18:00:00,Pioneer Square,Weekday,Paid Parking,No,534.0,354.0,60.0
+2014-04-22 18:00:00,Pioneer Square,Weekday,Paid Parking,TBD,46.0,34.0,57.0
+2014-04-22 18:00:00,Pioneer Square,Weekday,Paid Parking,Yes,42.0,0.0,100.0
+2014-04-22 18:00:00,Pioneer Square,Weekday,Unrestricted Parking,No,20.0,20.0,50.0
+2014-04-22 19:00:00,Pioneer Square,Weekday,Paid Parking,No,576.0,445.0,56.0
+2014-04-22 19:00:00,Pioneer Square,Weekday,Paid Parking,TBD,46.0,48.0,49.0
+2014-04-22 19:00:00,Pioneer Square,Weekday,Unrestricted Parking,No,20.0,20.0,50.0
+2014-04-22 20:00:00,Pioneer Square,Weekday,Paid Parking,No,576.0,420.0,58.0
+2014-04-22 20:00:00,Pioneer Square,Weekday,Paid Parking,TBD,46.0,45.0,51.0
+2014-04-22 20:00:00,Pioneer Square,Weekday,Unrestricted Parking,No,20.0,20.0,50.0
+2014-04-23 08:00:00,Commercial Core,Weekday,Paid Parking,TBD,11.0,8.0,58.0
+2014-04-23 08:00:00,Denny Triangle,Weekday,Paid Parking,No,523.0,281.0,65.0
+2014-04-23 08:00:00,Denny Triangle,Weekday,Paid Parking,Yes,77.0,2.0,97.0
+2014-04-23 09:00:00,Commercial Core,Weekday,Paid Parking,TBD,11.0,9.0,55.0
+2014-04-23 09:00:00,Denny Triangle,Weekday,Paid Parking,No,600.0,338.0,64.0
+2014-04-23 10:00:00,Commercial Core,Weekday,Paid Parking,TBD,11.0,9.0,55.0
+2014-04-23 10:00:00,Denny Triangle,Weekday,Paid Parking,No,600.0,386.0,61.0
+2014-04-23 11:00:00,Commercial Core,Weekday,Paid Parking,TBD,11.0,10.0,52.0
+2014-04-23 11:00:00,Denny Triangle,Weekday,Paid Parking,No,600.0,419.0,59.0
+2014-04-23 12:00:00,Commercial Core,Weekday,Paid Parking,TBD,11.0,10.0,52.0
+2014-04-23 12:00:00,Denny Triangle,Weekday,Paid Parking,No,600.0,418.0,59.0
+2014-04-23 13:00:00,Commercial Core,Weekday,Paid Parking,TBD,11.0,11.0,50.0
+2014-04-23 13:00:00,Denny Triangle,Weekday,Paid Parking,No,600.0,429.0,58.0
+2014-04-23 14:00:00,Commercial Core,Weekday,Paid Parking,TBD,11.0,13.0,46.0
+2014-04-23 14:00:00,Denny Triangle,Weekday,Paid Parking,No,600.0,425.0,59.0
+2014-04-23 15:00:00,Commercial Core,Weekday,Paid Parking,Yes,11.0,2.0,85.0
+2014-04-23 15:00:00,Denny Triangle,Weekday,Paid Parking,No,532.0,376.0,59.0
+2014-04-23 15:00:00,Denny Triangle,Weekday,Paid Parking,Yes,68.0,21.0,76.0
+2014-04-23 16:00:00,Commercial Core,Weekday,Paid Parking,Yes,11.0,0.0,100.0
+2014-04-23 16:00:00,Denny Triangle,Weekday,Paid Parking,No,522.0,311.0,63.0
+2014-04-23 16:00:00,Denny Triangle,Weekday,Paid Parking,Yes,78.0,0.0,100.0
+2014-04-23 17:00:00,Commercial Core,Weekday,Paid Parking,Yes,11.0,0.0,100.0
+2014-04-23 17:00:00,Denny Triangle,Weekday,Paid Parking,No,522.0,328.0,61.0
+2014-04-23 17:00:00,Denny Triangle,Weekday,Paid Parking,Yes,78.0,2.0,98.0
+2014-04-23 18:00:00,Commercial Core,Weekday,Paid Parking,Yes,11.0,0.0,100.0
+2014-04-23 18:00:00,Denny Triangle,Weekday,Paid Parking,No,563.0,375.0,60.0
+2014-04-23 18:00:00,Denny Triangle,Weekday,Paid Parking,Yes,37.0,0.0,100.0
+2014-04-23 19:00:00,Commercial Core,Weekday,Paid Parking,TBD,11.0,6.0,65.0
+2014-04-23 19:00:00,Denny Triangle,Weekday,Paid Parking,No,600.0,493.0,55.0
+2014-04-23 20:00:00,Commercial Core,Weekday,Paid Parking,TBD,11.0,11.0,50.0
+2014-04-23 20:00:00,Denny Triangle,Weekday,Paid Parking,No,600.0,492.0,55.0
+2014-04-24 00:00:00,Pike,Weekday,Paid Parking,No,405.0,365.0,53.0
+2014-04-24 00:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,119.0,46.0
+2014-04-24 00:00:00,Pike,Weekday,Time Limited Parking,No,87.0,58.0,60.0
+2014-04-24 01:00:00,Pike,Weekday,Paid Parking,No,405.0,223.0,64.0
+2014-04-24 01:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,95.0,52.0
+2014-04-24 01:00:00,Pike,Weekday,Time Limited Parking,No,87.0,45.0,66.0
+2014-04-24 02:00:00,Pike,Weekday,Paid Parking,No,405.0,185.0,69.0
+2014-04-24 02:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,91.0,53.0
+2014-04-24 02:00:00,Pike,Weekday,Time Limited Parking,No,87.0,36.0,71.0
+2014-04-24 08:00:00,Pike,Weekday,Paid Parking,No,383.0,129.0,75.0
+2014-04-24 08:00:00,Pike,Weekday,Paid Parking,Yes,22.0,0.0,100.0
+2014-04-24 08:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,71.0,59.0
+2014-04-24 08:00:00,Pike,Weekday,Time Limited Parking,No,87.0,63.0,58.0
+2014-04-24 09:00:00,Pike,Weekday,Paid Parking,No,405.0,192.0,68.0
+2014-04-24 09:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,92.0,53.0
+2014-04-24 09:00:00,Pike,Weekday,Time Limited Parking,No,87.0,74.0,54.0
+2014-04-24 10:00:00,Pike,Weekday,Paid Parking,No,405.0,261.0,61.0
+2014-04-24 10:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,84.0,55.0
+2014-04-24 10:00:00,Pike,Weekday,Time Limited Parking,No,87.0,81.0,52.0
+2014-04-24 11:00:00,Pike,Weekday,Paid Parking,No,405.0,255.0,61.0
+2014-04-24 11:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,90.0,53.0
+2014-04-24 11:00:00,Pike,Weekday,Time Limited Parking,No,87.0,84.0,51.0
+2014-04-24 12:00:00,Pike,Weekday,Paid Parking,No,405.0,295.0,58.0
+2014-04-24 12:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,88.0,54.0
+2014-04-24 12:00:00,Pike,Weekday,Time Limited Parking,No,87.0,82.0,51.0
+2014-04-24 13:00:00,Pike,Weekday,Paid Parking,No,405.0,319.0,56.0
+2014-04-24 13:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,90.0,53.0
+2014-04-24 13:00:00,Pike,Weekday,Time Limited Parking,No,87.0,86.0,50.0
+2014-04-24 14:00:00,Pike,Weekday,Paid Parking,No,405.0,290.0,58.0
+2014-04-24 14:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,92.0,53.0
+2014-04-24 14:00:00,Pike,Weekday,Time Limited Parking,No,87.0,79.0,52.0
+2014-04-24 15:00:00,Pike,Weekday,Paid Parking,No,400.0,262.0,60.0
+2014-04-24 15:00:00,Pike,Weekday,Paid Parking,Yes,5.0,0.0,100.0
+2014-04-24 15:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,91.0,53.0
+2014-04-24 15:00:00,Pike,Weekday,Time Limited Parking,No,87.0,77.0,53.0
+2014-04-24 16:00:00,Pike,Weekday,Paid Parking,No,400.0,292.0,58.0
+2014-04-24 16:00:00,Pike,Weekday,Paid Parking,Yes,5.0,0.0,100.0
+2014-04-24 16:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,98.0,51.0
+2014-04-24 16:00:00,Pike,Weekday,Time Limited Parking,No,87.0,80.0,52.0
+2014-04-24 17:00:00,Pike,Weekday,Paid Parking,No,400.0,316.0,56.0
+2014-04-24 17:00:00,Pike,Weekday,Paid Parking,Yes,5.0,0.0,100.0
+2014-04-24 17:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,103.0,50.0
+2014-04-24 17:00:00,Pike,Weekday,Time Limited Parking,No,87.0,81.0,52.0
+2014-04-24 18:00:00,Pike,Weekday,Paid Parking,No,400.0,409.0,49.0
+2014-04-24 18:00:00,Pike,Weekday,Paid Parking,Yes,5.0,0.0,100.0
+2014-04-24 18:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,120.0,46.0
+2014-04-24 18:00:00,Pike,Weekday,Time Limited Parking,No,87.0,96.0,48.0
+2014-04-24 19:00:00,Pike,Weekday,Paid Parking,No,405.0,424.0,49.0
+2014-04-24 19:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,126.0,45.0
+2014-04-24 19:00:00,Pike,Weekday,Time Limited Parking,No,87.0,96.0,48.0
+2014-04-24 20:00:00,Pike,Weekday,Paid Parking,No,405.0,404.0,50.0
+2014-04-24 20:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,119.0,46.0
+2014-04-24 20:00:00,Pike,Weekday,Time Limited Parking,No,87.0,79.0,52.0
+2014-04-24 21:00:00,Pike,Weekday,Paid Parking,No,405.0,427.0,49.0
+2014-04-24 21:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,114.0,47.0
+2014-04-24 21:00:00,Pike,Weekday,Time Limited Parking,No,87.0,94.0,48.0
+2014-04-24 22:00:00,Pike,Weekday,Paid Parking,No,405.0,417.0,49.0
+2014-04-24 22:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,105.0,49.0
+2014-04-24 22:00:00,Pike,Weekday,Time Limited Parking,No,87.0,87.0,50.0
+2014-04-24 23:00:00,Pike,Weekday,Paid Parking,No,405.0,413.0,50.0
+2014-04-24 23:00:00,Pike,Weekday,Restricted Parking Zone,No,102.0,115.0,47.0
+2014-04-24 23:00:00,Pike,Weekday,Time Limited Parking,No,87.0,77.0,53.0
+2014-04-26 08:00:00,Chinatown,Weekend,Paid Parking,No,416.0,108.0,79.0
+2014-04-26 08:00:00,Commercial Core,Weekend,Paid Parking,No,164.0,32.0,84.0
+2014-04-26 08:00:00,Pioneer Square,Weekend,Paid Parking,No,562.0,119.0,83.0
+2014-04-26 09:00:00,Chinatown,Weekend,Paid Parking,No,416.0,159.0,72.0
+2014-04-26 09:00:00,Commercial Core,Weekend,Paid Parking,No,164.0,39.0,81.0
+2014-04-26 09:00:00,Pioneer Square,Weekend,Paid Parking,No,562.0,177.0,76.0
+2014-04-26 10:00:00,Chinatown,Weekend,Paid Parking,No,416.0,233.0,64.0
+2014-04-26 10:00:00,Commercial Core,Weekend,Paid Parking,No,164.0,45.0,78.0
+2014-04-26 10:00:00,Pioneer Square,Weekend,Paid Parking,No,562.0,205.0,73.0
+2014-04-26 11:00:00,Chinatown,Weekend,Paid Parking,No,416.0,319.0,57.0
+2014-04-26 11:00:00,Commercial Core,Weekend,Paid Parking,No,164.0,74.0,69.0
+2014-04-26 11:00:00,Pioneer Square,Weekend,Paid Parking,No,562.0,297.0,65.0
+2014-04-26 12:00:00,Chinatown,Weekend,Paid Parking,No,416.0,375.0,53.0
+2014-04-26 12:00:00,Commercial Core,Weekend,Paid Parking,No,164.0,109.0,60.0
+2014-04-26 12:00:00,Pioneer Square,Weekend,Paid Parking,No,562.0,382.0,60.0
+2014-04-26 13:00:00,Chinatown,Weekend,Paid Parking,No,416.0,435.0,49.0
+2014-04-26 13:00:00,Commercial Core,Weekend,Paid Parking,No,164.0,127.0,56.0
+2014-04-26 13:00:00,Pioneer Square,Weekend,Paid Parking,No,562.0,504.0,53.0
+2014-04-26 14:00:00,Chinatown,Weekend,Paid Parking,No,416.0,409.0,50.0
+2014-04-26 14:00:00,Commercial Core,Weekend,Paid Parking,No,164.0,130.0,56.0
+2014-04-26 14:00:00,Pioneer Square,Weekend,Paid Parking,No,562.0,529.0,52.0
+2014-04-26 15:00:00,Chinatown,Weekend,Paid Parking,No,416.0,328.0,56.0
+2014-04-26 15:00:00,Commercial Core,Weekend,Paid Parking,No,164.0,128.0,56.0
+2014-04-26 15:00:00,Pioneer Square,Weekend,Paid Parking,No,562.0,396.0,59.0
+2014-04-26 16:00:00,Chinatown,Weekend,Paid Parking,No,416.0,263.0,61.0
+2014-04-26 16:00:00,Commercial Core,Weekend,Paid Parking,No,164.0,114.0,59.0
+2014-04-26 16:00:00,Pioneer Square,Weekend,Paid Parking,No,562.0,379.0,60.0
+2014-04-26 17:00:00,Chinatown,Weekend,Paid Parking,No,416.0,312.0,57.0
+2014-04-26 17:00:00,Commercial Core,Weekend,Paid Parking,No,164.0,111.0,60.0
+2014-04-26 17:00:00,Pioneer Square,Weekend,Paid Parking,No,562.0,388.0,59.0
+2014-04-26 18:00:00,Chinatown,Weekend,Paid Parking,No,416.0,426.0,49.0
+2014-04-26 18:00:00,Commercial Core,Weekend,Paid Parking,No,164.0,104.0,61.0
+2014-04-26 18:00:00,Pioneer Square,Weekend,Paid Parking,No,562.0,480.0,54.0
+2014-04-26 19:00:00,Chinatown,Weekend,Paid Parking,No,416.0,458.0,48.0
+2014-04-26 19:00:00,Commercial Core,Weekend,Paid Parking,No,164.0,92.0,64.0
+2014-04-26 19:00:00,Pioneer Square,Weekend,Paid Parking,No,562.0,500.0,53.0
+2014-04-26 20:00:00,Chinatown,Weekend,Paid Parking,No,416.0,466.0,47.0
+2014-04-26 20:00:00,Commercial Core,Weekend,Paid Parking,No,164.0,111.0,60.0
+2014-04-26 20:00:00,Pioneer Square,Weekend,Paid Parking,No,562.0,504.0,53.0
+2014-04-29 08:00:00,South Lake Union,Weekday,Paid Parking,No,1052.0,731.0,59.0
+2014-04-29 08:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,127.0,108.0,54.0
+2014-04-29 09:00:00,South Lake Union,Weekday,Paid Parking,No,1052.0,811.0,56.0
+2014-04-29 09:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,127.0,115.0,52.0
+2014-04-29 10:00:00,South Lake Union,Weekday,Paid Parking,No,1052.0,909.0,54.0
+2014-04-29 10:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,127.0,132.0,49.0
+2014-04-29 11:00:00,South Lake Union,Weekday,Paid Parking,No,1052.0,942.0,53.0
+2014-04-29 11:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,127.0,127.0,50.0
+2014-04-29 12:00:00,South Lake Union,Weekday,Paid Parking,No,1052.0,962.0,52.0
+2014-04-29 12:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,127.0,130.0,49.0
+2014-04-29 13:00:00,South Lake Union,Weekday,Paid Parking,No,1052.0,960.0,52.0
+2014-04-29 13:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,127.0,122.0,51.0
+2014-04-29 14:00:00,South Lake Union,Weekday,Paid Parking,No,1052.0,896.0,54.0
+2014-04-29 14:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,127.0,120.0,51.0
+2014-04-29 15:00:00,South Lake Union,Weekday,Paid Parking,No,1052.0,793.0,57.0
+2014-04-29 15:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,127.0,112.0,53.0
+2014-04-29 16:00:00,South Lake Union,Weekday,Paid Parking,No,1052.0,686.0,61.0
+2014-04-29 16:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,127.0,109.0,54.0
+2014-04-29 17:00:00,South Lake Union,Weekday,Paid Parking,No,1052.0,584.0,64.0
+2014-04-29 17:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,127.0,107.0,54.0
+2014-04-29 18:00:00,South Lake Union,Weekday,Paid Parking,No,1052.0,598.0,64.0
+2014-04-29 18:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,127.0,104.0,55.0
+2014-04-29 19:00:00,South Lake Union,Weekday,Paid Parking,No,1052.0,614.0,63.0
+2014-04-29 19:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,127.0,109.0,54.0
+2014-04-29 20:00:00,South Lake Union,Weekday,Paid Parking,No,1052.0,517.0,67.0
+2014-04-29 20:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,127.0,104.0,55.0
+2014-04-30 08:00:00,First Hill,Weekday,Paid Parking,No,541.0,393.0,58.0
+2014-04-30 08:00:00,First Hill,Weekday,Paid Parking,Yes,6.0,0.0,100.0
+2014-04-30 08:00:00,First Hill,Weekday,Restricted Parking Zone,No,465.0,487.0,49.0
+2014-04-30 08:00:00,Little Saigon,Weekday,Time Limited Parking,No,318.0,28.0,92.0
+2014-04-30 08:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,16.0,82.0
+2014-04-30 09:00:00,First Hill,Weekday,Paid Parking,No,547.0,434.0,56.0
+2014-04-30 09:00:00,First Hill,Weekday,Restricted Parking Zone,No,465.0,474.0,50.0
+2014-04-30 09:00:00,Little Saigon,Weekday,Time Limited Parking,No,318.0,59.0,84.0
+2014-04-30 09:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,22.0,77.0
+2014-04-30 10:00:00,First Hill,Weekday,Paid Parking,No,547.0,463.0,54.0
+2014-04-30 10:00:00,First Hill,Weekday,Restricted Parking Zone,No,465.0,481.0,49.0
+2014-04-30 10:00:00,Little Saigon,Weekday,Time Limited Parking,No,318.0,114.0,74.0
+2014-04-30 10:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,29.0,72.0
+2014-04-30 11:00:00,First Hill,Weekday,Paid Parking,No,547.0,454.0,55.0
+2014-04-30 11:00:00,First Hill,Weekday,Restricted Parking Zone,No,465.0,471.0,50.0
+2014-04-30 11:00:00,Little Saigon,Weekday,Time Limited Parking,No,318.0,155.0,67.0
+2014-04-30 11:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,39.0,65.0
+2014-04-30 12:00:00,First Hill,Weekday,Paid Parking,No,547.0,466.0,54.0
+2014-04-30 12:00:00,First Hill,Weekday,Restricted Parking Zone,No,465.0,480.0,49.0
+2014-04-30 12:00:00,Little Saigon,Weekday,Time Limited Parking,No,318.0,164.0,66.0
+2014-04-30 12:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,41.0,64.0
+2014-04-30 13:00:00,First Hill,Weekday,Paid Parking,No,547.0,443.0,55.0
+2014-04-30 13:00:00,First Hill,Weekday,Restricted Parking Zone,No,465.0,477.0,49.0
+2014-04-30 13:00:00,Little Saigon,Weekday,Time Limited Parking,No,318.0,160.0,67.0
+2014-04-30 13:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,47.0,61.0
+2014-04-30 14:00:00,First Hill,Weekday,Paid Parking,No,547.0,429.0,56.0
+2014-04-30 14:00:00,First Hill,Weekday,Restricted Parking Zone,No,465.0,464.0,50.0
+2014-04-30 14:00:00,Little Saigon,Weekday,Time Limited Parking,No,318.0,163.0,66.0
+2014-04-30 14:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,48.0,60.0
+2014-04-30 15:00:00,First Hill,Weekday,Paid Parking,No,509.0,410.0,55.0
+2014-04-30 15:00:00,First Hill,Weekday,Paid Parking,Yes,38.0,0.0,100.0
+2014-04-30 15:00:00,First Hill,Weekday,Restricted Parking Zone,No,465.0,452.0,51.0
+2014-04-30 15:00:00,Little Saigon,Weekday,Time Limited Parking,No,318.0,136.0,70.0
+2014-04-30 15:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,34.0,68.0
+2014-04-30 16:00:00,First Hill,Weekday,Paid Parking,No,509.0,350.0,59.0
+2014-04-30 16:00:00,First Hill,Weekday,Paid Parking,Yes,38.0,1.0,97.0
+2014-04-30 16:00:00,First Hill,Weekday,Restricted Parking Zone,No,465.0,448.0,51.0
+2014-04-30 16:00:00,Little Saigon,Weekday,Time Limited Parking,No,318.0,115.0,73.0
+2014-04-30 16:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,28.0,72.0
+2014-04-30 17:00:00,First Hill,Weekday,Paid Parking,No,509.0,287.0,64.0
+2014-04-30 17:00:00,First Hill,Weekday,Paid Parking,Yes,38.0,0.0,100.0
+2014-04-30 17:00:00,First Hill,Weekday,Restricted Parking Zone,No,465.0,436.0,52.0
+2014-04-30 17:00:00,Little Saigon,Weekday,Time Limited Parking,No,318.0,92.0,78.0
+2014-04-30 17:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,21.0,78.0
+2014-04-30 18:00:00,First Hill,Weekday,Paid Parking,No,513.0,390.0,57.0
+2014-04-30 18:00:00,First Hill,Weekday,Paid Parking,Yes,34.0,0.0,100.0
+2014-04-30 18:00:00,First Hill,Weekday,Restricted Parking Zone,No,465.0,449.0,51.0
+2014-04-30 18:00:00,Little Saigon,Weekday,Time Limited Parking,No,318.0,85.0,79.0
+2014-04-30 18:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,18.0,80.0
+2014-04-30 19:00:00,First Hill,Weekday,Paid Parking,No,547.0,440.0,55.0
+2014-04-30 19:00:00,First Hill,Weekday,Restricted Parking Zone,No,465.0,481.0,49.0
+2014-04-30 19:00:00,Little Saigon,Weekday,Time Limited Parking,No,318.0,84.0,79.0
+2014-04-30 19:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,18.0,80.0
+2014-04-30 20:00:00,First Hill,Weekday,Paid Parking,No,547.0,441.0,55.0
+2014-04-30 20:00:00,First Hill,Weekday,Restricted Parking Zone,No,465.0,490.0,49.0
+2014-04-30 20:00:00,Little Saigon,Weekday,Time Limited Parking,No,318.0,67.0,83.0
+2014-04-30 20:00:00,Little Saigon,Weekday,Unrestricted Parking,No,73.0,12.0,86.0
+2014-04-30 21:00:00,First Hill,Weekday,Paid Parking,No,547.0,450.0,55.0
+2014-04-30 21:00:00,First Hill,Weekday,Restricted Parking Zone,No,465.0,498.0,48.0
+2014-04-30 22:00:00,First Hill,Weekday,Paid Parking,No,547.0,404.0,58.0
+2014-04-30 22:00:00,First Hill,Weekday,Restricted Parking Zone,No,465.0,483.0,49.0
+2014-05-04 08:00:00,Chinatown,Weekend,Paid Parking,No,411.0,189.0,68.0
+2014-05-04 09:00:00,Chinatown,Weekend,Paid Parking,No,411.0,276.0,60.0
+2014-05-04 10:00:00,Chinatown,Weekend,Paid Parking,No,411.0,348.0,54.0
+2014-05-04 11:00:00,Chinatown,Weekend,Paid Parking,No,411.0,416.0,50.0
+2014-05-04 12:00:00,Chinatown,Weekend,Paid Parking,No,411.0,421.0,49.0
+2014-05-04 13:00:00,Chinatown,Weekend,Paid Parking,No,411.0,423.0,49.0
+2014-05-04 14:00:00,Chinatown,Weekend,Paid Parking,No,411.0,424.0,49.0
+2014-05-04 15:00:00,Chinatown,Weekend,Paid Parking,No,392.0,380.0,51.0
+2014-05-04 15:00:00,Chinatown,Weekend,Paid Parking,Yes,19.0,20.0,49.0
+2014-05-04 16:00:00,Chinatown,Weekend,Paid Parking,No,392.0,318.0,55.0
+2014-05-04 16:00:00,Chinatown,Weekend,Paid Parking,Yes,19.0,18.0,51.0
+2014-05-04 17:00:00,Chinatown,Weekend,Paid Parking,No,392.0,344.0,53.0
+2014-05-04 17:00:00,Chinatown,Weekend,Paid Parking,Yes,19.0,18.0,51.0
+2014-05-04 18:00:00,Chinatown,Weekend,Paid Parking,No,392.0,364.0,52.0
+2014-05-04 18:00:00,Chinatown,Weekend,Paid Parking,Yes,19.0,18.0,51.0
+2014-05-04 19:00:00,Chinatown,Weekend,Paid Parking,No,411.0,388.0,51.0
+2014-05-04 20:00:00,Chinatown,Weekend,Paid Parking,No,411.0,344.0,54.0
+2014-05-06 08:00:00,Commercial Core,Weekday,Paid Parking,No,590.0,370.0,61.0
+2014-05-06 08:00:00,Commercial Core,Weekday,Paid Parking,Yes,123.0,4.0,97.0
+2014-05-06 09:00:00,Commercial Core,Weekday,Paid Parking,No,704.0,451.0,61.0
+2014-05-06 09:00:00,Commercial Core,Weekday,Paid Parking,Yes,9.0,0.0,100.0
+2014-05-06 10:00:00,Commercial Core,Weekday,Paid Parking,No,704.0,568.0,55.0
+2014-05-06 10:00:00,Commercial Core,Weekday,Paid Parking,Yes,9.0,0.0,100.0
+2014-05-06 11:00:00,Commercial Core,Weekday,Paid Parking,No,704.0,596.0,54.0
+2014-05-06 11:00:00,Commercial Core,Weekday,Paid Parking,Yes,9.0,0.0,100.0
+2014-05-06 12:00:00,Commercial Core,Weekday,Paid Parking,No,704.0,592.0,54.0
+2014-05-06 12:00:00,Commercial Core,Weekday,Paid Parking,Yes,9.0,0.0,100.0
+2014-05-06 13:00:00,Commercial Core,Weekday,Paid Parking,No,704.0,578.0,55.0
+2014-05-06 13:00:00,Commercial Core,Weekday,Paid Parking,Yes,9.0,0.0,100.0
+2014-05-06 14:00:00,Commercial Core,Weekday,Paid Parking,No,713.0,537.0,57.0
+2014-05-06 15:00:00,Commercial Core,Weekday,Paid Parking,No,549.0,381.0,59.0
+2014-05-06 15:00:00,Commercial Core,Weekday,Paid Parking,Yes,164.0,21.0,89.0
+2014-05-06 16:00:00,Commercial Core,Weekday,Paid Parking,No,520.0,331.0,61.0
+2014-05-06 16:00:00,Commercial Core,Weekday,Paid Parking,Yes,193.0,20.0,91.0
+2014-05-06 17:00:00,Commercial Core,Weekday,Paid Parking,No,520.0,338.0,61.0
+2014-05-06 17:00:00,Commercial Core,Weekday,Paid Parking,Yes,193.0,14.0,93.0
+2014-05-06 18:00:00,Commercial Core,Weekday,Paid Parking,No,555.0,408.0,58.0
+2014-05-06 18:00:00,Commercial Core,Weekday,Paid Parking,Yes,158.0,12.0,93.0
+2014-05-06 19:00:00,Commercial Core,Weekday,Paid Parking,No,713.0,533.0,57.0
+2014-05-06 20:00:00,Commercial Core,Weekday,Paid Parking,No,713.0,589.0,55.0
+2014-05-06 21:00:00,Commercial Core,Weekday,Paid Parking,No,395.0,270.0,59.0
+2014-05-06 22:00:00,Commercial Core,Weekday,Paid Parking,No,395.0,222.0,64.0
+2014-05-07 08:00:00,Ballard,Weekday,Paid Parking,No,300.0,84.0,78.0
+2014-05-07 08:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,116.0,64.0
+2014-05-07 08:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,157.0,55.0
+2014-05-07 08:00:00,Roosevelt,Weekday,Paid Parking,No,78.0,21.0,79.0
+2014-05-07 08:00:00,Roosevelt,Weekday,Paid Parking,Yes,17.0,0.0,100.0
+2014-05-07 08:00:00,Roosevelt,Weekday,Time Limited Parking,No,87.0,19.0,82.0
+2014-05-07 08:00:00,Roosevelt,Weekday,Time Limited Parking,Yes,17.0,0.0,100.0
+2014-05-07 08:00:00,Roosevelt,Weekday,Unrestricted Parking,No,18.0,18.0,50.0
+2014-05-07 08:00:00,Roosevelt,Weekday,Unrestricted Parking,Yes,8.0,9.0,47.0
+2014-05-07 09:00:00,Ballard,Weekday,Paid Parking,No,300.0,112.0,73.0
+2014-05-07 09:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,130.0,61.0
+2014-05-07 09:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,165.0,53.0
+2014-05-07 09:00:00,Roosevelt,Weekday,Paid Parking,No,95.0,28.0,77.0
+2014-05-07 09:00:00,Roosevelt,Weekday,Time Limited Parking,No,103.0,29.0,78.0
+2014-05-07 09:00:00,Roosevelt,Weekday,Unrestricted Parking,No,26.0,26.0,50.0
+2014-05-07 10:00:00,Ballard,Weekday,Paid Parking,No,300.0,143.0,68.0
+2014-05-07 10:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,142.0,59.0
+2014-05-07 10:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,166.0,53.0
+2014-05-07 10:00:00,Roosevelt,Weekday,Paid Parking,No,95.0,42.0,69.0
+2014-05-07 10:00:00,Roosevelt,Weekday,Time Limited Parking,No,103.0,26.0,80.0
+2014-05-07 10:00:00,Roosevelt,Weekday,Unrestricted Parking,No,26.0,27.0,49.0
+2014-05-07 11:00:00,Ballard,Weekday,Paid Parking,No,300.0,171.0,64.0
+2014-05-07 11:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,175.0,54.0
+2014-05-07 11:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,171.0,52.0
+2014-05-07 11:00:00,Roosevelt,Weekday,Paid Parking,No,95.0,54.0,64.0
+2014-05-07 11:00:00,Roosevelt,Weekday,Time Limited Parking,No,103.0,23.0,82.0
+2014-05-07 11:00:00,Roosevelt,Weekday,Unrestricted Parking,No,26.0,24.0,52.0
+2014-05-07 12:00:00,Ballard,Weekday,Paid Parking,No,300.0,175.0,63.0
+2014-05-07 12:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,190.0,52.0
+2014-05-07 12:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,171.0,52.0
+2014-05-07 12:00:00,Roosevelt,Weekday,Paid Parking,No,95.0,38.0,71.0
+2014-05-07 12:00:00,Roosevelt,Weekday,Time Limited Parking,No,103.0,24.0,81.0
+2014-05-07 12:00:00,Roosevelt,Weekday,Unrestricted Parking,No,26.0,17.0,60.0
+2014-05-07 13:00:00,Ballard,Weekday,Paid Parking,No,300.0,187.0,62.0
+2014-05-07 13:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,179.0,53.0
+2014-05-07 13:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,175.0,52.0
+2014-05-07 13:00:00,Roosevelt,Weekday,Paid Parking,No,95.0,49.0,66.0
+2014-05-07 13:00:00,Roosevelt,Weekday,Time Limited Parking,No,103.0,39.0,73.0
+2014-05-07 13:00:00,Roosevelt,Weekday,Unrestricted Parking,No,26.0,23.0,53.0
+2014-05-07 14:00:00,Ballard,Weekday,Paid Parking,No,300.0,195.0,61.0
+2014-05-07 14:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,167.0,55.0
+2014-05-07 14:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,164.0,54.0
+2014-05-07 14:00:00,Roosevelt,Weekday,Paid Parking,No,95.0,44.0,68.0
+2014-05-07 14:00:00,Roosevelt,Weekday,Time Limited Parking,No,103.0,38.0,73.0
+2014-05-07 14:00:00,Roosevelt,Weekday,Unrestricted Parking,No,26.0,21.0,55.0
+2014-05-07 15:00:00,Ballard,Weekday,Paid Parking,No,300.0,141.0,68.0
+2014-05-07 15:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,154.0,57.0
+2014-05-07 15:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,155.0,55.0
+2014-05-07 15:00:00,Roosevelt,Weekday,Paid Parking,No,80.0,43.0,65.0
+2014-05-07 15:00:00,Roosevelt,Weekday,Paid Parking,Yes,15.0,5.0,75.0
+2014-05-07 15:00:00,Roosevelt,Weekday,Time Limited Parking,No,103.0,21.0,83.0
+2014-05-07 15:00:00,Roosevelt,Weekday,Unrestricted Parking,No,26.0,22.0,54.0
+2014-05-07 16:00:00,Ballard,Weekday,Paid Parking,No,300.0,161.0,65.0
+2014-05-07 16:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,169.0,55.0
+2014-05-07 16:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,150.0,56.0
+2014-05-07 16:00:00,Roosevelt,Weekday,Paid Parking,No,67.0,41.0,62.0
+2014-05-07 16:00:00,Roosevelt,Weekday,Paid Parking,Yes,28.0,0.0,100.0
+2014-05-07 16:00:00,Roosevelt,Weekday,Time Limited Parking,No,54.0,24.0,69.0
+2014-05-07 16:00:00,Roosevelt,Weekday,Time Limited Parking,Yes,49.0,18.0,73.0
+2014-05-07 16:00:00,Roosevelt,Weekday,Unrestricted Parking,No,26.0,21.0,55.0
+2014-05-07 17:00:00,Ballard,Weekday,Paid Parking,No,300.0,174.0,63.0
+2014-05-07 17:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,188.0,52.0
+2014-05-07 17:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,142.0,57.0
+2014-05-07 17:00:00,Roosevelt,Weekday,Paid Parking,No,67.0,50.0,57.0
+2014-05-07 17:00:00,Roosevelt,Weekday,Paid Parking,Yes,28.0,0.0,100.0
+2014-05-07 17:00:00,Roosevelt,Weekday,Time Limited Parking,No,54.0,30.0,64.0
+2014-05-07 17:00:00,Roosevelt,Weekday,Time Limited Parking,Yes,49.0,0.0,100.0
+2014-05-07 17:00:00,Roosevelt,Weekday,Unrestricted Parking,No,26.0,22.0,54.0
+2014-05-07 18:00:00,Ballard,Weekday,Paid Parking,No,300.0,229.0,57.0
+2014-05-07 18:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,208.0,50.0
+2014-05-07 18:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,152.0,55.0
+2014-05-07 18:00:00,Roosevelt,Weekday,Paid Parking,No,95.0,63.0,60.0
+2014-05-07 18:00:00,Roosevelt,Weekday,Time Limited Parking,No,103.0,30.0,77.0
+2014-05-07 18:00:00,Roosevelt,Weekday,Unrestricted Parking,No,26.0,23.0,53.0
+2014-05-07 19:00:00,Ballard,Weekday,Paid Parking,No,300.0,269.0,53.0
+2014-05-07 19:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,209.0,49.0
+2014-05-07 19:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,158.0,54.0
+2014-05-07 19:00:00,Roosevelt,Weekday,Paid Parking,No,95.0,61.0,61.0
+2014-05-07 19:00:00,Roosevelt,Weekday,Time Limited Parking,No,103.0,26.0,80.0
+2014-05-07 19:00:00,Roosevelt,Weekday,Unrestricted Parking,No,26.0,23.0,53.0
+2014-05-07 20:00:00,Ballard,Weekday,Paid Parking,No,300.0,262.0,53.0
+2014-05-07 20:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,215.0,49.0
+2014-05-07 20:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,160.0,54.0
+2014-05-07 20:00:00,Roosevelt,Weekday,Paid Parking,No,95.0,65.0,59.0
+2014-05-07 20:00:00,Roosevelt,Weekday,Time Limited Parking,No,103.0,35.0,75.0
+2014-05-07 20:00:00,Roosevelt,Weekday,Unrestricted Parking,No,26.0,25.0,51.0
+2014-05-07 21:00:00,Ballard,Weekday,Paid Parking,No,300.0,186.0,62.0
+2014-05-07 21:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,197.0,51.0
+2014-05-07 21:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,142.0,57.0
+2014-05-07 22:00:00,Ballard,Weekday,Paid Parking,No,300.0,130.0,70.0
+2014-05-07 22:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,171.0,54.0
+2014-05-07 22:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,109.0,63.0
+2014-05-07 23:00:00,Ballard,Weekday,Paid Parking,No,300.0,92.0,77.0
+2014-05-07 23:00:00,Ballard,Weekday,Time Limited Parking,No,204.0,137.0,60.0
+2014-05-07 23:00:00,Ballard,Weekday,Unrestricted Parking,No,189.0,79.0,71.0
+2014-05-08 08:00:00,Uptown,Weekday,Paid Parking,No,660.0,180.0,79.0
+2014-05-08 09:00:00,Uptown,Weekday,Paid Parking,No,660.0,219.0,75.0
+2014-05-08 10:00:00,Uptown,Weekday,Paid Parking,No,660.0,324.0,67.0
+2014-05-08 11:00:00,Uptown,Weekday,Paid Parking,No,660.0,406.0,62.0
+2014-05-08 12:00:00,Uptown,Weekday,Paid Parking,No,660.0,470.0,58.0
+2014-05-08 13:00:00,Uptown,Weekday,Paid Parking,No,660.0,415.0,61.0
+2014-05-08 14:00:00,Uptown,Weekday,Paid Parking,No,660.0,395.0,63.0
+2014-05-08 15:00:00,Uptown,Weekday,Paid Parking,No,660.0,340.0,66.0
+2014-05-08 16:00:00,Uptown,Weekday,Paid Parking,No,660.0,345.0,66.0
+2014-05-08 17:00:00,Uptown,Weekday,Paid Parking,No,660.0,387.0,63.0
+2014-05-08 18:00:00,Uptown,Weekday,Paid Parking,No,660.0,507.0,57.0
+2014-05-08 19:00:00,Uptown,Weekday,Paid Parking,No,660.0,573.0,54.0
+2014-05-08 20:00:00,Uptown,Weekday,Paid Parking,No,660.0,524.0,56.0
+2014-05-08 21:00:00,Uptown,Weekday,Paid Parking,No,149.0,130.0,53.0
+2014-05-08 22:00:00,Uptown,Weekday,Paid Parking,No,149.0,124.0,55.0
+2014-05-08 23:00:00,Uptown,Weekday,Paid Parking,No,149.0,116.0,56.0
+2014-05-18 08:00:00,Pioneer Square,Weekend,Paid Parking,No,621.0,291.0,68.0
+2014-05-18 08:00:00,Pioneer Square,Weekend,Unrestricted Parking,No,20.0,11.0,65.0
+2014-05-18 09:00:00,Pioneer Square,Weekend,Paid Parking,No,621.0,325.0,66.0
+2014-05-18 09:00:00,Pioneer Square,Weekend,Unrestricted Parking,No,20.0,12.0,62.0
+2014-05-18 10:00:00,Pioneer Square,Weekend,Paid Parking,No,621.0,364.0,63.0
+2014-05-18 10:00:00,Pioneer Square,Weekend,Unrestricted Parking,No,20.0,12.0,62.0
+2014-05-18 11:00:00,Pioneer Square,Weekend,Paid Parking,No,621.0,425.0,59.0
+2014-05-18 11:00:00,Pioneer Square,Weekend,Unrestricted Parking,No,20.0,13.0,61.0
+2014-05-18 12:00:00,Pioneer Square,Weekend,Paid Parking,No,621.0,474.0,57.0
+2014-05-18 12:00:00,Pioneer Square,Weekend,Unrestricted Parking,No,20.0,11.0,65.0
+2014-05-18 13:00:00,Pioneer Square,Weekend,Paid Parking,No,621.0,519.0,54.0
+2014-05-18 13:00:00,Pioneer Square,Weekend,Unrestricted Parking,No,20.0,14.0,59.0
+2014-05-18 14:00:00,Pioneer Square,Weekend,Paid Parking,No,621.0,502.0,55.0
+2014-05-18 14:00:00,Pioneer Square,Weekend,Unrestricted Parking,No,20.0,13.0,61.0
+2014-05-18 15:00:00,Pioneer Square,Weekend,Paid Parking,No,621.0,459.0,57.0
+2014-05-18 15:00:00,Pioneer Square,Weekend,Unrestricted Parking,No,20.0,9.0,69.0
+2014-05-18 16:00:00,Pioneer Square,Weekend,Paid Parking,No,621.0,443.0,58.0
+2014-05-18 16:00:00,Pioneer Square,Weekend,Unrestricted Parking,No,20.0,14.0,59.0
+2014-05-18 17:00:00,Pioneer Square,Weekend,Paid Parking,No,621.0,365.0,63.0
+2014-05-18 17:00:00,Pioneer Square,Weekend,Unrestricted Parking,No,20.0,11.0,65.0
+2014-05-18 18:00:00,Pioneer Square,Weekend,Paid Parking,No,621.0,332.0,65.0
+2014-05-18 18:00:00,Pioneer Square,Weekend,Unrestricted Parking,No,20.0,12.0,62.0
+2014-05-18 19:00:00,Pioneer Square,Weekend,Paid Parking,No,621.0,316.0,66.0
+2014-05-18 19:00:00,Pioneer Square,Weekend,Unrestricted Parking,No,20.0,12.0,62.0
+2014-05-18 20:00:00,Pioneer Square,Weekend,Paid Parking,No,621.0,333.0,65.0
+2014-05-18 20:00:00,Pioneer Square,Weekend,Unrestricted Parking,No,20.0,9.0,69.0
+2014-07-15 08:00:00,Ballard,Weekday,Paid Parking,No,80.0,0.0,100.0
+2014-07-15 09:00:00,Ballard,Weekday,Paid Parking,No,80.0,3.0,96.0
+2014-07-15 10:00:00,Ballard,Weekday,Paid Parking,No,80.0,17.0,82.0
+2014-07-15 11:00:00,Ballard,Weekday,Paid Parking,No,80.0,60.0,57.0
+2014-07-15 12:00:00,Ballard,Weekday,Paid Parking,No,80.0,63.0,56.0
+2014-07-15 13:00:00,Ballard,Weekday,Paid Parking,No,80.0,64.0,56.0
+2014-07-15 14:00:00,Ballard,Weekday,Paid Parking,No,80.0,72.0,53.0
+2014-07-15 15:00:00,Ballard,Weekday,Paid Parking,No,80.0,77.0,51.0
+2014-07-15 16:00:00,Ballard,Weekday,Paid Parking,No,80.0,77.0,51.0
+2014-07-15 17:00:00,Ballard,Weekday,Paid Parking,No,80.0,48.0,62.0
+2014-07-15 18:00:00,Ballard,Weekday,Paid Parking,No,80.0,47.0,63.0
+2014-07-15 19:00:00,Ballard,Weekday,Paid Parking,No,80.0,49.0,62.0
+2014-07-15 20:00:00,Ballard,Weekday,Paid Parking,No,80.0,58.0,58.0
+2015-03-03 08:00:00,University District,Weekday,Paid Parking,No,1314.0,476.0,73.0
+2015-03-03 08:00:00,University District,Weekday,Paid Parking,Yes,62.0,0.0,100.0
+2015-03-03 09:00:00,University District,Weekday,Paid Parking,No,1376.0,666.0,67.0
+2015-03-03 10:00:00,University District,Weekday,Paid Parking,No,1376.0,854.0,62.0
+2015-03-03 11:00:00,University District,Weekday,Paid Parking,No,1376.0,970.0,59.0
+2015-03-03 12:00:00,University District,Weekday,Paid Parking,No,1376.0,1046.0,57.0
+2015-03-03 13:00:00,University District,Weekday,Paid Parking,No,1376.0,980.0,58.0
+2015-03-03 14:00:00,University District,Weekday,Paid Parking,No,1376.0,866.0,61.0
+2015-03-03 15:00:00,University District,Weekday,Paid Parking,No,1256.0,722.0,63.0
+2015-03-03 15:00:00,University District,Weekday,Paid Parking,Yes,120.0,0.0,100.0
+2015-03-03 16:00:00,University District,Weekday,Paid Parking,No,1256.0,702.0,64.0
+2015-03-03 16:00:00,University District,Weekday,Paid Parking,Yes,120.0,0.0,100.0
+2015-03-03 17:00:00,University District,Weekday,Paid Parking,No,1256.0,608.0,67.0
+2015-03-03 17:00:00,University District,Weekday,Paid Parking,Yes,120.0,0.0,100.0
+2015-03-03 18:00:00,University District,Weekday,Paid Parking,No,1256.0,726.0,63.0
+2015-03-03 18:00:00,University District,Weekday,Paid Parking,Yes,120.0,0.0,100.0
+2015-03-03 19:00:00,University District,Weekday,Paid Parking,No,1376.0,948.0,59.0
+2015-03-03 20:00:00,University District,Weekday,Paid Parking,No,1376.0,1088.0,56.0
+2015-03-03 21:00:00,University District,Weekday,Paid Parking,No,1376.0,1098.0,56.0
+2015-03-05 08:00:00,Denny Triangle,Weekday,Paid Parking,No,670.0,440.0,60.0
+2015-03-05 08:00:00,Denny Triangle,Weekday,Paid Parking,Yes,152.0,0.0,100.0
+2015-03-05 09:00:00,Denny Triangle,Weekday,Paid Parking,No,822.0,586.0,58.0
+2015-03-05 10:00:00,Denny Triangle,Weekday,Paid Parking,No,822.0,710.0,54.0
+2015-03-05 11:00:00,Denny Triangle,Weekday,Paid Parking,No,822.0,736.0,53.0
+2015-03-05 12:00:00,Denny Triangle,Weekday,Paid Parking,No,822.0,744.0,52.0
+2015-03-05 13:00:00,Denny Triangle,Weekday,Paid Parking,No,822.0,704.0,54.0
+2015-03-05 14:00:00,Denny Triangle,Weekday,Paid Parking,No,822.0,648.0,56.0
+2015-03-05 15:00:00,Denny Triangle,Weekday,Paid Parking,No,700.0,486.0,59.0
+2015-03-05 15:00:00,Denny Triangle,Weekday,Paid Parking,Yes,122.0,0.0,100.0
+2015-03-05 16:00:00,Denny Triangle,Weekday,Paid Parking,No,680.0,476.0,59.0
+2015-03-05 16:00:00,Denny Triangle,Weekday,Paid Parking,Yes,142.0,0.0,100.0
+2015-03-05 17:00:00,Denny Triangle,Weekday,Paid Parking,No,680.0,462.0,60.0
+2015-03-05 17:00:00,Denny Triangle,Weekday,Paid Parking,Yes,142.0,0.0,100.0
+2015-03-05 18:00:00,Denny Triangle,Weekday,Paid Parking,No,748.0,568.0,57.0
+2015-03-05 18:00:00,Denny Triangle,Weekday,Paid Parking,Yes,74.0,0.0,100.0
+2015-03-05 19:00:00,Denny Triangle,Weekday,Paid Parking,No,822.0,644.0,56.0
+2015-03-05 20:00:00,Denny Triangle,Weekday,Paid Parking,No,822.0,652.0,56.0
+2015-03-05 21:00:00,Denny Triangle,Weekday,Paid Parking,No,822.0,616.0,57.0
+2015-03-11 08:00:00,12th Ave,Weekday,Paid Parking,No,136.0,44.0,76.0
+2015-03-11 08:00:00,Uptown Triangle,Weekday,Paid Parking,No,364.0,126.0,74.0
+2015-03-11 09:00:00,12th Ave,Weekday,Paid Parking,No,136.0,78.0,64.0
+2015-03-11 09:00:00,Uptown Triangle,Weekday,Paid Parking,No,364.0,142.0,72.0
+2015-03-11 10:00:00,12th Ave,Weekday,Paid Parking,No,136.0,106.0,56.0
+2015-03-11 10:00:00,Uptown Triangle,Weekday,Paid Parking,No,364.0,208.0,64.0
+2015-03-11 11:00:00,12th Ave,Weekday,Paid Parking,No,136.0,96.0,59.0
+2015-03-11 11:00:00,Uptown Triangle,Weekday,Paid Parking,No,364.0,248.0,59.0
+2015-03-11 12:00:00,12th Ave,Weekday,Paid Parking,No,136.0,114.0,54.0
+2015-03-11 12:00:00,Uptown Triangle,Weekday,Paid Parking,No,364.0,260.0,58.0
+2015-03-11 13:00:00,12th Ave,Weekday,Paid Parking,No,136.0,116.0,54.0
+2015-03-11 13:00:00,Uptown Triangle,Weekday,Paid Parking,No,364.0,240.0,60.0
+2015-03-11 14:00:00,12th Ave,Weekday,Paid Parking,No,136.0,114.0,54.0
+2015-03-11 14:00:00,Uptown Triangle,Weekday,Paid Parking,No,364.0,258.0,59.0
+2015-03-11 15:00:00,12th Ave,Weekday,Paid Parking,No,136.0,106.0,56.0
+2015-03-11 15:00:00,Uptown Triangle,Weekday,Paid Parking,No,364.0,242.0,60.0
+2015-03-11 16:00:00,12th Ave,Weekday,Paid Parking,No,136.0,90.0,60.0
+2015-03-11 16:00:00,Uptown Triangle,Weekday,Paid Parking,No,364.0,226.0,62.0
+2015-03-11 17:00:00,12th Ave,Weekday,Paid Parking,No,136.0,104.0,57.0
+2015-03-11 17:00:00,Uptown Triangle,Weekday,Paid Parking,No,364.0,200.0,65.0
+2015-03-11 18:00:00,12th Ave,Weekday,Paid Parking,No,136.0,138.0,50.0
+2015-03-11 18:00:00,Uptown Triangle,Weekday,Paid Parking,No,364.0,218.0,63.0
+2015-03-11 19:00:00,12th Ave,Weekday,Paid Parking,No,136.0,144.0,49.0
+2015-03-11 19:00:00,Uptown Triangle,Weekday,Paid Parking,No,364.0,204.0,64.0
+2015-03-11 20:00:00,12th Ave,Weekday,Paid Parking,No,136.0,154.0,47.0
+2015-03-11 20:00:00,Uptown Triangle,Weekday,Paid Parking,No,364.0,216.0,63.0
+2015-03-11 21:00:00,12th Ave,Weekday,Paid Parking,No,136.0,144.0,49.0
+2015-03-12 00:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,328.0,63.0
+2015-03-12 00:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,202.0,52.0
+2015-03-12 00:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,316.0,49.0
+2015-03-12 00:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,98.0,49.0
+2015-03-12 08:00:00,Capitol Hill,Weekday,Paid Parking,No,546.0,218.0,71.0
+2015-03-12 08:00:00,Capitol Hill,Weekday,Paid Parking,Yes,12.0,0.0,100.0
+2015-03-12 08:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,190.0,53.0
+2015-03-12 08:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,284.0,52.0
+2015-03-12 08:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,88.0,52.0
+2015-03-12 09:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,262.0,68.0
+2015-03-12 09:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,200.0,52.0
+2015-03-12 09:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,282.0,52.0
+2015-03-12 09:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,102.0,48.0
+2015-03-12 10:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,334.0,63.0
+2015-03-12 10:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,192.0,53.0
+2015-03-12 10:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,294.0,51.0
+2015-03-12 10:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,96.0,50.0
+2015-03-12 11:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,396.0,58.0
+2015-03-12 11:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,192.0,53.0
+2015-03-12 11:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,290.0,51.0
+2015-03-12 11:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,98.0,49.0
+2015-03-12 12:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,408.0,58.0
+2015-03-12 12:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,200.0,52.0
+2015-03-12 12:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,282.0,52.0
+2015-03-12 12:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,92.0,51.0
+2015-03-12 13:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,420.0,57.0
+2015-03-12 13:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,190.0,53.0
+2015-03-12 13:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,286.0,51.0
+2015-03-12 13:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,90.0,52.0
+2015-03-12 14:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,390.0,59.0
+2015-03-12 14:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,192.0,53.0
+2015-03-12 14:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,284.0,52.0
+2015-03-12 14:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,98.0,49.0
+2015-03-12 15:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,310.0,64.0
+2015-03-12 15:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,190.0,53.0
+2015-03-12 15:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,270.0,53.0
+2015-03-12 15:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,94.0,51.0
+2015-03-12 16:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,308.0,64.0
+2015-03-12 16:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,202.0,52.0
+2015-03-12 16:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,270.0,53.0
+2015-03-12 16:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,86.0,53.0
+2015-03-12 17:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,346.0,62.0
+2015-03-12 17:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,208.0,51.0
+2015-03-12 17:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,288.0,51.0
+2015-03-12 17:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,88.0,52.0
+2015-03-12 18:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,488.0,53.0
+2015-03-12 18:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,214.0,50.0
+2015-03-12 18:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,332.0,48.0
+2015-03-12 18:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,98.0,49.0
+2015-03-12 19:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,566.0,50.0
+2015-03-12 19:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,216.0,50.0
+2015-03-12 19:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,336.0,47.0
+2015-03-12 19:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,102.0,48.0
+2015-03-12 20:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,608.0,48.0
+2015-03-12 20:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,222.0,50.0
+2015-03-12 20:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,340.0,47.0
+2015-03-12 20:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,104.0,48.0
+2015-03-12 21:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,578.0,49.0
+2015-03-12 21:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,218.0,50.0
+2015-03-12 21:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,342.0,47.0
+2015-03-12 21:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,100.0,49.0
+2015-03-12 22:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,540.0,51.0
+2015-03-12 22:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,212.0,51.0
+2015-03-12 22:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,318.0,49.0
+2015-03-12 22:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,108.0,47.0
+2015-03-12 23:00:00,Capitol Hill,Weekday,Paid Parking,No,558.0,426.0,57.0
+2015-03-12 23:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,218.0,206.0,51.0
+2015-03-12 23:00:00,Capitol Hill,Weekday,Time Limited Parking,No,302.0,320.0,49.0
+2015-03-12 23:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,96.0,100.0,49.0
+2015-03-24 08:00:00,Commercial Core,Weekday,Paid Parking,No,1156.0,754.0,61.0
+2015-03-24 08:00:00,Commercial Core,Weekday,Paid Parking,Yes,280.0,0.0,100.0
+2015-03-24 09:00:00,Commercial Core,Weekday,Paid Parking,No,1436.0,970.0,60.0
+2015-03-24 10:00:00,Commercial Core,Weekday,Paid Parking,No,1436.0,1152.0,55.0
+2015-03-24 11:00:00,Commercial Core,Weekday,Paid Parking,No,1436.0,1230.0,54.0
+2015-03-24 12:00:00,Commercial Core,Weekday,Paid Parking,No,1436.0,1348.0,52.0
+2015-03-24 13:00:00,Commercial Core,Weekday,Paid Parking,No,1436.0,1250.0,53.0
+2015-03-24 14:00:00,Commercial Core,Weekday,Paid Parking,No,1436.0,1224.0,54.0
+2015-03-24 15:00:00,Commercial Core,Weekday,Paid Parking,No,1008.0,822.0,55.0
+2015-03-24 15:00:00,Commercial Core,Weekday,Paid Parking,Yes,428.0,0.0,100.0
+2015-03-24 16:00:00,Commercial Core,Weekday,Paid Parking,No,930.0,582.0,62.0
+2015-03-24 16:00:00,Commercial Core,Weekday,Paid Parking,Yes,506.0,0.0,100.0
+2015-03-24 17:00:00,Commercial Core,Weekday,Paid Parking,No,930.0,564.0,62.0
+2015-03-24 17:00:00,Commercial Core,Weekday,Paid Parking,Yes,506.0,0.0,100.0
+2015-03-24 18:00:00,Commercial Core,Weekday,Paid Parking,No,1054.0,684.0,61.0
+2015-03-24 18:00:00,Commercial Core,Weekday,Paid Parking,Yes,382.0,0.0,100.0
+2015-03-24 19:00:00,Commercial Core,Weekday,Paid Parking,No,1436.0,956.0,60.0
+2015-03-24 20:00:00,Commercial Core,Weekday,Paid Parking,No,1436.0,1202.0,54.0
+2015-03-24 21:00:00,Commercial Core,Weekday,Paid Parking,No,1436.0,1184.0,55.0
+2015-03-31 08:00:00,Chinatown,Weekday,Paid Parking,No,804.0,250.0,76.0
+2015-03-31 08:00:00,Columbia City,Weekday,Time Limited Parking,No,238.0,170.0,58.0
+2015-03-31 08:00:00,Columbia City,Weekday,Unrestricted Parking,No,104.0,60.0,63.0
+2015-03-31 09:00:00,Chinatown,Weekday,Paid Parking,No,804.0,364.0,69.0
+2015-03-31 09:00:00,Columbia City,Weekday,Time Limited Parking,No,238.0,208.0,53.0
+2015-03-31 09:00:00,Columbia City,Weekday,Unrestricted Parking,No,104.0,76.0,58.0
+2015-03-31 10:00:00,Chinatown,Weekday,Paid Parking,No,804.0,498.0,62.0
+2015-03-31 10:00:00,Columbia City,Weekday,Time Limited Parking,No,238.0,224.0,52.0
+2015-03-31 10:00:00,Columbia City,Weekday,Unrestricted Parking,No,104.0,100.0,51.0
+2015-03-31 11:00:00,Chinatown,Weekday,Paid Parking,No,804.0,610.0,57.0
+2015-03-31 11:00:00,Columbia City,Weekday,Time Limited Parking,No,238.0,230.0,51.0
+2015-03-31 11:00:00,Columbia City,Weekday,Unrestricted Parking,No,104.0,102.0,50.0
+2015-03-31 12:00:00,Chinatown,Weekday,Paid Parking,No,804.0,712.0,53.0
+2015-03-31 12:00:00,Columbia City,Weekday,Time Limited Parking,No,238.0,238.0,50.0
+2015-03-31 12:00:00,Columbia City,Weekday,Unrestricted Parking,No,104.0,108.0,49.0
+2015-03-31 13:00:00,Chinatown,Weekday,Paid Parking,No,804.0,722.0,53.0
+2015-03-31 13:00:00,Columbia City,Weekday,Time Limited Parking,No,238.0,242.0,50.0
+2015-03-31 13:00:00,Columbia City,Weekday,Unrestricted Parking,No,104.0,108.0,49.0
+2015-03-31 14:00:00,Chinatown,Weekday,Paid Parking,No,804.0,640.0,56.0
+2015-03-31 14:00:00,Columbia City,Weekday,Time Limited Parking,No,238.0,206.0,54.0
+2015-03-31 14:00:00,Columbia City,Weekday,Unrestricted Parking,No,104.0,98.0,51.0
+2015-03-31 15:00:00,Chinatown,Weekday,Paid Parking,No,766.0,538.0,59.0
+2015-03-31 15:00:00,Chinatown,Weekday,Paid Parking,Yes,38.0,0.0,100.0
+2015-03-31 15:00:00,Columbia City,Weekday,Time Limited Parking,No,238.0,218.0,52.0
+2015-03-31 15:00:00,Columbia City,Weekday,Unrestricted Parking,No,104.0,104.0,50.0
+2015-03-31 16:00:00,Chinatown,Weekday,Paid Parking,No,766.0,490.0,61.0
+2015-03-31 16:00:00,Chinatown,Weekday,Paid Parking,Yes,38.0,0.0,100.0
+2015-03-31 16:00:00,Columbia City,Weekday,Time Limited Parking,No,238.0,242.0,50.0
+2015-03-31 16:00:00,Columbia City,Weekday,Unrestricted Parking,No,104.0,100.0,51.0
+2015-03-31 17:00:00,Chinatown,Weekday,Paid Parking,No,766.0,488.0,61.0
+2015-03-31 17:00:00,Chinatown,Weekday,Paid Parking,Yes,38.0,0.0,100.0
+2015-03-31 17:00:00,Columbia City,Weekday,Time Limited Parking,No,238.0,244.0,49.0
+2015-03-31 17:00:00,Columbia City,Weekday,Unrestricted Parking,No,104.0,102.0,50.0
+2015-03-31 18:00:00,Chinatown,Weekday,Paid Parking,No,766.0,630.0,55.0
+2015-03-31 18:00:00,Chinatown,Weekday,Paid Parking,Yes,38.0,0.0,100.0
+2015-03-31 18:00:00,Columbia City,Weekday,Time Limited Parking,No,238.0,250.0,49.0
+2015-03-31 18:00:00,Columbia City,Weekday,Unrestricted Parking,No,104.0,102.0,50.0
+2015-03-31 19:00:00,Chinatown,Weekday,Paid Parking,No,804.0,750.0,52.0
+2015-03-31 19:00:00,Columbia City,Weekday,Time Limited Parking,No,238.0,240.0,50.0
+2015-03-31 19:00:00,Columbia City,Weekday,Unrestricted Parking,No,104.0,102.0,50.0
+2015-03-31 20:00:00,Chinatown,Weekday,Paid Parking,No,804.0,838.0,49.0
+2015-03-31 20:00:00,Columbia City,Weekday,Time Limited Parking,No,238.0,242.0,50.0
+2015-03-31 20:00:00,Columbia City,Weekday,Unrestricted Parking,No,104.0,90.0,54.0
+2015-03-31 21:00:00,Chinatown,Weekday,Paid Parking,No,804.0,750.0,52.0
+2015-03-31 21:00:00,Columbia City,Weekday,Time Limited Parking,No,238.0,206.0,54.0
+2015-03-31 21:00:00,Columbia City,Weekday,Unrestricted Parking,No,104.0,88.0,54.0
+2015-04-01 08:00:00,Cherry Hill,Weekday,Paid Parking,No,112.0,98.0,53.0
+2015-04-01 08:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,414.0,366.0,53.0
+2015-04-01 08:00:00,Cherry Hill,Weekday,Time Limited Parking,No,42.0,42.0,50.0
+2015-04-01 08:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,130.0,120.0,52.0
+2015-04-01 09:00:00,Cherry Hill,Weekday,Paid Parking,No,112.0,106.0,51.0
+2015-04-01 09:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,414.0,380.0,52.0
+2015-04-01 09:00:00,Cherry Hill,Weekday,Time Limited Parking,No,42.0,44.0,49.0
+2015-04-01 09:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,130.0,128.0,50.0
+2015-04-01 10:00:00,Cherry Hill,Weekday,Paid Parking,No,112.0,106.0,51.0
+2015-04-01 10:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,414.0,376.0,52.0
+2015-04-01 10:00:00,Cherry Hill,Weekday,Time Limited Parking,No,42.0,36.0,54.0
+2015-04-01 10:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,130.0,128.0,50.0
+2015-04-01 11:00:00,Cherry Hill,Weekday,Paid Parking,No,112.0,100.0,53.0
+2015-04-01 11:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,414.0,364.0,53.0
+2015-04-01 11:00:00,Cherry Hill,Weekday,Time Limited Parking,No,42.0,32.0,57.0
+2015-04-01 11:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,130.0,124.0,51.0
+2015-04-01 12:00:00,Cherry Hill,Weekday,Paid Parking,No,112.0,106.0,51.0
+2015-04-01 12:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,414.0,364.0,53.0
+2015-04-01 12:00:00,Cherry Hill,Weekday,Time Limited Parking,No,42.0,28.0,60.0
+2015-04-01 12:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,130.0,128.0,50.0
+2015-04-01 13:00:00,Cherry Hill,Weekday,Paid Parking,No,112.0,106.0,51.0
+2015-04-01 13:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,414.0,372.0,53.0
+2015-04-01 13:00:00,Cherry Hill,Weekday,Time Limited Parking,No,42.0,30.0,58.0
+2015-04-01 13:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,130.0,128.0,50.0
+2015-04-01 14:00:00,Cherry Hill,Weekday,Paid Parking,No,112.0,94.0,54.0
+2015-04-01 14:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,414.0,362.0,53.0
+2015-04-01 14:00:00,Cherry Hill,Weekday,Time Limited Parking,No,42.0,30.0,58.0
+2015-04-01 14:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,130.0,128.0,50.0
+2015-04-01 15:00:00,Cherry Hill,Weekday,Paid Parking,No,112.0,78.0,59.0
+2015-04-01 15:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,414.0,342.0,55.0
+2015-04-01 15:00:00,Cherry Hill,Weekday,Time Limited Parking,No,42.0,26.0,62.0
+2015-04-01 15:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,130.0,122.0,52.0
+2015-04-01 16:00:00,Cherry Hill,Weekday,Paid Parking,No,112.0,66.0,63.0
+2015-04-01 16:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,414.0,338.0,55.0
+2015-04-01 16:00:00,Cherry Hill,Weekday,Time Limited Parking,No,42.0,22.0,66.0
+2015-04-01 16:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,130.0,124.0,51.0
+2015-04-01 17:00:00,Cherry Hill,Weekday,Paid Parking,No,112.0,36.0,76.0
+2015-04-01 17:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,414.0,328.0,56.0
+2015-04-01 17:00:00,Cherry Hill,Weekday,Time Limited Parking,No,42.0,18.0,70.0
+2015-04-01 17:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,130.0,112.0,54.0
+2015-04-01 18:00:00,Cherry Hill,Weekday,Paid Parking,No,112.0,56.0,67.0
+2015-04-01 18:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,414.0,324.0,56.0
+2015-04-01 18:00:00,Cherry Hill,Weekday,Time Limited Parking,No,42.0,18.0,70.0
+2015-04-01 18:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,130.0,90.0,59.0
+2015-04-01 19:00:00,Cherry Hill,Weekday,Paid Parking,No,112.0,78.0,59.0
+2015-04-01 19:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,414.0,348.0,54.0
+2015-04-01 19:00:00,Cherry Hill,Weekday,Time Limited Parking,No,42.0,22.0,66.0
+2015-04-01 19:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,130.0,92.0,59.0
+2015-04-01 20:00:00,Cherry Hill,Weekday,Paid Parking,No,112.0,72.0,61.0
+2015-04-01 20:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,414.0,330.0,56.0
+2015-04-01 20:00:00,Cherry Hill,Weekday,Time Limited Parking,No,42.0,20.0,68.0
+2015-04-01 20:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,130.0,78.0,62.0
+2015-04-01 21:00:00,Cherry Hill,Weekday,Paid Parking,No,112.0,80.0,58.0
+2015-04-01 21:00:00,Cherry Hill,Weekday,Restricted Parking Zone,No,414.0,346.0,54.0
+2015-04-01 21:00:00,Cherry Hill,Weekday,Time Limited Parking,No,42.0,22.0,66.0
+2015-04-01 21:00:00,Cherry Hill,Weekday,Unrestricted Parking,No,130.0,70.0,65.0
+2015-04-02 08:00:00,Fremont,Weekday,Paid Parking,No,144.0,60.0,71.0
+2015-04-02 08:00:00,Fremont,Weekday,Paid Parking,Yes,12.0,0.0,100.0
+2015-04-02 08:00:00,Fremont,Weekday,Time Limited Parking,No,624.0,336.0,65.0
+2015-04-02 08:00:00,Fremont,Weekday,Unrestricted Parking,No,58.0,40.0,59.0
+2015-04-02 09:00:00,Fremont,Weekday,Paid Parking,No,156.0,38.0,80.0
+2015-04-02 09:00:00,Fremont,Weekday,Time Limited Parking,No,624.0,418.0,60.0
+2015-04-02 09:00:00,Fremont,Weekday,Unrestricted Parking,No,58.0,48.0,55.0
+2015-04-02 10:00:00,Fremont,Weekday,Paid Parking,No,156.0,82.0,66.0
+2015-04-02 10:00:00,Fremont,Weekday,Time Limited Parking,No,624.0,474.0,57.0
+2015-04-02 10:00:00,Fremont,Weekday,Unrestricted Parking,No,58.0,54.0,52.0
+2015-04-02 11:00:00,Fremont,Weekday,Paid Parking,No,156.0,106.0,60.0
+2015-04-02 11:00:00,Fremont,Weekday,Time Limited Parking,No,624.0,476.0,57.0
+2015-04-02 11:00:00,Fremont,Weekday,Unrestricted Parking,No,58.0,52.0,53.0
+2015-04-02 12:00:00,Fremont,Weekday,Paid Parking,No,156.0,116.0,57.0
+2015-04-02 12:00:00,Fremont,Weekday,Time Limited Parking,No,624.0,498.0,56.0
+2015-04-02 12:00:00,Fremont,Weekday,Unrestricted Parking,No,58.0,56.0,51.0
+2015-04-02 13:00:00,Fremont,Weekday,Paid Parking,No,156.0,110.0,59.0
+2015-04-02 13:00:00,Fremont,Weekday,Time Limited Parking,No,624.0,462.0,57.0
+2015-04-02 13:00:00,Fremont,Weekday,Unrestricted Parking,No,58.0,54.0,52.0
+2015-04-02 14:00:00,Fremont,Weekday,Paid Parking,No,156.0,120.0,57.0
+2015-04-02 14:00:00,Fremont,Weekday,Time Limited Parking,No,624.0,480.0,57.0
+2015-04-02 14:00:00,Fremont,Weekday,Unrestricted Parking,No,58.0,56.0,51.0
+2015-04-02 15:00:00,Fremont,Weekday,Paid Parking,No,156.0,100.0,61.0
+2015-04-02 15:00:00,Fremont,Weekday,Time Limited Parking,No,624.0,458.0,58.0
+2015-04-02 15:00:00,Fremont,Weekday,Unrestricted Parking,No,58.0,56.0,51.0
+2015-04-02 16:00:00,Fremont,Weekday,Paid Parking,No,148.0,118.0,56.0
+2015-04-02 16:00:00,Fremont,Weekday,Paid Parking,Yes,8.0,0.0,100.0
+2015-04-02 16:00:00,Fremont,Weekday,Time Limited Parking,No,570.0,432.0,57.0
+2015-04-02 16:00:00,Fremont,Weekday,Time Limited Parking,Yes,54.0,0.0,100.0
+2015-04-02 16:00:00,Fremont,Weekday,Unrestricted Parking,No,58.0,52.0,53.0
+2015-04-02 17:00:00,Fremont,Weekday,Paid Parking,No,148.0,88.0,63.0
+2015-04-02 17:00:00,Fremont,Weekday,Paid Parking,Yes,8.0,0.0,100.0
+2015-04-02 17:00:00,Fremont,Weekday,Time Limited Parking,No,570.0,416.0,58.0
+2015-04-02 17:00:00,Fremont,Weekday,Time Limited Parking,Yes,54.0,0.0,100.0
+2015-04-02 17:00:00,Fremont,Weekday,Unrestricted Parking,No,58.0,54.0,52.0
+2015-04-02 18:00:00,Fremont,Weekday,Paid Parking,No,156.0,126.0,55.0
+2015-04-02 18:00:00,Fremont,Weekday,Time Limited Parking,No,624.0,484.0,56.0
+2015-04-02 18:00:00,Fremont,Weekday,Unrestricted Parking,No,58.0,58.0,50.0
+2015-04-02 19:00:00,Fremont,Weekday,Paid Parking,No,156.0,138.0,53.0
+2015-04-02 19:00:00,Fremont,Weekday,Time Limited Parking,No,624.0,532.0,54.0
+2015-04-02 19:00:00,Fremont,Weekday,Unrestricted Parking,No,58.0,52.0,53.0
+2015-04-02 20:00:00,Fremont,Weekday,Paid Parking,No,156.0,148.0,51.0
+2015-04-02 20:00:00,Fremont,Weekday,Time Limited Parking,No,624.0,540.0,54.0
+2015-04-02 20:00:00,Fremont,Weekday,Unrestricted Parking,No,58.0,42.0,58.0
+2015-04-02 21:00:00,Fremont,Weekday,Paid Parking,No,156.0,142.0,52.0
+2015-04-02 21:00:00,Fremont,Weekday,Time Limited Parking,No,624.0,446.0,58.0
+2015-04-02 21:00:00,Fremont,Weekday,Unrestricted Parking,No,58.0,42.0,58.0
+2015-04-07 08:00:00,South Lake Union,Weekday,Paid Parking,No,2300.0,1748.0,57.0
+2015-04-07 08:00:00,South Lake Union,Weekday,Paid Parking,Yes,42.0,0.0,100.0
+2015-04-07 08:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,270.0,272.0,50.0
+2015-04-07 08:00:00,South Lake Union,Weekday,Unrestricted Parking,No,6.0,10.0,38.0
+2015-04-07 09:00:00,South Lake Union,Weekday,Paid Parking,No,2342.0,2060.0,53.0
+2015-04-07 09:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,270.0,266.0,50.0
+2015-04-07 09:00:00,South Lake Union,Weekday,Unrestricted Parking,No,6.0,10.0,38.0
+2015-04-07 10:00:00,South Lake Union,Weekday,Paid Parking,No,2342.0,2200.0,52.0
+2015-04-07 10:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,270.0,296.0,48.0
+2015-04-07 10:00:00,South Lake Union,Weekday,Unrestricted Parking,No,6.0,10.0,38.0
+2015-04-07 11:00:00,South Lake Union,Weekday,Paid Parking,No,2342.0,2284.0,51.0
+2015-04-07 11:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,270.0,298.0,48.0
+2015-04-07 11:00:00,South Lake Union,Weekday,Unrestricted Parking,No,6.0,10.0,38.0
+2015-04-07 12:00:00,South Lake Union,Weekday,Paid Parking,No,2342.0,2222.0,51.0
+2015-04-07 12:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,270.0,298.0,48.0
+2015-04-07 12:00:00,South Lake Union,Weekday,Unrestricted Parking,No,6.0,10.0,38.0
+2015-04-07 13:00:00,South Lake Union,Weekday,Paid Parking,No,2342.0,2216.0,51.0
+2015-04-07 13:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,270.0,290.0,48.0
+2015-04-07 13:00:00,South Lake Union,Weekday,Unrestricted Parking,No,6.0,10.0,38.0
+2015-04-07 14:00:00,South Lake Union,Weekday,Paid Parking,No,2342.0,2060.0,53.0
+2015-04-07 14:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,270.0,280.0,49.0
+2015-04-07 14:00:00,South Lake Union,Weekday,Unrestricted Parking,No,6.0,8.0,43.0
+2015-04-07 15:00:00,South Lake Union,Weekday,Paid Parking,No,2326.0,1664.0,58.0
+2015-04-07 15:00:00,South Lake Union,Weekday,Paid Parking,Yes,16.0,0.0,100.0
+2015-04-07 15:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,270.0,272.0,50.0
+2015-04-07 15:00:00,South Lake Union,Weekday,Unrestricted Parking,No,6.0,8.0,43.0
+2015-04-07 16:00:00,South Lake Union,Weekday,Paid Parking,No,2296.0,1364.0,63.0
+2015-04-07 16:00:00,South Lake Union,Weekday,Paid Parking,Yes,46.0,0.0,100.0
+2015-04-07 16:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,254.0,262.0,49.0
+2015-04-07 16:00:00,South Lake Union,Weekday,Restricted Parking Zone,Yes,16.0,0.0,100.0
+2015-04-07 16:00:00,South Lake Union,Weekday,Unrestricted Parking,No,6.0,8.0,43.0
+2015-04-07 17:00:00,South Lake Union,Weekday,Paid Parking,No,2296.0,1344.0,63.0
+2015-04-07 17:00:00,South Lake Union,Weekday,Paid Parking,Yes,46.0,0.0,100.0
+2015-04-07 17:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,254.0,248.0,51.0
+2015-04-07 17:00:00,South Lake Union,Weekday,Restricted Parking Zone,Yes,16.0,0.0,100.0
+2015-04-07 17:00:00,South Lake Union,Weekday,Unrestricted Parking,No,6.0,6.0,50.0
+2015-04-07 18:00:00,South Lake Union,Weekday,Paid Parking,No,2326.0,1420.0,62.0
+2015-04-07 18:00:00,South Lake Union,Weekday,Paid Parking,Yes,16.0,0.0,100.0
+2015-04-07 18:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,270.0,266.0,50.0
+2015-04-07 18:00:00,South Lake Union,Weekday,Unrestricted Parking,No,6.0,4.0,60.0
+2015-04-07 19:00:00,South Lake Union,Weekday,Paid Parking,No,2342.0,1354.0,63.0
+2015-04-07 19:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,270.0,286.0,49.0
+2015-04-07 19:00:00,South Lake Union,Weekday,Unrestricted Parking,No,6.0,2.0,75.0
+2015-04-07 20:00:00,South Lake Union,Weekday,Paid Parking,No,2342.0,1220.0,66.0
+2015-04-07 20:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,270.0,278.0,49.0
+2015-04-07 20:00:00,South Lake Union,Weekday,Unrestricted Parking,No,6.0,2.0,75.0
+2015-04-08 08:00:00,Green Lake,Weekday,Paid Parking,No,192.0,100.0,66.0
+2015-04-08 08:00:00,Green Lake,Weekday,Time Limited Parking,No,126.0,88.0,59.0
+2015-04-08 08:00:00,Green Lake,Weekday,Unrestricted Parking,No,136.0,106.0,56.0
+2015-04-08 09:00:00,Green Lake,Weekday,Paid Parking,No,192.0,88.0,69.0
+2015-04-08 09:00:00,Green Lake,Weekday,Time Limited Parking,No,126.0,94.0,57.0
+2015-04-08 09:00:00,Green Lake,Weekday,Unrestricted Parking,No,136.0,116.0,54.0
+2015-04-08 10:00:00,Green Lake,Weekday,Paid Parking,No,192.0,138.0,58.0
+2015-04-08 10:00:00,Green Lake,Weekday,Time Limited Parking,No,126.0,108.0,54.0
+2015-04-08 10:00:00,Green Lake,Weekday,Unrestricted Parking,No,136.0,114.0,54.0
+2015-04-08 11:00:00,Green Lake,Weekday,Paid Parking,No,192.0,150.0,56.0
+2015-04-08 11:00:00,Green Lake,Weekday,Time Limited Parking,No,126.0,106.0,54.0
+2015-04-08 11:00:00,Green Lake,Weekday,Unrestricted Parking,No,136.0,116.0,54.0
+2015-04-08 12:00:00,Green Lake,Weekday,Paid Parking,No,192.0,128.0,60.0
+2015-04-08 12:00:00,Green Lake,Weekday,Time Limited Parking,No,126.0,104.0,55.0
+2015-04-08 12:00:00,Green Lake,Weekday,Unrestricted Parking,No,136.0,122.0,53.0
+2015-04-08 13:00:00,Green Lake,Weekday,Paid Parking,No,192.0,124.0,61.0
+2015-04-08 13:00:00,Green Lake,Weekday,Time Limited Parking,No,126.0,108.0,54.0
+2015-04-08 13:00:00,Green Lake,Weekday,Unrestricted Parking,No,136.0,124.0,52.0
+2015-04-08 14:00:00,Green Lake,Weekday,Paid Parking,No,192.0,108.0,64.0
+2015-04-08 14:00:00,Green Lake,Weekday,Time Limited Parking,No,126.0,116.0,52.0
+2015-04-08 14:00:00,Green Lake,Weekday,Unrestricted Parking,No,136.0,124.0,52.0
+2015-04-08 15:00:00,Green Lake,Weekday,Paid Parking,No,192.0,138.0,58.0
+2015-04-08 15:00:00,Green Lake,Weekday,Time Limited Parking,No,126.0,112.0,53.0
+2015-04-08 15:00:00,Green Lake,Weekday,Unrestricted Parking,No,136.0,124.0,52.0
+2015-04-08 16:00:00,Green Lake,Weekday,Paid Parking,No,192.0,150.0,56.0
+2015-04-08 16:00:00,Green Lake,Weekday,Time Limited Parking,No,126.0,110.0,53.0
+2015-04-08 16:00:00,Green Lake,Weekday,Unrestricted Parking,No,136.0,126.0,52.0
+2015-04-08 17:00:00,Green Lake,Weekday,Paid Parking,No,192.0,156.0,55.0
+2015-04-08 17:00:00,Green Lake,Weekday,Time Limited Parking,No,126.0,114.0,52.0
+2015-04-08 17:00:00,Green Lake,Weekday,Unrestricted Parking,No,136.0,122.0,53.0
+2015-04-08 18:00:00,Green Lake,Weekday,Paid Parking,No,192.0,174.0,52.0
+2015-04-08 18:00:00,Green Lake,Weekday,Time Limited Parking,No,126.0,112.0,53.0
+2015-04-08 18:00:00,Green Lake,Weekday,Unrestricted Parking,No,136.0,126.0,52.0
+2015-04-08 19:00:00,Green Lake,Weekday,Paid Parking,No,192.0,190.0,50.0
+2015-04-08 19:00:00,Green Lake,Weekday,Time Limited Parking,No,126.0,118.0,52.0
+2015-04-08 19:00:00,Green Lake,Weekday,Unrestricted Parking,No,136.0,132.0,51.0
+2015-04-08 20:00:00,Green Lake,Weekday,Paid Parking,No,192.0,192.0,50.0
+2015-04-08 20:00:00,Green Lake,Weekday,Time Limited Parking,No,126.0,98.0,56.0
+2015-04-08 20:00:00,Green Lake,Weekday,Unrestricted Parking,No,136.0,116.0,54.0
+2015-04-08 21:00:00,Green Lake,Weekday,Paid Parking,No,192.0,158.0,55.0
+2015-04-08 21:00:00,Green Lake,Weekday,Time Limited Parking,No,126.0,78.0,62.0
+2015-04-08 21:00:00,Green Lake,Weekday,Unrestricted Parking,No,136.0,98.0,58.0
+2015-04-08 22:00:00,Green Lake,Weekday,Paid Parking,No,192.0,138.0,58.0
+2015-04-08 22:00:00,Green Lake,Weekday,Time Limited Parking,No,126.0,62.0,67.0
+2015-04-08 22:00:00,Green Lake,Weekday,Unrestricted Parking,No,136.0,90.0,60.0
+2015-04-09 08:00:00,Roosevelt,Weekday,Paid Parking,No,134.0,16.0,89.0
+2015-04-09 08:00:00,Roosevelt,Weekday,Paid Parking,Yes,24.0,0.0,100.0
+2015-04-09 08:00:00,Roosevelt,Weekday,Time Limited Parking,No,126.0,32.0,80.0
+2015-04-09 08:00:00,Roosevelt,Weekday,Time Limited Parking,Yes,10.0,0.0,100.0
+2015-04-09 08:00:00,Roosevelt,Weekday,Unrestricted Parking,No,50.0,42.0,54.0
+2015-04-09 08:00:00,Roosevelt,Weekday,Unrestricted Parking,Yes,18.0,0.0,100.0
+2015-04-09 09:00:00,Roosevelt,Weekday,Paid Parking,No,158.0,28.0,85.0
+2015-04-09 09:00:00,Roosevelt,Weekday,Time Limited Parking,No,136.0,40.0,77.0
+2015-04-09 09:00:00,Roosevelt,Weekday,Unrestricted Parking,No,68.0,66.0,51.0
+2015-04-09 10:00:00,Roosevelt,Weekday,Paid Parking,No,158.0,44.0,78.0
+2015-04-09 10:00:00,Roosevelt,Weekday,Time Limited Parking,No,136.0,70.0,66.0
+2015-04-09 10:00:00,Roosevelt,Weekday,Unrestricted Parking,No,68.0,70.0,49.0
+2015-04-09 11:00:00,Roosevelt,Weekday,Paid Parking,No,158.0,100.0,61.0
+2015-04-09 11:00:00,Roosevelt,Weekday,Time Limited Parking,No,136.0,60.0,69.0
+2015-04-09 11:00:00,Roosevelt,Weekday,Unrestricted Parking,No,68.0,50.0,58.0
+2015-04-09 12:00:00,Roosevelt,Weekday,Paid Parking,No,158.0,98.0,62.0
+2015-04-09 12:00:00,Roosevelt,Weekday,Time Limited Parking,No,136.0,80.0,63.0
+2015-04-09 12:00:00,Roosevelt,Weekday,Unrestricted Parking,No,68.0,68.0,50.0
+2015-04-09 13:00:00,Roosevelt,Weekday,Paid Parking,No,158.0,96.0,62.0
+2015-04-09 13:00:00,Roosevelt,Weekday,Time Limited Parking,No,136.0,76.0,64.0
+2015-04-09 13:00:00,Roosevelt,Weekday,Unrestricted Parking,No,68.0,68.0,50.0
+2015-04-09 14:00:00,Roosevelt,Weekday,Paid Parking,No,158.0,108.0,59.0
+2015-04-09 14:00:00,Roosevelt,Weekday,Time Limited Parking,No,136.0,72.0,65.0
+2015-04-09 14:00:00,Roosevelt,Weekday,Unrestricted Parking,No,68.0,54.0,56.0
+2015-04-09 15:00:00,Roosevelt,Weekday,Paid Parking,No,158.0,94.0,63.0
+2015-04-09 15:00:00,Roosevelt,Weekday,Time Limited Parking,No,136.0,60.0,69.0
+2015-04-09 15:00:00,Roosevelt,Weekday,Unrestricted Parking,No,68.0,40.0,63.0
+2015-04-09 16:00:00,Roosevelt,Weekday,Paid Parking,No,112.0,74.0,60.0
+2015-04-09 16:00:00,Roosevelt,Weekday,Paid Parking,Yes,46.0,0.0,100.0
+2015-04-09 16:00:00,Roosevelt,Weekday,Time Limited Parking,No,54.0,42.0,56.0
+2015-04-09 16:00:00,Roosevelt,Weekday,Time Limited Parking,Yes,82.0,0.0,100.0
+2015-04-09 16:00:00,Roosevelt,Weekday,Unrestricted Parking,No,68.0,50.0,58.0
+2015-04-09 17:00:00,Roosevelt,Weekday,Paid Parking,No,112.0,96.0,54.0
+2015-04-09 17:00:00,Roosevelt,Weekday,Paid Parking,Yes,46.0,0.0,100.0
+2015-04-09 17:00:00,Roosevelt,Weekday,Time Limited Parking,No,54.0,46.0,54.0
+2015-04-09 17:00:00,Roosevelt,Weekday,Time Limited Parking,Yes,82.0,0.0,100.0
+2015-04-09 17:00:00,Roosevelt,Weekday,Unrestricted Parking,No,68.0,58.0,54.0
+2015-04-09 18:00:00,Roosevelt,Weekday,Paid Parking,No,158.0,106.0,60.0
+2015-04-09 18:00:00,Roosevelt,Weekday,Time Limited Parking,No,136.0,52.0,72.0
+2015-04-09 18:00:00,Roosevelt,Weekday,Unrestricted Parking,No,68.0,62.0,52.0
+2015-04-09 19:00:00,Roosevelt,Weekday,Paid Parking,No,158.0,158.0,50.0
+2015-04-09 19:00:00,Roosevelt,Weekday,Time Limited Parking,No,136.0,90.0,60.0
+2015-04-09 19:00:00,Roosevelt,Weekday,Unrestricted Parking,No,68.0,70.0,49.0
+2015-04-09 20:00:00,Roosevelt,Weekday,Paid Parking,No,158.0,136.0,54.0
+2015-04-09 20:00:00,Roosevelt,Weekday,Time Limited Parking,No,136.0,78.0,64.0
+2015-04-09 20:00:00,Roosevelt,Weekday,Unrestricted Parking,No,68.0,68.0,50.0
+2015-04-14 08:00:00,Belltown,Weekday,Paid Parking,No,2758.0,1216.0,69.0
+2015-04-14 08:00:00,Belltown,Weekday,Paid Parking,Yes,106.0,16.0,87.0
+2015-04-14 09:00:00,Belltown,Weekday,Paid Parking,No,2864.0,1588.0,64.0
+2015-04-14 10:00:00,Belltown,Weekday,Paid Parking,No,2864.0,1926.0,60.0
+2015-04-14 11:00:00,Belltown,Weekday,Paid Parking,No,2864.0,2094.0,58.0
+2015-04-14 12:00:00,Belltown,Weekday,Paid Parking,No,2864.0,2174.0,57.0
+2015-04-14 13:00:00,Belltown,Weekday,Paid Parking,No,2864.0,2126.0,57.0
+2015-04-14 14:00:00,Belltown,Weekday,Paid Parking,No,2864.0,1884.0,60.0
+2015-04-14 15:00:00,Belltown,Weekday,Paid Parking,No,2688.0,1702.0,61.0
+2015-04-14 15:00:00,Belltown,Weekday,Paid Parking,Yes,176.0,0.0,100.0
+2015-04-14 16:00:00,Belltown,Weekday,Paid Parking,No,2672.0,1588.0,63.0
+2015-04-14 16:00:00,Belltown,Weekday,Paid Parking,Yes,192.0,0.0,100.0
+2015-04-14 17:00:00,Belltown,Weekday,Paid Parking,No,2672.0,1674.0,61.0
+2015-04-14 17:00:00,Belltown,Weekday,Paid Parking,Yes,192.0,0.0,100.0
+2015-04-14 18:00:00,Belltown,Weekday,Paid Parking,No,2786.0,2042.0,58.0
+2015-04-14 18:00:00,Belltown,Weekday,Paid Parking,Yes,78.0,0.0,100.0
+2015-04-14 19:00:00,Belltown,Weekday,Paid Parking,No,2864.0,2260.0,56.0
+2015-04-14 20:00:00,Belltown,Weekday,Paid Parking,No,2864.0,2178.0,57.0
+2015-04-14 21:00:00,Belltown,Weekday,Paid Parking,No,2864.0,1922.0,60.0
+2015-04-15 08:00:00,Uptown,Weekday,Paid Parking,No,1152.0,426.0,73.0
+2015-04-15 08:00:00,Uptown,Weekday,Paid Parking,Yes,42.0,0.0,100.0
+2015-04-15 09:00:00,Uptown,Weekday,Paid Parking,No,1194.0,476.0,71.0
+2015-04-15 10:00:00,Uptown,Weekday,Paid Parking,No,1194.0,728.0,62.0
+2015-04-15 11:00:00,Uptown,Weekday,Paid Parking,No,1194.0,828.0,59.0
+2015-04-15 12:00:00,Uptown,Weekday,Paid Parking,No,1194.0,906.0,57.0
+2015-04-15 13:00:00,Uptown,Weekday,Paid Parking,No,1194.0,810.0,60.0
+2015-04-15 14:00:00,Uptown,Weekday,Paid Parking,No,1194.0,762.0,61.0
+2015-04-15 15:00:00,Uptown,Weekday,Paid Parking,No,1152.0,622.0,65.0
+2015-04-15 15:00:00,Uptown,Weekday,Paid Parking,Yes,42.0,0.0,100.0
+2015-04-15 16:00:00,Uptown,Weekday,Paid Parking,No,1152.0,620.0,65.0
+2015-04-15 16:00:00,Uptown,Weekday,Paid Parking,Yes,42.0,0.0,100.0
+2015-04-15 17:00:00,Uptown,Weekday,Paid Parking,No,1152.0,680.0,63.0
+2015-04-15 17:00:00,Uptown,Weekday,Paid Parking,Yes,42.0,0.0,100.0
+2015-04-15 18:00:00,Uptown,Weekday,Paid Parking,No,1152.0,790.0,59.0
+2015-04-15 18:00:00,Uptown,Weekday,Paid Parking,Yes,42.0,0.0,100.0
+2015-04-15 19:00:00,Uptown,Weekday,Paid Parking,No,1194.0,916.0,57.0
+2015-04-15 20:00:00,Uptown,Weekday,Paid Parking,No,1194.0,958.0,55.0
+2015-04-15 21:00:00,Uptown,Weekday,Paid Parking,No,1194.0,752.0,61.0
+2015-04-16 00:00:00,Pike,Weekday,Paid Parking,No,880.0,614.0,59.0
+2015-04-16 00:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,134.0,56.0
+2015-04-16 00:00:00,Pike,Weekday,Time Limited Parking,No,208.0,92.0,69.0
+2015-04-16 08:00:00,Pike,Weekday,Paid Parking,No,818.0,356.0,70.0
+2015-04-16 08:00:00,Pike,Weekday,Paid Parking,Yes,62.0,0.0,100.0
+2015-04-16 08:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,138.0,55.0
+2015-04-16 08:00:00,Pike,Weekday,Time Limited Parking,No,208.0,134.0,61.0
+2015-04-16 09:00:00,Pike,Weekday,Paid Parking,No,880.0,448.0,66.0
+2015-04-16 09:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,150.0,53.0
+2015-04-16 09:00:00,Pike,Weekday,Time Limited Parking,No,208.0,140.0,60.0
+2015-04-16 10:00:00,Pike,Weekday,Paid Parking,No,880.0,598.0,60.0
+2015-04-16 10:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,162.0,51.0
+2015-04-16 10:00:00,Pike,Weekday,Time Limited Parking,No,208.0,156.0,57.0
+2015-04-16 11:00:00,Pike,Weekday,Paid Parking,No,880.0,638.0,58.0
+2015-04-16 11:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,162.0,51.0
+2015-04-16 11:00:00,Pike,Weekday,Time Limited Parking,No,208.0,180.0,54.0
+2015-04-16 12:00:00,Pike,Weekday,Paid Parking,No,880.0,718.0,55.0
+2015-04-16 12:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,180.0,49.0
+2015-04-16 12:00:00,Pike,Weekday,Time Limited Parking,No,208.0,176.0,54.0
+2015-04-16 13:00:00,Pike,Weekday,Paid Parking,No,880.0,722.0,55.0
+2015-04-16 13:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,160.0,52.0
+2015-04-16 13:00:00,Pike,Weekday,Time Limited Parking,No,208.0,160.0,57.0
+2015-04-16 14:00:00,Pike,Weekday,Paid Parking,No,880.0,660.0,57.0
+2015-04-16 14:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,150.0,53.0
+2015-04-16 14:00:00,Pike,Weekday,Time Limited Parking,No,208.0,146.0,59.0
+2015-04-16 15:00:00,Pike,Weekday,Paid Parking,No,854.0,566.0,60.0
+2015-04-16 15:00:00,Pike,Weekday,Paid Parking,Yes,26.0,0.0,100.0
+2015-04-16 15:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,150.0,53.0
+2015-04-16 15:00:00,Pike,Weekday,Time Limited Parking,No,208.0,158.0,57.0
+2015-04-16 16:00:00,Pike,Weekday,Paid Parking,No,854.0,602.0,59.0
+2015-04-16 16:00:00,Pike,Weekday,Paid Parking,Yes,26.0,0.0,100.0
+2015-04-16 16:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,132.0,57.0
+2015-04-16 16:00:00,Pike,Weekday,Time Limited Parking,No,208.0,170.0,55.0
+2015-04-16 17:00:00,Pike,Weekday,Paid Parking,No,854.0,682.0,56.0
+2015-04-16 17:00:00,Pike,Weekday,Paid Parking,Yes,26.0,0.0,100.0
+2015-04-16 17:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,172.0,50.0
+2015-04-16 17:00:00,Pike,Weekday,Time Limited Parking,No,208.0,176.0,54.0
+2015-04-16 18:00:00,Pike,Weekday,Paid Parking,No,854.0,822.0,51.0
+2015-04-16 18:00:00,Pike,Weekday,Paid Parking,Yes,26.0,0.0,100.0
+2015-04-16 18:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,176.0,49.0
+2015-04-16 18:00:00,Pike,Weekday,Time Limited Parking,No,208.0,180.0,54.0
+2015-04-16 19:00:00,Pike,Weekday,Paid Parking,No,880.0,928.0,49.0
+2015-04-16 19:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,190.0,48.0
+2015-04-16 19:00:00,Pike,Weekday,Time Limited Parking,No,208.0,184.0,53.0
+2015-04-16 20:00:00,Pike,Weekday,Paid Parking,No,880.0,954.0,48.0
+2015-04-16 20:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,188.0,48.0
+2015-04-16 20:00:00,Pike,Weekday,Time Limited Parking,No,208.0,194.0,52.0
+2015-04-16 21:00:00,Pike,Weekday,Paid Parking,No,880.0,926.0,49.0
+2015-04-16 21:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,182.0,49.0
+2015-04-16 21:00:00,Pike,Weekday,Time Limited Parking,No,208.0,188.0,53.0
+2015-04-16 22:00:00,Pike,Weekday,Paid Parking,No,880.0,866.0,50.0
+2015-04-16 22:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,178.0,49.0
+2015-04-16 22:00:00,Pike,Weekday,Time Limited Parking,No,208.0,180.0,54.0
+2015-04-16 23:00:00,Pike,Weekday,Paid Parking,No,880.0,820.0,52.0
+2015-04-16 23:00:00,Pike,Weekday,Restricted Parking Zone,No,172.0,160.0,52.0
+2015-04-16 23:00:00,Pike,Weekday,Time Limited Parking,No,208.0,146.0,59.0
+2015-04-21 08:00:00,First Hill,Weekday,Paid Parking,No,1012.0,784.0,56.0
+2015-04-21 08:00:00,First Hill,Weekday,Paid Parking,Yes,12.0,0.0,100.0
+2015-04-21 08:00:00,First Hill,Weekday,Restricted Parking Zone,No,930.0,994.0,48.0
+2015-04-21 09:00:00,First Hill,Weekday,Paid Parking,No,1024.0,872.0,54.0
+2015-04-21 09:00:00,First Hill,Weekday,Restricted Parking Zone,No,930.0,956.0,49.0
+2015-04-21 10:00:00,First Hill,Weekday,Paid Parking,No,1024.0,878.0,54.0
+2015-04-21 10:00:00,First Hill,Weekday,Restricted Parking Zone,No,930.0,960.0,49.0
+2015-04-21 11:00:00,First Hill,Weekday,Paid Parking,No,1024.0,888.0,54.0
+2015-04-21 11:00:00,First Hill,Weekday,Restricted Parking Zone,No,930.0,964.0,49.0
+2015-04-21 12:00:00,First Hill,Weekday,Paid Parking,No,1024.0,848.0,55.0
+2015-04-21 12:00:00,First Hill,Weekday,Restricted Parking Zone,No,930.0,948.0,50.0
+2015-04-21 13:00:00,First Hill,Weekday,Paid Parking,No,1024.0,810.0,56.0
+2015-04-21 13:00:00,First Hill,Weekday,Restricted Parking Zone,No,930.0,934.0,50.0
+2015-04-21 14:00:00,First Hill,Weekday,Paid Parking,No,1024.0,850.0,55.0
+2015-04-21 14:00:00,First Hill,Weekday,Restricted Parking Zone,No,930.0,944.0,50.0
+2015-04-21 15:00:00,First Hill,Weekday,Paid Parking,No,948.0,718.0,57.0
+2015-04-21 15:00:00,First Hill,Weekday,Paid Parking,Yes,76.0,0.0,100.0
+2015-04-21 15:00:00,First Hill,Weekday,Restricted Parking Zone,No,930.0,940.0,50.0
+2015-04-21 16:00:00,First Hill,Weekday,Paid Parking,No,948.0,656.0,59.0
+2015-04-21 16:00:00,First Hill,Weekday,Paid Parking,Yes,76.0,0.0,100.0
+2015-04-21 16:00:00,First Hill,Weekday,Restricted Parking Zone,No,930.0,950.0,49.0
+2015-04-21 17:00:00,First Hill,Weekday,Paid Parking,No,948.0,606.0,61.0
+2015-04-21 17:00:00,First Hill,Weekday,Paid Parking,Yes,76.0,0.0,100.0
+2015-04-21 17:00:00,First Hill,Weekday,Restricted Parking Zone,No,930.0,912.0,50.0
+2015-04-21 18:00:00,First Hill,Weekday,Paid Parking,No,956.0,788.0,55.0
+2015-04-21 18:00:00,First Hill,Weekday,Paid Parking,Yes,68.0,0.0,100.0
+2015-04-21 18:00:00,First Hill,Weekday,Restricted Parking Zone,No,930.0,962.0,49.0
+2015-04-21 19:00:00,First Hill,Weekday,Paid Parking,No,1024.0,920.0,53.0
+2015-04-21 19:00:00,First Hill,Weekday,Restricted Parking Zone,No,930.0,1012.0,48.0
+2015-04-21 20:00:00,First Hill,Weekday,Paid Parking,No,1024.0,908.0,53.0
+2015-04-21 20:00:00,First Hill,Weekday,Restricted Parking Zone,No,930.0,1028.0,47.0
+2015-04-21 21:00:00,First Hill,Weekday,Paid Parking,No,1024.0,826.0,55.0
+2015-04-21 21:00:00,First Hill,Weekday,Restricted Parking Zone,No,930.0,1010.0,48.0
+2015-04-22 08:00:00,Ballard,Weekday,Paid Parking,No,160.0,0.0,100.0
+2015-04-22 09:00:00,Ballard,Weekday,Paid Parking,No,160.0,2.0,99.0
+2015-04-22 10:00:00,Ballard,Weekday,Paid Parking,No,160.0,8.0,95.0
+2015-04-22 11:00:00,Ballard,Weekday,Paid Parking,No,160.0,26.0,86.0
+2015-04-22 12:00:00,Ballard,Weekday,Paid Parking,No,160.0,32.0,83.0
+2015-04-22 13:00:00,Ballard,Weekday,Paid Parking,No,160.0,30.0,84.0
+2015-04-22 14:00:00,Ballard,Weekday,Paid Parking,No,160.0,30.0,84.0
+2015-04-22 15:00:00,Ballard,Weekday,Paid Parking,No,160.0,18.0,90.0
+2015-04-22 16:00:00,Ballard,Weekday,Paid Parking,No,160.0,12.0,93.0
+2015-04-22 17:00:00,Ballard,Weekday,Paid Parking,No,160.0,6.0,96.0
+2015-04-22 18:00:00,Ballard,Weekday,Paid Parking,No,160.0,58.0,73.0
+2015-04-22 19:00:00,Ballard,Weekday,Paid Parking,No,160.0,132.0,55.0
+2015-04-22 20:00:00,Ballard,Weekday,Paid Parking,No,160.0,124.0,56.0
+2015-05-05 07:00:00,Westlake,Weekday,Restricted Parking Zone,No,1718.0,638.0,73.0
+2015-05-05 07:00:00,Westlake,Weekday,Time Limited Parking,No,42.0,12.0,78.0
+2015-05-05 07:00:00,Westlake,Weekday,Unrestricted Parking,No,730.0,336.0,68.0
+2015-05-05 08:00:00,Westlake,Weekday,Restricted Parking Zone,No,1718.0,738.0,70.0
+2015-05-05 08:00:00,Westlake,Weekday,Time Limited Parking,No,42.0,20.0,68.0
+2015-05-05 08:00:00,Westlake,Weekday,Unrestricted Parking,No,730.0,406.0,64.0
+2015-05-05 09:00:00,Westlake,Weekday,Restricted Parking Zone,No,1718.0,956.0,64.0
+2015-05-05 09:00:00,Westlake,Weekday,Time Limited Parking,No,42.0,32.0,57.0
+2015-05-05 09:00:00,Westlake,Weekday,Unrestricted Parking,No,730.0,422.0,63.0
+2015-05-05 10:00:00,Westlake,Weekday,Restricted Parking Zone,No,1718.0,1204.0,59.0
+2015-05-05 10:00:00,Westlake,Weekday,Time Limited Parking,No,42.0,36.0,54.0
+2015-05-05 10:00:00,Westlake,Weekday,Unrestricted Parking,No,730.0,478.0,60.0
+2015-05-05 11:00:00,Westlake,Weekday,Restricted Parking Zone,No,1718.0,1326.0,56.0
+2015-05-05 11:00:00,Westlake,Weekday,Time Limited Parking,No,42.0,36.0,54.0
+2015-05-05 11:00:00,Westlake,Weekday,Unrestricted Parking,No,730.0,506.0,59.0
+2015-05-05 12:00:00,Westlake,Weekday,Restricted Parking Zone,No,1718.0,1312.0,57.0
+2015-05-05 12:00:00,Westlake,Weekday,Time Limited Parking,No,42.0,36.0,54.0
+2015-05-05 12:00:00,Westlake,Weekday,Unrestricted Parking,No,730.0,494.0,60.0
+2015-05-05 13:00:00,Westlake,Weekday,Restricted Parking Zone,No,1718.0,1292.0,57.0
+2015-05-05 13:00:00,Westlake,Weekday,Time Limited Parking,No,42.0,34.0,55.0
+2015-05-05 13:00:00,Westlake,Weekday,Unrestricted Parking,No,730.0,486.0,60.0
+2015-05-05 14:00:00,Westlake,Weekday,Restricted Parking Zone,No,1718.0,1340.0,56.0
+2015-05-05 14:00:00,Westlake,Weekday,Time Limited Parking,No,42.0,34.0,55.0
+2015-05-05 14:00:00,Westlake,Weekday,Unrestricted Parking,No,730.0,512.0,59.0
+2015-05-05 15:00:00,Westlake,Weekday,Restricted Parking Zone,No,1718.0,1306.0,57.0
+2015-05-05 15:00:00,Westlake,Weekday,Time Limited Parking,No,42.0,34.0,55.0
+2015-05-05 15:00:00,Westlake,Weekday,Unrestricted Parking,No,730.0,500.0,59.0
+2015-05-05 16:00:00,Westlake,Weekday,Restricted Parking Zone,No,1718.0,1200.0,59.0
+2015-05-05 16:00:00,Westlake,Weekday,Time Limited Parking,No,42.0,32.0,57.0
+2015-05-05 16:00:00,Westlake,Weekday,Unrestricted Parking,No,730.0,458.0,61.0
+2015-05-05 17:00:00,Westlake,Weekday,Restricted Parking Zone,No,1718.0,1114.0,61.0
+2015-05-05 17:00:00,Westlake,Weekday,Time Limited Parking,No,42.0,34.0,55.0
+2015-05-05 17:00:00,Westlake,Weekday,Unrestricted Parking,No,730.0,376.0,66.0
+2015-05-05 18:00:00,Westlake,Weekday,Restricted Parking Zone,No,1718.0,892.0,66.0
+2015-05-05 18:00:00,Westlake,Weekday,Time Limited Parking,No,42.0,20.0,68.0
+2015-05-05 18:00:00,Westlake,Weekday,Unrestricted Parking,No,730.0,330.0,69.0
+2015-05-05 19:00:00,Westlake,Weekday,Restricted Parking Zone,No,1718.0,794.0,68.0
+2015-05-05 19:00:00,Westlake,Weekday,Time Limited Parking,No,42.0,16.0,72.0
+2015-05-05 19:00:00,Westlake,Weekday,Unrestricted Parking,No,730.0,324.0,69.0
+2015-07-15 08:00:00,Ballard,Weekday,Paid Parking,No,1048.0,286.0,79.0
+2015-07-15 08:00:00,Ballard,Weekday,Time Limited Parking,No,326.0,204.0,62.0
+2015-07-15 08:00:00,Ballard,Weekday,Time Limited Parking,YES,26.0,4.0,87.0
+2015-07-15 08:00:00,Ballard,Weekday,Unrestricted Parking,No,412.0,384.0,52.0
+2015-07-15 09:00:00,Ballard,Weekday,Paid Parking,No,1048.0,456.0,70.0
+2015-07-15 09:00:00,Ballard,Weekday,Time Limited Parking,No,326.0,240.0,58.0
+2015-07-15 09:00:00,Ballard,Weekday,Time Limited Parking,YES,26.0,6.0,81.0
+2015-07-15 09:00:00,Ballard,Weekday,Unrestricted Parking,No,412.0,386.0,52.0
+2015-07-15 10:00:00,Ballard,Weekday,Paid Parking,No,1048.0,582.0,64.0
+2015-07-15 10:00:00,Ballard,Weekday,Time Limited Parking,NO,26.0,8.0,76.0
+2015-07-15 10:00:00,Ballard,Weekday,Time Limited Parking,No,326.0,260.0,56.0
+2015-07-15 10:00:00,Ballard,Weekday,Unrestricted Parking,No,412.0,400.0,51.0
+2015-07-15 11:00:00,Ballard,Weekday,Paid Parking,No,1048.0,658.0,61.0
+2015-07-15 11:00:00,Ballard,Weekday,Time Limited Parking,NO,26.0,22.0,54.0
+2015-07-15 11:00:00,Ballard,Weekday,Time Limited Parking,No,326.0,236.0,58.0
+2015-07-15 11:00:00,Ballard,Weekday,Unrestricted Parking,No,412.0,402.0,51.0
+2015-07-15 12:00:00,Ballard,Weekday,Paid Parking,No,1048.0,752.0,58.0
+2015-07-15 12:00:00,Ballard,Weekday,Time Limited Parking,NO,26.0,18.0,59.0
+2015-07-15 12:00:00,Ballard,Weekday,Time Limited Parking,No,326.0,222.0,59.0
+2015-07-15 12:00:00,Ballard,Weekday,Unrestricted Parking,No,412.0,404.0,50.0
+2015-07-15 13:00:00,Ballard,Weekday,Paid Parking,No,1048.0,850.0,55.0
+2015-07-15 13:00:00,Ballard,Weekday,Time Limited Parking,NO,26.0,8.0,76.0
+2015-07-15 13:00:00,Ballard,Weekday,Time Limited Parking,No,326.0,232.0,58.0
+2015-07-15 13:00:00,Ballard,Weekday,Unrestricted Parking,No,412.0,408.0,50.0
+2015-07-15 14:00:00,Ballard,Weekday,Paid Parking,No,1048.0,738.0,59.0
+2015-07-15 14:00:00,Ballard,Weekday,Time Limited Parking,No,326.0,244.0,57.0
+2015-07-15 14:00:00,Ballard,Weekday,Time Limited Parking,YES,26.0,10.0,72.0
+2015-07-15 14:00:00,Ballard,Weekday,Unrestricted Parking,No,412.0,384.0,52.0
+2015-07-15 15:00:00,Ballard,Weekday,Paid Parking,No,1048.0,682.0,61.0
+2015-07-15 15:00:00,Ballard,Weekday,Time Limited Parking,No,326.0,244.0,57.0
+2015-07-15 15:00:00,Ballard,Weekday,Time Limited Parking,YES,26.0,6.0,81.0
+2015-07-15 15:00:00,Ballard,Weekday,Unrestricted Parking,No,412.0,372.0,53.0
+2015-07-15 16:00:00,Ballard,Weekday,Paid Parking,No,1048.0,588.0,64.0
+2015-07-15 16:00:00,Ballard,Weekday,Time Limited Parking,No,326.0,232.0,58.0
+2015-07-15 16:00:00,Ballard,Weekday,Time Limited Parking,YES,26.0,6.0,81.0
+2015-07-15 16:00:00,Ballard,Weekday,Unrestricted Parking,No,412.0,376.0,52.0
+2015-07-15 17:00:00,Ballard,Weekday,Paid Parking,No,1048.0,694.0,60.0
+2015-07-15 17:00:00,Ballard,Weekday,Time Limited Parking,No,326.0,228.0,59.0
+2015-07-15 17:00:00,Ballard,Weekday,Time Limited Parking,YES,26.0,10.0,72.0
+2015-07-15 17:00:00,Ballard,Weekday,Unrestricted Parking,No,412.0,374.0,52.0
+2015-07-15 18:00:00,Ballard,Weekday,Paid Parking,No,1048.0,942.0,53.0
+2015-07-15 18:00:00,Ballard,Weekday,Time Limited Parking,NO,26.0,18.0,59.0
+2015-07-15 18:00:00,Ballard,Weekday,Time Limited Parking,No,326.0,250.0,57.0
+2015-07-15 18:00:00,Ballard,Weekday,Unrestricted Parking,No,412.0,394.0,51.0
+2015-07-15 19:00:00,Ballard,Weekday,Paid Parking,No,1048.0,1076.0,49.0
+2015-07-15 19:00:00,Ballard,Weekday,Time Limited Parking,NO,26.0,12.0,68.0
+2015-07-15 19:00:00,Ballard,Weekday,Time Limited Parking,No,326.0,274.0,54.0
+2015-07-15 19:00:00,Ballard,Weekday,Unrestricted Parking,No,412.0,454.0,48.0
+2015-07-15 20:00:00,Ballard,Weekday,Paid Parking,No,1048.0,1058.0,50.0
+2015-07-15 20:00:00,Ballard,Weekday,Time Limited Parking,NO,26.0,6.0,81.0
+2015-07-15 20:00:00,Ballard,Weekday,Time Limited Parking,No,326.0,250.0,57.0
+2015-07-15 20:00:00,Ballard,Weekday,Unrestricted Parking,No,412.0,428.0,49.0
+2015-07-15 21:00:00,Ballard,Weekday,Paid Parking,No,1048.0,1032.0,50.0
+2015-07-15 21:00:00,Ballard,Weekday,Time Limited Parking,NO,26.0,6.0,81.0
+2015-07-15 21:00:00,Ballard,Weekday,Time Limited Parking,No,326.0,224.0,59.0
+2015-07-15 21:00:00,Ballard,Weekday,Unrestricted Parking,No,412.0,362.0,53.0
+2015-07-16 08:00:00,Ballard,Weekday,Paid Parking,No,160.0,0.0,100.0
+2015-07-16 09:00:00,Ballard,Weekday,Paid Parking,No,160.0,4.0,98.0
+2015-07-16 10:00:00,Ballard,Weekday,Paid Parking,No,160.0,40.0,80.0
+2015-07-16 11:00:00,Ballard,Weekday,Paid Parking,No,160.0,130.0,55.0
+2015-07-16 12:00:00,Ballard,Weekday,Paid Parking,No,160.0,148.0,52.0
+2015-07-16 13:00:00,Ballard,Weekday,Paid Parking,No,160.0,156.0,51.0
+2015-07-16 14:00:00,Ballard,Weekday,Paid Parking,No,160.0,140.0,53.0
+2015-07-16 15:00:00,Ballard,Weekday,Paid Parking,No,160.0,146.0,52.0
+2015-07-16 16:00:00,Ballard,Weekday,Paid Parking,No,160.0,116.0,58.0
+2015-07-16 17:00:00,Ballard,Weekday,Paid Parking,No,160.0,92.0,63.0
+2015-07-16 18:00:00,Ballard,Weekday,Paid Parking,No,160.0,98.0,62.0
+2015-07-16 19:00:00,Ballard,Weekday,Paid Parking,No,160.0,84.0,66.0
+2015-07-16 20:00:00,Ballard,Weekday,Paid Parking,No,160.0,96.0,62.0
+2015-07-22 08:00:00,Pioneer Square,Weekday,Paid Parking,No,872.0,592.0,60.0
+2015-07-22 08:00:00,Pioneer Square,Weekday,Paid Parking,Yes,194.0,0.0,100.0
+2015-07-22 09:00:00,Pioneer Square,Weekday,Paid Parking,No,1066.0,860.0,55.0
+2015-07-22 10:00:00,Pioneer Square,Weekday,Paid Parking,No,1066.0,1006.0,51.0
+2015-07-22 11:00:00,Pioneer Square,Weekday,Paid Parking,No,1066.0,1054.0,50.0
+2015-07-22 12:00:00,Pioneer Square,Weekday,Paid Parking,No,1066.0,1058.0,50.0
+2015-07-22 13:00:00,Pioneer Square,Weekday,Paid Parking,No,1066.0,1058.0,50.0
+2015-07-22 14:00:00,Pioneer Square,Weekday,Paid Parking,No,1066.0,956.0,53.0
+2015-07-22 15:00:00,Pioneer Square,Weekday,Paid Parking,No,964.0,884.0,52.0
+2015-07-22 15:00:00,Pioneer Square,Weekday,Paid Parking,Yes,102.0,0.0,100.0
+2015-07-22 16:00:00,Pioneer Square,Weekday,Paid Parking,No,928.0,816.0,53.0
+2015-07-22 16:00:00,Pioneer Square,Weekday,Paid Parking,Yes,138.0,0.0,100.0
+2015-07-22 17:00:00,Pioneer Square,Weekday,Paid Parking,No,928.0,746.0,55.0
+2015-07-22 17:00:00,Pioneer Square,Weekday,Paid Parking,Yes,138.0,2.0,99.0
+2015-07-22 18:00:00,Pioneer Square,Weekday,Paid Parking,No,1006.0,778.0,56.0
+2015-07-22 18:00:00,Pioneer Square,Weekday,Paid Parking,Yes,60.0,0.0,100.0
+2015-07-22 19:00:00,Pioneer Square,Weekday,Paid Parking,No,1040.0,882.0,54.0
+2015-07-22 19:00:00,Pioneer Square,Weekday,Paid Parking,Yes,26.0,0.0,100.0
+2015-07-22 20:00:00,Pioneer Square,Weekday,Paid Parking,No,1040.0,874.0,54.0
+2015-07-22 20:00:00,Pioneer Square,Weekday,Paid Parking,Yes,26.0,0.0,100.0
+2015-07-22 21:00:00,Pioneer Square,Weekday,Paid Parking,No,1040.0,754.0,58.0
+2015-07-22 21:00:00,Pioneer Square,Weekday,Paid Parking,Yes,26.0,0.0,100.0
+2016-04-05 08:00:00,12th Ave,Weekday,Paid Parking,No,75.0,20.0,79.0
+2016-04-05 09:00:00,12th Ave,Weekday,Paid Parking,No,75.0,40.0,65.0
+2016-04-05 10:00:00,12th Ave,Weekday,Paid Parking,No,75.0,54.0,58.0
+2016-04-05 11:00:00,12th Ave,Weekday,Paid Parking,No,75.0,64.0,54.0
+2016-04-05 12:00:00,12th Ave,Weekday,Paid Parking,No,75.0,71.0,51.0
+2016-04-05 13:00:00,12th Ave,Weekday,Paid Parking,No,75.0,69.0,52.0
+2016-04-05 14:00:00,12th Ave,Weekday,Paid Parking,No,75.0,59.0,56.0
+2016-04-05 15:00:00,12th Ave,Weekday,Paid Parking,No,75.0,53.0,59.0
+2016-04-05 16:00:00,12th Ave,Weekday,Paid Parking,No,75.0,55.0,58.0
+2016-04-05 17:00:00,12th Ave,Weekday,Paid Parking,No,75.0,64.0,54.0
+2016-04-05 18:00:00,12th Ave,Weekday,Paid Parking,No,75.0,75.0,50.0
+2016-04-05 19:00:00,12th Ave,Weekday,Paid Parking,No,75.0,81.0,48.0
+2016-04-05 20:00:00,12th Ave,Weekday,Paid Parking,No,75.0,73.0,51.0
+2016-04-05 21:00:00,12th Ave,Weekday,Paid Parking,No,75.0,57.0,57.0
+2016-04-05 22:00:00,12th Ave,Weekday,Paid Parking,No,75.0,57.0,57.0
+2016-04-05 23:00:00,12th Ave,Weekday,Paid Parking,No,75.0,47.0,61.0
+2016-04-06 00:00:00,12th Ave,Weekday,Paid Parking,No,75.0,41.0,65.0
+2016-04-06 08:00:00,Uptown Triangle,Weekday,Carpool Parking,No,18.0,6.0,75.0
+2016-04-06 08:00:00,Uptown Triangle,Weekday,Paid Parking,No,221.0,66.0,77.0
+2016-04-06 09:00:00,Uptown Triangle,Weekday,Carpool Parking,No,18.0,6.0,75.0
+2016-04-06 09:00:00,Uptown Triangle,Weekday,Paid Parking,No,221.0,64.0,78.0
+2016-04-06 10:00:00,Uptown Triangle,Weekday,Carpool Parking,No,18.0,6.0,75.0
+2016-04-06 10:00:00,Uptown Triangle,Weekday,Paid Parking,No,221.0,93.0,70.0
+2016-04-06 11:00:00,Uptown Triangle,Weekday,Carpool Parking,No,18.0,7.0,72.0
+2016-04-06 11:00:00,Uptown Triangle,Weekday,Paid Parking,No,221.0,126.0,64.0
+2016-04-06 12:00:00,Uptown Triangle,Weekday,Carpool Parking,No,18.0,7.0,72.0
+2016-04-06 12:00:00,Uptown Triangle,Weekday,Paid Parking,No,221.0,139.0,61.0
+2016-04-06 13:00:00,Uptown Triangle,Weekday,Carpool Parking,No,18.0,10.0,64.0
+2016-04-06 13:00:00,Uptown Triangle,Weekday,Paid Parking,No,221.0,139.0,61.0
+2016-04-06 14:00:00,Uptown Triangle,Weekday,Carpool Parking,No,18.0,10.0,64.0
+2016-04-06 14:00:00,Uptown Triangle,Weekday,Paid Parking,No,221.0,148.0,60.0
+2016-04-06 15:00:00,Uptown Triangle,Weekday,Carpool Parking,No,18.0,5.0,78.0
+2016-04-06 15:00:00,Uptown Triangle,Weekday,Paid Parking,No,221.0,147.0,60.0
+2016-04-06 16:00:00,Uptown Triangle,Weekday,Carpool Parking,No,18.0,4.0,82.0
+2016-04-06 16:00:00,Uptown Triangle,Weekday,Paid Parking,No,221.0,139.0,61.0
+2016-04-06 17:00:00,Uptown Triangle,Weekday,Carpool Parking,No,18.0,2.0,90.0
+2016-04-06 17:00:00,Uptown Triangle,Weekday,Paid Parking,No,221.0,132.0,63.0
+2016-04-06 18:00:00,Uptown Triangle,Weekday,Carpool Parking,No,18.0,1.0,95.0
+2016-04-06 18:00:00,Uptown Triangle,Weekday,Paid Parking,No,221.0,129.0,63.0
+2016-04-06 19:00:00,Uptown Triangle,Weekday,Carpool Parking,No,18.0,3.0,86.0
+2016-04-06 19:00:00,Uptown Triangle,Weekday,Paid Parking,No,221.0,151.0,59.0
+2016-04-06 20:00:00,Uptown Triangle,Weekday,Carpool Parking,No,18.0,3.0,86.0
+2016-04-06 20:00:00,Uptown Triangle,Weekday,Paid Parking,No,221.0,140.0,61.0
+2016-04-06 21:00:00,Uptown Triangle,Weekday,Carpool Parking,No,18.0,4.0,82.0
+2016-04-06 21:00:00,Uptown Triangle,Weekday,Paid Parking,No,221.0,132.0,63.0
+2016-04-07 00:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,222.0,59.0
+2016-04-07 00:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,109.0,46.0
+2016-04-07 00:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,83.0,46.0
+2016-04-07 00:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,32.0,37.0
+2016-04-07 08:00:00,Ballard,Weekday,Paid Parking,No,465.0,194.0,71.0
+2016-04-07 08:00:00,Capitol Hill,Weekday,Paid Parking,No,312.0,120.0,72.0
+2016-04-07 08:00:00,Capitol Hill,Weekday,Paid Parking,Yes,6.0,0.0,100.0
+2016-04-07 08:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,87.0,51.0
+2016-04-07 08:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,57.0,56.0
+2016-04-07 08:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,29.0,40.0
+2016-04-07 08:00:00,Green Lake,Weekday,Paid Parking,No,106.0,44.0,71.0
+2016-04-07 09:00:00,Ballard,Weekday,Paid Parking,No,465.0,254.0,65.0
+2016-04-07 09:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,137.0,70.0
+2016-04-07 09:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,84.0,52.0
+2016-04-07 09:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,60.0,55.0
+2016-04-07 09:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,26.0,42.0
+2016-04-07 09:00:00,Green Lake,Weekday,Paid Parking,No,106.0,53.0,67.0
+2016-04-07 10:00:00,Ballard,Weekday,Paid Parking,No,465.0,303.0,61.0
+2016-04-07 10:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,152.0,68.0
+2016-04-07 10:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,90.0,51.0
+2016-04-07 10:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,67.0,52.0
+2016-04-07 10:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,27.0,41.0
+2016-04-07 10:00:00,Green Lake,Weekday,Paid Parking,No,106.0,71.0,60.0
+2016-04-07 11:00:00,Ballard,Weekday,Paid Parking,No,465.0,340.0,58.0
+2016-04-07 11:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,184.0,63.0
+2016-04-07 11:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,91.0,50.0
+2016-04-07 11:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,68.0,51.0
+2016-04-07 11:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,29.0,40.0
+2016-04-07 11:00:00,Green Lake,Weekday,Paid Parking,No,106.0,92.0,54.0
+2016-04-07 12:00:00,Ballard,Weekday,Paid Parking,No,465.0,364.0,56.0
+2016-04-07 12:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,220.0,59.0
+2016-04-07 12:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,98.0,48.0
+2016-04-07 12:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,65.0,53.0
+2016-04-07 12:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,26.0,42.0
+2016-04-07 12:00:00,Green Lake,Weekday,Paid Parking,No,106.0,112.0,49.0
+2016-04-07 13:00:00,Ballard,Weekday,Paid Parking,No,465.0,351.0,57.0
+2016-04-07 13:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,201.0,61.0
+2016-04-07 13:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,99.0,48.0
+2016-04-07 13:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,59.0,55.0
+2016-04-07 13:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,28.0,40.0
+2016-04-07 13:00:00,Green Lake,Weekday,Paid Parking,No,106.0,107.0,50.0
+2016-04-07 14:00:00,Ballard,Weekday,Paid Parking,No,465.0,347.0,57.0
+2016-04-07 14:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,193.0,62.0
+2016-04-07 14:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,95.0,49.0
+2016-04-07 14:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,64.0,53.0
+2016-04-07 14:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,28.0,40.0
+2016-04-07 14:00:00,Green Lake,Weekday,Paid Parking,No,106.0,98.0,52.0
+2016-04-07 15:00:00,Ballard,Weekday,Paid Parking,No,465.0,319.0,59.0
+2016-04-07 15:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,198.0,62.0
+2016-04-07 15:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,90.0,51.0
+2016-04-07 15:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,70.0,51.0
+2016-04-07 15:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,26.0,42.0
+2016-04-07 15:00:00,Green Lake,Weekday,Paid Parking,No,106.0,90.0,54.0
+2016-04-07 16:00:00,Ballard,Weekday,Paid Parking,No,465.0,323.0,59.0
+2016-04-07 16:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,175.0,65.0
+2016-04-07 16:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,89.0,51.0
+2016-04-07 16:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,65.0,53.0
+2016-04-07 16:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,29.0,40.0
+2016-04-07 16:00:00,Green Lake,Weekday,Paid Parking,No,106.0,104.0,50.0
+2016-04-07 17:00:00,Ballard,Weekday,Paid Parking,No,465.0,373.0,55.0
+2016-04-07 17:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,194.0,62.0
+2016-04-07 17:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,99.0,48.0
+2016-04-07 17:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,70.0,51.0
+2016-04-07 17:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,28.0,40.0
+2016-04-07 17:00:00,Green Lake,Weekday,Paid Parking,No,106.0,111.0,49.0
+2016-04-07 18:00:00,Ballard,Weekday,Paid Parking,No,465.0,426.0,52.0
+2016-04-07 18:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,255.0,55.0
+2016-04-07 18:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,106.0,46.0
+2016-04-07 18:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,77.0,48.0
+2016-04-07 18:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,31.0,38.0
+2016-04-07 18:00:00,Green Lake,Weekday,Paid Parking,No,106.0,109.0,49.0
+2016-04-07 19:00:00,Ballard,Weekday,Paid Parking,No,465.0,437.0,52.0
+2016-04-07 19:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,306.0,51.0
+2016-04-07 19:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,107.0,46.0
+2016-04-07 19:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,75.0,49.0
+2016-04-07 19:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,31.0,38.0
+2016-04-07 19:00:00,Green Lake,Weekday,Paid Parking,No,106.0,114.0,48.0
+2016-04-07 20:00:00,Ballard,Weekday,Paid Parking,No,465.0,480.0,49.0
+2016-04-07 20:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,334.0,49.0
+2016-04-07 20:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,109.0,46.0
+2016-04-07 20:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,80.0,47.0
+2016-04-07 20:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,33.0,37.0
+2016-04-07 20:00:00,Green Lake,Weekday,Paid Parking,No,106.0,113.0,48.0
+2016-04-07 21:00:00,Ballard,Weekday,Paid Parking,No,465.0,447.0,51.0
+2016-04-07 21:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,333.0,49.0
+2016-04-07 21:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,104.0,47.0
+2016-04-07 21:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,78.0,48.0
+2016-04-07 21:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,31.0,38.0
+2016-04-07 21:00:00,Green Lake,Weekday,Paid Parking,No,106.0,94.0,53.0
+2016-04-07 22:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,296.0,52.0
+2016-04-07 22:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,101.0,48.0
+2016-04-07 22:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,76.0,49.0
+2016-04-07 22:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,31.0,38.0
+2016-04-07 22:00:00,Green Lake,Weekday,Paid Parking,No,106.0,75.0,59.0
+2016-04-07 23:00:00,Capitol Hill,Weekday,Paid Parking,No,318.0,257.0,55.0
+2016-04-07 23:00:00,Capitol Hill,Weekday,Restricted Parking Zone,No,92.0,101.0,48.0
+2016-04-07 23:00:00,Capitol Hill,Weekday,Time Limited Parking,No,72.0,78.0,48.0
+2016-04-07 23:00:00,Capitol Hill,Weekday,Unrestricted Parking,No,19.0,31.0,38.0
+2016-04-19 08:00:00,Belltown,Weekday,Carpool Parking,No,16.0,5.0,76.0
+2016-04-19 08:00:00,Belltown,Weekday,Paid Parking,No,337.0,203.0,62.0
+2016-04-19 08:00:00,Belltown,Weekday,Paid Parking,Yes,32.0,0.0,100.0
+2016-04-19 08:00:00,Dexter,Weekday,Restricted Parking Zone,No,23.0,18.0,56.0
+2016-04-19 08:00:00,Dexter,Weekday,Time Limited Parking,No,46.0,40.0,53.0
+2016-04-19 08:00:00,Dexter,Weekday,Unrestricted Parking,No,6.0,8.0,43.0
+2016-04-19 09:00:00,Belltown,Weekday,Carpool Parking,No,16.0,6.0,73.0
+2016-04-19 09:00:00,Belltown,Weekday,Paid Parking,No,369.0,269.0,58.0
+2016-04-19 09:00:00,Dexter,Weekday,Restricted Parking Zone,No,23.0,16.0,59.0
+2016-04-19 09:00:00,Dexter,Weekday,Time Limited Parking,No,46.0,45.0,51.0
+2016-04-19 09:00:00,Dexter,Weekday,Unrestricted Parking,No,6.0,8.0,43.0
+2016-04-19 10:00:00,Belltown,Weekday,Carpool Parking,No,16.0,12.0,57.0
+2016-04-19 10:00:00,Belltown,Weekday,Paid Parking,No,369.0,306.0,55.0
+2016-04-19 10:00:00,Dexter,Weekday,Restricted Parking Zone,No,23.0,19.0,55.0
+2016-04-19 10:00:00,Dexter,Weekday,Time Limited Parking,No,46.0,46.0,50.0
+2016-04-19 10:00:00,Dexter,Weekday,Unrestricted Parking,No,6.0,8.0,43.0
+2016-04-19 11:00:00,Belltown,Weekday,Carpool Parking,No,16.0,13.0,55.0
+2016-04-19 11:00:00,Belltown,Weekday,Paid Parking,No,369.0,346.0,52.0
+2016-04-19 11:00:00,Dexter,Weekday,Restricted Parking Zone,No,23.0,20.0,53.0
+2016-04-19 11:00:00,Dexter,Weekday,Time Limited Parking,No,46.0,43.0,52.0
+2016-04-19 11:00:00,Dexter,Weekday,Unrestricted Parking,No,6.0,8.0,43.0
+2016-04-19 12:00:00,Belltown,Weekday,Carpool Parking,No,16.0,16.0,50.0
+2016-04-19 12:00:00,Belltown,Weekday,Paid Parking,No,369.0,319.0,54.0
+2016-04-19 12:00:00,Dexter,Weekday,Restricted Parking Zone,No,23.0,15.0,61.0
+2016-04-19 12:00:00,Dexter,Weekday,Time Limited Parking,No,46.0,46.0,50.0
+2016-04-19 12:00:00,Dexter,Weekday,Unrestricted Parking,No,6.0,10.0,38.0
+2016-04-19 13:00:00,Belltown,Weekday,Carpool Parking,No,16.0,17.0,48.0
+2016-04-19 13:00:00,Belltown,Weekday,Paid Parking,No,369.0,315.0,54.0
+2016-04-19 13:00:00,Dexter,Weekday,Restricted Parking Zone,No,23.0,19.0,55.0
+2016-04-19 13:00:00,Dexter,Weekday,Time Limited Parking,No,46.0,46.0,50.0
+2016-04-19 13:00:00,Dexter,Weekday,Unrestricted Parking,No,6.0,9.0,40.0
+2016-04-19 14:00:00,Belltown,Weekday,Carpool Parking,No,16.0,16.0,50.0
+2016-04-19 14:00:00,Belltown,Weekday,Paid Parking,No,369.0,289.0,56.0
+2016-04-19 14:00:00,Dexter,Weekday,Restricted Parking Zone,No,23.0,15.0,61.0
+2016-04-19 14:00:00,Dexter,Weekday,Time Limited Parking,No,46.0,38.0,55.0
+2016-04-19 14:00:00,Dexter,Weekday,Unrestricted Parking,No,6.0,8.0,43.0
+2016-04-19 15:00:00,Belltown,Weekday,Carpool Parking,No,16.0,14.0,53.0
+2016-04-19 15:00:00,Belltown,Weekday,Paid Parking,No,329.0,258.0,56.0
+2016-04-19 15:00:00,Belltown,Weekday,Paid Parking,Yes,40.0,0.0,100.0
+2016-04-19 15:00:00,Dexter,Weekday,Restricted Parking Zone,No,23.0,12.0,66.0
+2016-04-19 15:00:00,Dexter,Weekday,Time Limited Parking,No,46.0,26.0,64.0
+2016-04-19 15:00:00,Dexter,Weekday,Unrestricted Parking,No,6.0,8.0,43.0
+2016-04-19 16:00:00,Belltown,Weekday,Carpool Parking,No,16.0,10.0,62.0
+2016-04-19 16:00:00,Belltown,Weekday,Paid Parking,No,329.0,238.0,58.0
+2016-04-19 16:00:00,Belltown,Weekday,Paid Parking,Yes,40.0,0.0,100.0
+2016-04-19 16:00:00,Dexter,Weekday,Restricted Parking Zone,No,23.0,14.0,62.0
+2016-04-19 16:00:00,Dexter,Weekday,Time Limited Parking,No,46.0,34.0,57.0
+2016-04-19 16:00:00,Dexter,Weekday,Unrestricted Parking,No,6.0,8.0,43.0
+2016-04-19 17:00:00,Belltown,Weekday,Carpool Parking,No,16.0,10.0,62.0
+2016-04-19 17:00:00,Belltown,Weekday,Paid Parking,No,329.0,241.0,58.0
+2016-04-19 17:00:00,Belltown,Weekday,Paid Parking,Yes,40.0,0.0,100.0
+2016-04-19 17:00:00,Dexter,Weekday,Restricted Parking Zone,No,23.0,11.0,68.0
+2016-04-19 17:00:00,Dexter,Weekday,Time Limited Parking,No,46.0,23.0,67.0
+2016-04-19 17:00:00,Dexter,Weekday,Unrestricted Parking,No,6.0,9.0,40.0
+2016-04-19 18:00:00,Belltown,Weekday,Carpool Parking,No,16.0,13.0,55.0
+2016-04-19 18:00:00,Belltown,Weekday,Paid Parking,No,354.0,297.0,54.0
+2016-04-19 18:00:00,Belltown,Weekday,Paid Parking,Yes,15.0,0.0,100.0
+2016-04-19 18:00:00,Dexter,Weekday,Restricted Parking Zone,No,23.0,8.0,74.0
+2016-04-19 18:00:00,Dexter,Weekday,Time Limited Parking,No,46.0,18.0,72.0
+2016-04-19 18:00:00,Dexter,Weekday,Unrestricted Parking,No,6.0,7.0,46.0
+2016-04-19 19:00:00,Belltown,Weekday,Carpool Parking,No,16.0,15.0,52.0
+2016-04-19 19:00:00,Belltown,Weekday,Paid Parking,No,369.0,321.0,53.0
+2016-04-19 19:00:00,Dexter,Weekday,Restricted Parking Zone,No,23.0,12.0,66.0
+2016-04-19 19:00:00,Dexter,Weekday,Time Limited Parking,No,46.0,17.0,73.0
+2016-04-19 19:00:00,Dexter,Weekday,Unrestricted Parking,No,6.0,8.0,43.0
+2016-04-19 20:00:00,Belltown,Weekday,Carpool Parking,No,16.0,18.0,47.0
+2016-04-19 20:00:00,Belltown,Weekday,Paid Parking,No,369.0,320.0,54.0
+2016-04-19 20:00:00,Dexter,Weekday,Restricted Parking Zone,No,23.0,9.0,72.0
+2016-04-19 20:00:00,Dexter,Weekday,Time Limited Parking,No,46.0,12.0,79.0
+2016-04-19 20:00:00,Dexter,Weekday,Unrestricted Parking,No,6.0,5.0,55.0
+2016-04-19 21:00:00,Belltown,Weekday,Carpool Parking,No,16.0,15.0,52.0
+2016-04-19 21:00:00,Belltown,Weekday,Paid Parking,No,369.0,286.0,56.0
+2016-04-20 08:00:00,15th Ave,Weekday,Restricted Parking Zone,No,2.0,3.0,40.0
+2016-04-20 08:00:00,15th Ave,Weekday,Time Limited Parking,No,75.0,53.0,59.0
+2016-04-20 08:00:00,15th Ave,Weekday,Unrestricted Parking,No,3.0,4.0,43.0
+2016-04-20 09:00:00,15th Ave,Weekday,Restricted Parking Zone,No,2.0,3.0,40.0
+2016-04-20 09:00:00,15th Ave,Weekday,Time Limited Parking,No,75.0,58.0,56.0
+2016-04-20 09:00:00,15th Ave,Weekday,Unrestricted Parking,No,3.0,2.0,60.0
+2016-04-20 10:00:00,15th Ave,Weekday,Restricted Parking Zone,No,2.0,4.0,33.0
+2016-04-20 10:00:00,15th Ave,Weekday,Time Limited Parking,No,75.0,56.0,57.0
+2016-04-20 10:00:00,15th Ave,Weekday,Unrestricted Parking,No,3.0,4.0,43.0
+2016-04-20 11:00:00,15th Ave,Weekday,Restricted Parking Zone,No,2.0,3.0,40.0
+2016-04-20 11:00:00,15th Ave,Weekday,Time Limited Parking,No,75.0,64.0,54.0
+2016-04-20 11:00:00,15th Ave,Weekday,Unrestricted Parking,No,3.0,5.0,38.0
+2016-04-20 12:00:00,15th Ave,Weekday,Restricted Parking Zone,No,2.0,3.0,40.0
+2016-04-20 12:00:00,15th Ave,Weekday,Time Limited Parking,No,75.0,73.0,51.0
+2016-04-20 12:00:00,15th Ave,Weekday,Unrestricted Parking,No,3.0,3.0,50.0
+2016-04-20 13:00:00,15th Ave,Weekday,Restricted Parking Zone,No,2.0,3.0,40.0
+2016-04-20 13:00:00,15th Ave,Weekday,Time Limited Parking,No,75.0,68.0,52.0
+2016-04-20 13:00:00,15th Ave,Weekday,Unrestricted Parking,No,3.0,3.0,50.0
+2016-04-20 14:00:00,15th Ave,Weekday,Restricted Parking Zone,No,2.0,4.0,33.0
+2016-04-20 14:00:00,15th Ave,Weekday,Time Limited Parking,No,75.0,76.0,50.0
+2016-04-20 14:00:00,15th Ave,Weekday,Unrestricted Parking,No,3.0,5.0,38.0
+2016-04-20 15:00:00,15th Ave,Weekday,Restricted Parking Zone,No,2.0,3.0,40.0
+2016-04-20 15:00:00,15th Ave,Weekday,Time Limited Parking,No,75.0,64.0,54.0
+2016-04-20 15:00:00,15th Ave,Weekday,Unrestricted Parking,No,3.0,2.0,60.0
+2016-04-20 16:00:00,15th Ave,Weekday,Restricted Parking Zone,No,2.0,4.0,33.0
+2016-04-20 16:00:00,15th Ave,Weekday,Time Limited Parking,No,75.0,69.0,52.0
+2016-04-20 16:00:00,15th Ave,Weekday,Unrestricted Parking,No,3.0,2.0,60.0
+2016-04-20 17:00:00,15th Ave,Weekday,Restricted Parking Zone,No,2.0,3.0,40.0
+2016-04-20 17:00:00,15th Ave,Weekday,Time Limited Parking,No,75.0,69.0,52.0
+2016-04-20 17:00:00,15th Ave,Weekday,Unrestricted Parking,No,3.0,3.0,50.0
+2016-04-20 18:00:00,15th Ave,Weekday,Restricted Parking Zone,No,2.0,4.0,33.0
+2016-04-20 18:00:00,15th Ave,Weekday,Time Limited Parking,No,75.0,69.0,52.0
+2016-04-20 18:00:00,15th Ave,Weekday,Unrestricted Parking,No,3.0,4.0,43.0
+2016-04-20 19:00:00,15th Ave,Weekday,Restricted Parking Zone,No,2.0,4.0,33.0
+2016-04-20 19:00:00,15th Ave,Weekday,Time Limited Parking,No,75.0,81.0,48.0
+2016-04-20 19:00:00,15th Ave,Weekday,Unrestricted Parking,No,3.0,4.0,43.0
+2016-04-20 20:00:00,15th Ave,Weekday,Restricted Parking Zone,No,2.0,4.0,33.0
+2016-04-20 20:00:00,15th Ave,Weekday,Time Limited Parking,No,75.0,82.0,48.0
+2016-04-20 20:00:00,15th Ave,Weekday,Unrestricted Parking,No,3.0,3.0,50.0
+2016-04-21 08:00:00,Denny Triangle,Weekday,Carpool Parking,No,10.0,7.0,59.0
+2016-04-21 08:00:00,Denny Triangle,Weekday,Paid Parking,No,420.0,322.0,57.0
+2016-04-21 08:00:00,Denny Triangle,Weekday,Paid Parking,Yes,24.0,0.0,100.0
+2016-04-21 09:00:00,Denny Triangle,Weekday,Carpool Parking,No,10.0,7.0,59.0
+2016-04-21 09:00:00,Denny Triangle,Weekday,Paid Parking,No,444.0,386.0,53.0
+2016-04-21 10:00:00,Denny Triangle,Weekday,Carpool Parking,No,10.0,9.0,53.0
+2016-04-21 10:00:00,Denny Triangle,Weekday,Paid Parking,No,444.0,419.0,51.0
+2016-04-21 11:00:00,Denny Triangle,Weekday,Carpool Parking,No,10.0,9.0,53.0
+2016-04-21 11:00:00,Denny Triangle,Weekday,Paid Parking,No,444.0,436.0,50.0
+2016-04-21 12:00:00,Denny Triangle,Weekday,Carpool Parking,No,10.0,9.0,53.0
+2016-04-21 12:00:00,Denny Triangle,Weekday,Paid Parking,No,444.0,429.0,51.0
+2016-04-21 13:00:00,Denny Triangle,Weekday,Carpool Parking,No,10.0,9.0,53.0
+2016-04-21 13:00:00,Denny Triangle,Weekday,Paid Parking,No,444.0,404.0,52.0
+2016-04-21 14:00:00,Denny Triangle,Weekday,Carpool Parking,No,10.0,9.0,53.0
+2016-04-21 14:00:00,Denny Triangle,Weekday,Paid Parking,No,444.0,396.0,53.0
+2016-04-21 15:00:00,Denny Triangle,Weekday,Carpool Parking,No,10.0,8.0,56.0
+2016-04-21 15:00:00,Denny Triangle,Weekday,Paid Parking,No,412.0,336.0,55.0
+2016-04-21 15:00:00,Denny Triangle,Weekday,Paid Parking,Yes,32.0,0.0,100.0
+2016-04-21 16:00:00,Denny Triangle,Weekday,Carpool Parking,No,10.0,8.0,56.0
+2016-04-21 16:00:00,Denny Triangle,Weekday,Paid Parking,No,412.0,286.0,59.0
+2016-04-21 16:00:00,Denny Triangle,Weekday,Paid Parking,Yes,32.0,0.0,100.0
+2016-04-21 17:00:00,Denny Triangle,Weekday,Carpool Parking,No,10.0,10.0,50.0
+2016-04-21 17:00:00,Denny Triangle,Weekday,Paid Parking,No,412.0,304.0,58.0
+2016-04-21 17:00:00,Denny Triangle,Weekday,Paid Parking,Yes,32.0,0.0,100.0
+2016-04-21 18:00:00,Denny Triangle,Weekday,Carpool Parking,No,10.0,8.0,56.0
+2016-04-21 18:00:00,Denny Triangle,Weekday,Paid Parking,No,412.0,320.0,56.0
+2016-04-21 18:00:00,Denny Triangle,Weekday,Paid Parking,Yes,32.0,0.0,100.0
+2016-04-21 19:00:00,Denny Triangle,Weekday,Carpool Parking,No,10.0,8.0,56.0
+2016-04-21 19:00:00,Denny Triangle,Weekday,Paid Parking,No,444.0,369.0,55.0
+2016-04-21 20:00:00,Denny Triangle,Weekday,Carpool Parking,No,10.0,9.0,53.0
+2016-04-21 20:00:00,Denny Triangle,Weekday,Paid Parking,No,444.0,381.0,54.0
+2016-04-26 08:00:00,Belltown,Weekday,Carpool Parking,No,16.0,7.0,70.0
+2016-04-26 08:00:00,Belltown,Weekday,Paid Parking,No,934.0,389.0,71.0
+2016-04-26 08:00:00,Belltown,Weekday,Paid Parking,Yes,29.0,0.0,100.0
+2016-04-26 09:00:00,Belltown,Weekday,Carpool Parking,No,16.0,6.0,73.0
+2016-04-26 09:00:00,Belltown,Weekday,Paid Parking,No,963.0,483.0,67.0
+2016-04-26 10:00:00,Belltown,Weekday,Carpool Parking,No,16.0,11.0,59.0
+2016-04-26 10:00:00,Belltown,Weekday,Paid Parking,No,963.0,610.0,61.0
+2016-04-26 11:00:00,Belltown,Weekday,Carpool Parking,No,16.0,14.0,53.0
+2016-04-26 11:00:00,Belltown,Weekday,Paid Parking,No,963.0,678.0,59.0
+2016-04-26 12:00:00,Belltown,Weekday,Carpool Parking,No,16.0,15.0,52.0
+2016-04-26 12:00:00,Belltown,Weekday,Paid Parking,No,963.0,742.0,56.0
+2016-04-26 13:00:00,Belltown,Weekday,Carpool Parking,No,16.0,14.0,53.0
+2016-04-26 13:00:00,Belltown,Weekday,Paid Parking,No,963.0,710.0,58.0
+2016-04-26 14:00:00,Belltown,Weekday,Carpool Parking,No,16.0,13.0,55.0
+2016-04-26 14:00:00,Belltown,Weekday,Paid Parking,No,963.0,674.0,59.0
+2016-04-26 15:00:00,Belltown,Weekday,Carpool Parking,No,16.0,13.0,55.0
+2016-04-26 15:00:00,Belltown,Weekday,Paid Parking,No,916.0,636.0,59.0
+2016-04-26 15:00:00,Belltown,Weekday,Paid Parking,Yes,47.0,0.0,100.0
+2016-04-26 16:00:00,Belltown,Weekday,Carpool Parking,No,16.0,10.0,62.0
+2016-04-26 16:00:00,Belltown,Weekday,Paid Parking,No,903.0,578.0,61.0
+2016-04-26 16:00:00,Belltown,Weekday,Paid Parking,Yes,60.0,0.0,100.0
+2016-04-26 17:00:00,Belltown,Weekday,Carpool Parking,No,16.0,13.0,55.0
+2016-04-26 17:00:00,Belltown,Weekday,Paid Parking,No,903.0,561.0,62.0
+2016-04-26 17:00:00,Belltown,Weekday,Paid Parking,Yes,60.0,0.0,100.0
+2016-04-26 18:00:00,Belltown,Weekday,Carpool Parking,No,16.0,14.0,53.0
+2016-04-26 18:00:00,Belltown,Weekday,Paid Parking,No,952.0,634.0,60.0
+2016-04-26 18:00:00,Belltown,Weekday,Paid Parking,Yes,11.0,0.0,100.0
+2016-04-26 19:00:00,Belltown,Weekday,Carpool Parking,No,16.0,13.0,55.0
+2016-04-26 19:00:00,Belltown,Weekday,Paid Parking,No,963.0,687.0,58.0
+2016-04-26 20:00:00,Belltown,Weekday,Carpool Parking,No,16.0,15.0,52.0
+2016-04-26 20:00:00,Belltown,Weekday,Paid Parking,No,963.0,665.0,59.0
+2016-04-26 21:00:00,Belltown,Weekday,Carpool Parking,No,16.0,11.0,59.0
+2016-04-26 21:00:00,Belltown,Weekday,Paid Parking,No,963.0,606.0,61.0
+2016-04-27 08:00:00,Cherry Hill,Weekday,Paid Parking,No,56.0,56.0,50.0
+2016-04-27 09:00:00,Cherry Hill,Weekday,Paid Parking,No,56.0,54.0,51.0
+2016-04-27 10:00:00,Cherry Hill,Weekday,Paid Parking,No,56.0,55.0,50.0
+2016-04-27 11:00:00,Cherry Hill,Weekday,Paid Parking,No,56.0,55.0,50.0
+2016-04-27 12:00:00,Cherry Hill,Weekday,Paid Parking,No,56.0,49.0,53.0
+2016-04-27 13:00:00,Cherry Hill,Weekday,Paid Parking,No,56.0,52.0,52.0
+2016-04-27 14:00:00,Cherry Hill,Weekday,Paid Parking,No,56.0,57.0,50.0
+2016-04-27 15:00:00,Cherry Hill,Weekday,Paid Parking,No,56.0,47.0,54.0
+2016-04-27 16:00:00,Cherry Hill,Weekday,Paid Parking,No,56.0,33.0,63.0
+2016-04-27 17:00:00,Cherry Hill,Weekday,Paid Parking,No,56.0,23.0,71.0
+2016-04-27 18:00:00,Cherry Hill,Weekday,Paid Parking,No,56.0,24.0,70.0
+2016-04-27 19:00:00,Cherry Hill,Weekday,Paid Parking,No,56.0,38.0,60.0
+2016-04-27 20:00:00,Cherry Hill,Weekday,Paid Parking,No,56.0,44.0,56.0
+2016-04-28 08:00:00,Ballard,Weekday,Paid Parking,No,80.0,2.0,98.0
+2016-04-28 08:00:00,Chinatown,Weekday,Paid Parking,No,392.0,147.0,73.0
+2016-04-28 09:00:00,Ballard,Weekday,Paid Parking,No,80.0,3.0,96.0
+2016-04-28 09:00:00,Chinatown,Weekday,Paid Parking,No,392.0,210.0,65.0
+2016-04-28 10:00:00,Ballard,Weekday,Paid Parking,No,80.0,3.0,96.0
+2016-04-28 10:00:00,Chinatown,Weekday,Paid Parking,No,392.0,268.0,59.0
+2016-04-28 11:00:00,Ballard,Weekday,Paid Parking,No,80.0,16.0,83.0
+2016-04-28 11:00:00,Chinatown,Weekday,Paid Parking,No,392.0,357.0,52.0
+2016-04-28 12:00:00,Ballard,Weekday,Paid Parking,No,80.0,26.0,75.0
+2016-04-28 12:00:00,Chinatown,Weekday,Paid Parking,No,392.0,358.0,52.0
+2016-04-28 13:00:00,Ballard,Weekday,Paid Parking,No,80.0,24.0,77.0
+2016-04-28 13:00:00,Chinatown,Weekday,Paid Parking,No,392.0,351.0,53.0
+2016-04-28 14:00:00,Ballard,Weekday,Paid Parking,No,80.0,27.0,75.0
+2016-04-28 14:00:00,Chinatown,Weekday,Paid Parking,No,392.0,330.0,54.0
+2016-04-28 15:00:00,Ballard,Weekday,Paid Parking,No,80.0,33.0,71.0
+2016-04-28 15:00:00,Chinatown,Weekday,Paid Parking,No,373.0,281.0,57.0
+2016-04-28 15:00:00,Chinatown,Weekday,Paid Parking,Yes,19.0,0.0,100.0
+2016-04-28 16:00:00,Ballard,Weekday,Paid Parking,No,80.0,27.0,75.0
+2016-04-28 16:00:00,Chinatown,Weekday,Paid Parking,No,373.0,265.0,58.0
+2016-04-28 16:00:00,Chinatown,Weekday,Paid Parking,Yes,19.0,0.0,100.0
+2016-04-28 17:00:00,Ballard,Weekday,Paid Parking,No,80.0,17.0,82.0
+2016-04-28 17:00:00,Chinatown,Weekday,Paid Parking,No,373.0,265.0,58.0
+2016-04-28 17:00:00,Chinatown,Weekday,Paid Parking,Yes,19.0,0.0,100.0
+2016-04-28 18:00:00,Ballard,Weekday,Paid Parking,No,80.0,15.0,84.0
+2016-04-28 18:00:00,Chinatown,Weekday,Paid Parking,No,373.0,275.0,58.0
+2016-04-28 18:00:00,Chinatown,Weekday,Paid Parking,Yes,19.0,0.0,100.0
+2016-04-28 19:00:00,Ballard,Weekday,Paid Parking,No,80.0,18.0,82.0
+2016-04-28 19:00:00,Chinatown,Weekday,Paid Parking,No,392.0,332.0,54.0
+2016-04-28 20:00:00,Ballard,Weekday,Paid Parking,No,80.0,16.0,83.0
+2016-04-28 20:00:00,Chinatown,Weekday,Paid Parking,No,392.0,352.0,53.0
+2016-04-28 21:00:00,Chinatown,Weekday,Paid Parking,No,392.0,324.0,55.0
+2016-05-03 08:00:00,Roosevelt,Weekday,Paid Parking,No,57.0,6.0,90.0
+2016-05-03 08:00:00,Roosevelt,Weekday,Paid Parking,Yes,18.0,0.0,100.0
+2016-05-03 08:00:00,Roosevelt,Weekday,Time Limited Parking,No,74.0,20.0,79.0
+2016-05-03 08:00:00,Roosevelt,Weekday,Time Limited Parking,Yes,11.0,0.0,100.0
+2016-05-03 08:00:00,Roosevelt,Weekday,Unrestricted Parking,No,25.0,23.0,52.0
+2016-05-03 08:00:00,Roosevelt,Weekday,Unrestricted Parking,Yes,15.0,0.0,100.0
+2016-05-03 09:00:00,Roosevelt,Weekday,Paid Parking,No,75.0,9.0,89.0
+2016-05-03 09:00:00,Roosevelt,Weekday,Time Limited Parking,No,85.0,42.0,67.0
+2016-05-03 09:00:00,Roosevelt,Weekday,Unrestricted Parking,No,40.0,30.0,57.0
+2016-05-03 10:00:00,Roosevelt,Weekday,Paid Parking,No,75.0,21.0,78.0
+2016-05-03 10:00:00,Roosevelt,Weekday,Time Limited Parking,No,85.0,53.0,62.0
+2016-05-03 10:00:00,Roosevelt,Weekday,Unrestricted Parking,No,40.0,33.0,55.0
+2016-05-03 11:00:00,Roosevelt,Weekday,Paid Parking,No,75.0,25.0,75.0
+2016-05-03 11:00:00,Roosevelt,Weekday,Time Limited Parking,No,85.0,49.0,63.0
+2016-05-03 11:00:00,Roosevelt,Weekday,Unrestricted Parking,No,40.0,31.0,56.0
+2016-05-03 12:00:00,Roosevelt,Weekday,Paid Parking,No,75.0,40.0,65.0
+2016-05-03 12:00:00,Roosevelt,Weekday,Time Limited Parking,No,85.0,55.0,61.0
+2016-05-03 12:00:00,Roosevelt,Weekday,Unrestricted Parking,No,40.0,35.0,53.0
+2016-05-03 13:00:00,Roosevelt,Weekday,Paid Parking,No,75.0,39.0,66.0
+2016-05-03 13:00:00,Roosevelt,Weekday,Time Limited Parking,No,85.0,51.0,62.0
+2016-05-03 13:00:00,Roosevelt,Weekday,Unrestricted Parking,No,40.0,33.0,55.0
+2016-05-03 14:00:00,Roosevelt,Weekday,Paid Parking,No,75.0,37.0,67.0
+2016-05-03 14:00:00,Roosevelt,Weekday,Time Limited Parking,No,85.0,49.0,63.0
+2016-05-03 14:00:00,Roosevelt,Weekday,Unrestricted Parking,No,40.0,32.0,56.0
+2016-05-03 15:00:00,Roosevelt,Weekday,Paid Parking,No,75.0,25.0,75.0
+2016-05-03 15:00:00,Roosevelt,Weekday,Time Limited Parking,No,85.0,45.0,65.0
+2016-05-03 15:00:00,Roosevelt,Weekday,Unrestricted Parking,No,40.0,31.0,56.0
+2016-05-03 16:00:00,Roosevelt,Weekday,Paid Parking,No,46.0,27.0,63.0
+2016-05-03 16:00:00,Roosevelt,Weekday,Paid Parking,Yes,29.0,0.0,100.0
+2016-05-03 16:00:00,Roosevelt,Weekday,Time Limited Parking,No,39.0,32.0,55.0
+2016-05-03 16:00:00,Roosevelt,Weekday,Time Limited Parking,Yes,46.0,0.0,100.0
+2016-05-03 16:00:00,Roosevelt,Weekday,Unrestricted Parking,No,40.0,30.0,57.0
+2016-05-03 17:00:00,Roosevelt,Weekday,Paid Parking,No,46.0,27.0,63.0
+2016-05-03 17:00:00,Roosevelt,Weekday,Paid Parking,Yes,29.0,0.0,100.0
+2016-05-03 17:00:00,Roosevelt,Weekday,Time Limited Parking,No,39.0,33.0,54.0
+2016-05-03 17:00:00,Roosevelt,Weekday,Time Limited Parking,Yes,46.0,0.0,100.0
+2016-05-03 17:00:00,Roosevelt,Weekday,Unrestricted Parking,No,40.0,31.0,56.0
+2016-05-03 18:00:00,Roosevelt,Weekday,Paid Parking,No,75.0,42.0,64.0
+2016-05-03 18:00:00,Roosevelt,Weekday,Time Limited Parking,No,85.0,42.0,67.0
+2016-05-03 18:00:00,Roosevelt,Weekday,Unrestricted Parking,No,40.0,30.0,57.0
+2016-05-03 19:00:00,Roosevelt,Weekday,Paid Parking,No,75.0,49.0,60.0
+2016-05-03 19:00:00,Roosevelt,Weekday,Time Limited Parking,No,85.0,53.0,62.0
+2016-05-03 19:00:00,Roosevelt,Weekday,Unrestricted Parking,No,40.0,29.0,58.0
+2016-05-03 20:00:00,Roosevelt,Weekday,Paid Parking,No,75.0,49.0,60.0
+2016-05-03 20:00:00,Roosevelt,Weekday,Time Limited Parking,No,85.0,52.0,62.0
+2016-05-03 20:00:00,Roosevelt,Weekday,Unrestricted Parking,No,40.0,30.0,57.0
+2016-05-04 08:00:00,University District,Weekday,Paid Parking,No,562.0,255.0,69.0
+2016-05-04 08:00:00,University District,Weekday,Paid Parking,Yes,31.0,0.0,100.0
+2016-05-04 09:00:00,University District,Weekday,Paid Parking,No,593.0,321.0,65.0
+2016-05-04 10:00:00,University District,Weekday,Paid Parking,No,593.0,454.0,57.0
+2016-05-04 11:00:00,University District,Weekday,Paid Parking,No,593.0,464.0,56.0
+2016-05-04 12:00:00,University District,Weekday,Paid Parking,No,593.0,443.0,57.0
+2016-05-04 13:00:00,University District,Weekday,Paid Parking,No,593.0,469.0,56.0
+2016-05-04 14:00:00,University District,Weekday,Paid Parking,No,593.0,430.0,58.0
+2016-05-04 15:00:00,University District,Weekday,Paid Parking,No,557.0,376.0,60.0
+2016-05-04 15:00:00,University District,Weekday,Paid Parking,Yes,36.0,0.0,100.0
+2016-05-04 16:00:00,University District,Weekday,Paid Parking,No,557.0,328.0,63.0
+2016-05-04 16:00:00,University District,Weekday,Paid Parking,Yes,36.0,0.0,100.0
+2016-05-04 17:00:00,University District,Weekday,Paid Parking,No,557.0,349.0,61.0
+2016-05-04 17:00:00,University District,Weekday,Paid Parking,Yes,36.0,0.0,100.0
+2016-05-04 18:00:00,University District,Weekday,Paid Parking,No,557.0,402.0,58.0
+2016-05-04 18:00:00,University District,Weekday,Paid Parking,Yes,36.0,0.0,100.0
+2016-05-04 19:00:00,University District,Weekday,Paid Parking,No,593.0,463.0,56.0
+2016-05-04 20:00:00,University District,Weekday,Paid Parking,No,593.0,477.0,55.0
+2016-05-04 21:00:00,University District,Weekday,Paid Parking,No,593.0,404.0,59.0
+2016-05-17 00:00:00,Pike,Weekday,Paid Parking,No,368.0,243.0,60.0
+2016-05-17 00:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,38.0,49.0
+2016-05-17 08:00:00,Pike,Weekday,Paid Parking,No,339.0,122.0,74.0
+2016-05-17 08:00:00,Pike,Weekday,Paid Parking,Yes,29.0,0.0,100.0
+2016-05-17 08:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,35.0,51.0
+2016-05-17 09:00:00,Pike,Weekday,Paid Parking,No,368.0,143.0,72.0
+2016-05-17 09:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,32.0,53.0
+2016-05-17 10:00:00,Pike,Weekday,Paid Parking,No,368.0,200.0,65.0
+2016-05-17 10:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,40.0,47.0
+2016-05-17 11:00:00,Pike,Weekday,Paid Parking,No,368.0,225.0,62.0
+2016-05-17 11:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,42.0,46.0
+2016-05-17 12:00:00,Pike,Weekday,Paid Parking,No,368.0,274.0,57.0
+2016-05-17 12:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,38.0,49.0
+2016-05-17 13:00:00,Pike,Weekday,Paid Parking,No,368.0,282.0,57.0
+2016-05-17 13:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,39.0,48.0
+2016-05-17 14:00:00,Pike,Weekday,Paid Parking,No,368.0,245.0,60.0
+2016-05-17 14:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,36.0,50.0
+2016-05-17 15:00:00,Pike,Weekday,Paid Parking,No,355.0,237.0,60.0
+2016-05-17 15:00:00,Pike,Weekday,Paid Parking,Yes,13.0,0.0,100.0
+2016-05-17 15:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,36.0,50.0
+2016-05-17 16:00:00,Pike,Weekday,Paid Parking,No,355.0,229.0,61.0
+2016-05-17 16:00:00,Pike,Weekday,Paid Parking,Yes,13.0,0.0,100.0
+2016-05-17 16:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,36.0,50.0
+2016-05-17 17:00:00,Pike,Weekday,Paid Parking,No,355.0,269.0,57.0
+2016-05-17 17:00:00,Pike,Weekday,Paid Parking,Yes,13.0,0.0,100.0
+2016-05-17 17:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,37.0,49.0
+2016-05-17 18:00:00,Pike,Weekday,Paid Parking,No,355.0,321.0,53.0
+2016-05-17 18:00:00,Pike,Weekday,Paid Parking,Yes,13.0,0.0,100.0
+2016-05-17 18:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,41.0,47.0
+2016-05-17 19:00:00,Pike,Weekday,Paid Parking,No,368.0,344.0,52.0
+2016-05-17 19:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,44.0,45.0
+2016-05-17 20:00:00,Pike,Weekday,Paid Parking,No,368.0,330.0,53.0
+2016-05-17 20:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,44.0,45.0
+2016-05-17 21:00:00,Pike,Weekday,Paid Parking,No,368.0,345.0,52.0
+2016-05-17 21:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,38.0,49.0
+2016-05-17 22:00:00,Pike,Weekday,Paid Parking,No,368.0,295.0,56.0
+2016-05-17 22:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,38.0,49.0
+2016-05-17 23:00:00,Pike,Weekday,Paid Parking,No,365.0,283.0,56.0
+2016-05-17 23:00:00,Pike,Weekday,Paid Parking,Yes,3.0,0.0,100.0
+2016-05-17 23:00:00,Pike,Weekday,Restricted Parking Zone,No,36.0,40.0,47.0
+2016-05-24 08:00:00,First Hill,Weekday,Carpool Parking,No,10.0,7.0,59.0
+2016-05-24 08:00:00,First Hill,Weekday,Paid Parking,No,427.0,365.0,54.0
+2016-05-24 08:00:00,First Hill,Weekday,Paid Parking,Yes,6.0,0.0,100.0
+2016-05-24 08:00:00,First Hill,Weekday,Restricted Parking Zone,No,222.0,223.0,50.0
+2016-05-24 08:00:00,Fremont,Weekday,Paid Parking,No,85.0,22.0,79.0
+2016-05-24 08:00:00,Fremont,Weekday,Paid Parking,Yes,6.0,0.0,100.0
+2016-05-24 08:00:00,Fremont,Weekday,Time Limited Parking,No,295.0,157.0,65.0
+2016-05-24 08:00:00,Fremont,Weekday,Unrestricted Parking,No,8.0,7.0,53.0
+2016-05-24 09:00:00,First Hill,Weekday,Carpool Parking,No,10.0,8.0,56.0
+2016-05-24 09:00:00,First Hill,Weekday,Paid Parking,No,433.0,363.0,54.0
+2016-05-24 09:00:00,First Hill,Weekday,Restricted Parking Zone,No,222.0,230.0,49.0
+2016-05-24 09:00:00,Fremont,Weekday,Paid Parking,No,91.0,27.0,77.0
+2016-05-24 09:00:00,Fremont,Weekday,Time Limited Parking,No,295.0,182.0,62.0
+2016-05-24 09:00:00,Fremont,Weekday,Unrestricted Parking,No,8.0,6.0,57.0
+2016-05-24 10:00:00,First Hill,Weekday,Carpool Parking,No,10.0,9.0,53.0
+2016-05-24 10:00:00,First Hill,Weekday,Paid Parking,No,433.0,401.0,52.0
+2016-05-24 10:00:00,First Hill,Weekday,Restricted Parking Zone,No,222.0,232.0,49.0
+2016-05-24 10:00:00,Fremont,Weekday,Paid Parking,No,91.0,54.0,63.0
+2016-05-24 10:00:00,Fremont,Weekday,Time Limited Parking,No,295.0,217.0,58.0
+2016-05-24 10:00:00,Fremont,Weekday,Unrestricted Parking,No,8.0,7.0,53.0
+2016-05-24 11:00:00,First Hill,Weekday,Carpool Parking,No,10.0,9.0,53.0
+2016-05-24 11:00:00,First Hill,Weekday,Paid Parking,No,433.0,399.0,52.0
+2016-05-24 11:00:00,First Hill,Weekday,Restricted Parking Zone,No,222.0,234.0,49.0
+2016-05-24 11:00:00,Fremont,Weekday,Paid Parking,No,91.0,68.0,57.0
+2016-05-24 11:00:00,Fremont,Weekday,Time Limited Parking,No,295.0,236.0,56.0
+2016-05-24 11:00:00,Fremont,Weekday,Unrestricted Parking,No,8.0,7.0,53.0
+2016-05-24 12:00:00,First Hill,Weekday,Carpool Parking,No,10.0,8.0,56.0
+2016-05-24 12:00:00,First Hill,Weekday,Paid Parking,No,433.0,392.0,52.0
+2016-05-24 12:00:00,First Hill,Weekday,Restricted Parking Zone,No,222.0,235.0,49.0
+2016-05-24 12:00:00,Fremont,Weekday,Paid Parking,No,91.0,76.0,54.0
+2016-05-24 12:00:00,Fremont,Weekday,Time Limited Parking,No,295.0,257.0,53.0
+2016-05-24 12:00:00,Fremont,Weekday,Unrestricted Parking,No,8.0,7.0,53.0
+2016-05-24 13:00:00,First Hill,Weekday,Carpool Parking,No,10.0,7.0,59.0
+2016-05-24 13:00:00,First Hill,Weekday,Paid Parking,No,433.0,376.0,54.0
+2016-05-24 13:00:00,First Hill,Weekday,Restricted Parking Zone,No,222.0,234.0,49.0
+2016-05-24 13:00:00,Fremont,Weekday,Paid Parking,No,91.0,77.0,54.0
+2016-05-24 13:00:00,Fremont,Weekday,Time Limited Parking,No,295.0,241.0,55.0
+2016-05-24 13:00:00,Fremont,Weekday,Unrestricted Parking,No,8.0,9.0,47.0
+2016-05-24 14:00:00,First Hill,Weekday,Carpool Parking,No,10.0,8.0,56.0
+2016-05-24 14:00:00,First Hill,Weekday,Paid Parking,No,433.0,355.0,55.0
+2016-05-24 14:00:00,First Hill,Weekday,Restricted Parking Zone,No,222.0,231.0,49.0
+2016-05-24 14:00:00,Fremont,Weekday,Paid Parking,No,91.0,70.0,57.0
+2016-05-24 14:00:00,Fremont,Weekday,Time Limited Parking,No,295.0,225.0,57.0
+2016-05-24 14:00:00,Fremont,Weekday,Unrestricted Parking,No,8.0,8.0,50.0
+2016-05-24 15:00:00,First Hill,Weekday,Carpool Parking,No,10.0,7.0,59.0
+2016-05-24 15:00:00,First Hill,Weekday,Paid Parking,No,407.0,308.0,57.0
+2016-05-24 15:00:00,First Hill,Weekday,Paid Parking,Yes,26.0,0.0,100.0
+2016-05-24 15:00:00,First Hill,Weekday,Restricted Parking Zone,No,222.0,238.0,48.0
+2016-05-24 15:00:00,Fremont,Weekday,Paid Parking,No,91.0,64.0,59.0
+2016-05-24 15:00:00,Fremont,Weekday,Time Limited Parking,No,295.0,187.0,61.0
+2016-05-24 15:00:00,Fremont,Weekday,Unrestricted Parking,No,8.0,5.0,62.0
+2016-05-24 16:00:00,First Hill,Weekday,Carpool Parking,No,10.0,7.0,59.0
+2016-05-24 16:00:00,First Hill,Weekday,Paid Parking,No,407.0,275.0,60.0
+2016-05-24 16:00:00,First Hill,Weekday,Paid Parking,Yes,26.0,0.0,100.0
+2016-05-24 16:00:00,First Hill,Weekday,Restricted Parking Zone,No,222.0,234.0,49.0
+2016-05-24 16:00:00,Fremont,Weekday,Paid Parking,No,87.0,65.0,57.0
+2016-05-24 16:00:00,Fremont,Weekday,Paid Parking,Yes,4.0,0.0,100.0
+2016-05-24 16:00:00,Fremont,Weekday,Time Limited Parking,No,295.0,201.0,59.0
+2016-05-24 16:00:00,Fremont,Weekday,Unrestricted Parking,No,8.0,7.0,53.0
+2016-05-24 17:00:00,First Hill,Weekday,Carpool Parking,No,10.0,6.0,62.0
+2016-05-24 17:00:00,First Hill,Weekday,Paid Parking,No,407.0,256.0,61.0
+2016-05-24 17:00:00,First Hill,Weekday,Paid Parking,Yes,26.0,0.0,100.0
+2016-05-24 17:00:00,First Hill,Weekday,Restricted Parking Zone,No,222.0,239.0,48.0
+2016-05-24 17:00:00,Fremont,Weekday,Paid Parking,No,87.0,72.0,55.0
+2016-05-24 17:00:00,Fremont,Weekday,Paid Parking,Yes,4.0,0.0,100.0
+2016-05-24 17:00:00,Fremont,Weekday,Time Limited Parking,No,295.0,210.0,58.0
+2016-05-24 17:00:00,Fremont,Weekday,Unrestricted Parking,No,8.0,7.0,53.0
+2016-05-24 18:00:00,First Hill,Weekday,Carpool Parking,No,10.0,8.0,56.0
+2016-05-24 18:00:00,First Hill,Weekday,Paid Parking,No,411.0,293.0,58.0
+2016-05-24 18:00:00,First Hill,Weekday,Paid Parking,Yes,22.0,0.0,100.0
+2016-05-24 18:00:00,First Hill,Weekday,Restricted Parking Zone,No,222.0,246.0,47.0
+2016-05-24 18:00:00,Fremont,Weekday,Paid Parking,No,91.0,72.0,56.0
+2016-05-24 18:00:00,Fremont,Weekday,Time Limited Parking,No,295.0,221.0,57.0
+2016-05-24 18:00:00,Fremont,Weekday,Unrestricted Parking,No,8.0,8.0,50.0
+2016-05-24 19:00:00,First Hill,Weekday,Carpool Parking,No,10.0,8.0,56.0
+2016-05-24 19:00:00,First Hill,Weekday,Paid Parking,No,433.0,365.0,54.0
+2016-05-24 19:00:00,First Hill,Weekday,Restricted Parking Zone,No,222.0,246.0,47.0
+2016-05-24 19:00:00,Fremont,Weekday,Paid Parking,No,91.0,82.0,53.0
+2016-05-24 19:00:00,Fremont,Weekday,Time Limited Parking,No,295.0,244.0,55.0
+2016-05-24 19:00:00,Fremont,Weekday,Unrestricted Parking,No,8.0,8.0,50.0
+2016-05-24 20:00:00,First Hill,Weekday,Carpool Parking,No,10.0,10.0,50.0
+2016-05-24 20:00:00,First Hill,Weekday,Paid Parking,No,433.0,379.0,53.0
+2016-05-24 20:00:00,First Hill,Weekday,Restricted Parking Zone,No,222.0,248.0,47.0
+2016-05-24 20:00:00,Fremont,Weekday,Paid Parking,No,91.0,78.0,54.0
+2016-05-24 20:00:00,Fremont,Weekday,Time Limited Parking,No,295.0,242.0,55.0
+2016-05-24 20:00:00,Fremont,Weekday,Unrestricted Parking,No,8.0,6.0,57.0
+2016-05-24 21:00:00,First Hill,Weekday,Carpool Parking,No,10.0,8.0,56.0
+2016-05-24 21:00:00,First Hill,Weekday,Paid Parking,No,433.0,342.0,56.0
+2016-05-24 21:00:00,First Hill,Weekday,Restricted Parking Zone,No,222.0,251.0,47.0
+2016-05-24 21:00:00,Fremont,Weekday,Paid Parking,No,91.0,77.0,54.0
+2016-05-24 21:00:00,Fremont,Weekday,Time Limited Parking,No,295.0,207.0,59.0
+2016-05-24 21:00:00,Fremont,Weekday,Unrestricted Parking,No,8.0,7.0,53.0
+2016-05-25 08:00:00,Commercial Core,Weekday,Carpool Parking,No,37.0,22.0,63.0
+2016-05-25 08:00:00,Commercial Core,Weekday,Paid Parking,No,520.0,374.0,58.0
+2016-05-25 08:00:00,Commercial Core,Weekday,Paid Parking,Yes,96.0,0.0,100.0
+2016-05-25 09:00:00,Commercial Core,Weekday,Carpool Parking,No,37.0,29.0,56.0
+2016-05-25 09:00:00,Commercial Core,Weekday,Paid Parking,No,616.0,431.0,59.0
+2016-05-25 10:00:00,Commercial Core,Weekday,Carpool Parking,No,37.0,36.0,51.0
+2016-05-25 10:00:00,Commercial Core,Weekday,Paid Parking,No,616.0,471.0,57.0
+2016-05-25 11:00:00,Commercial Core,Weekday,Carpool Parking,No,37.0,37.0,50.0
+2016-05-25 11:00:00,Commercial Core,Weekday,Paid Parking,No,616.0,523.0,54.0
+2016-05-25 12:00:00,Commercial Core,Weekday,Carpool Parking,No,37.0,39.0,49.0
+2016-05-25 12:00:00,Commercial Core,Weekday,Paid Parking,No,616.0,522.0,54.0
+2016-05-25 13:00:00,Commercial Core,Weekday,Carpool Parking,No,37.0,38.0,49.0
+2016-05-25 13:00:00,Commercial Core,Weekday,Paid Parking,No,616.0,507.0,55.0
+2016-05-25 14:00:00,Commercial Core,Weekday,Carpool Parking,No,37.0,28.0,57.0
+2016-05-25 14:00:00,Commercial Core,Weekday,Paid Parking,No,616.0,493.0,56.0
+2016-05-25 15:00:00,Commercial Core,Weekday,Carpool Parking,No,37.0,36.0,51.0
+2016-05-25 15:00:00,Commercial Core,Weekday,Paid Parking,No,453.0,351.0,56.0
+2016-05-25 15:00:00,Commercial Core,Weekday,Paid Parking,Yes,163.0,0.0,100.0
+2016-05-25 16:00:00,Commercial Core,Weekday,Carpool Parking,No,37.0,38.0,49.0
+2016-05-25 16:00:00,Commercial Core,Weekday,Paid Parking,No,419.0,322.0,57.0
+2016-05-25 16:00:00,Commercial Core,Weekday,Paid Parking,Yes,197.0,0.0,100.0
+2016-05-25 17:00:00,Commercial Core,Weekday,Carpool Parking,No,37.0,34.0,52.0
+2016-05-25 17:00:00,Commercial Core,Weekday,Paid Parking,No,419.0,275.0,60.0
+2016-05-25 17:00:00,Commercial Core,Weekday,Paid Parking,Yes,197.0,0.0,100.0
+2016-05-25 18:00:00,Commercial Core,Weekday,Carpool Parking,No,37.0,35.0,51.0
+2016-05-25 18:00:00,Commercial Core,Weekday,Paid Parking,No,476.0,293.0,62.0
+2016-05-25 18:00:00,Commercial Core,Weekday,Paid Parking,Yes,140.0,0.0,100.0
+2016-05-25 19:00:00,Commercial Core,Weekday,Carpool Parking,No,37.0,30.0,55.0
+2016-05-25 19:00:00,Commercial Core,Weekday,Paid Parking,No,616.0,377.0,62.0
+2016-05-25 20:00:00,Commercial Core,Weekday,Carpool Parking,No,37.0,31.0,54.0
+2016-05-25 20:00:00,Commercial Core,Weekday,Paid Parking,No,616.0,447.0,58.0
+2016-05-25 21:00:00,Commercial Core,Weekday,Carpool Parking,No,37.0,30.0,55.0
+2016-05-25 21:00:00,Commercial Core,Weekday,Paid Parking,No,616.0,442.0,58.0
+2016-06-01 08:00:00,Uptown,Weekday,Carpool Parking,No,4.0,3.0,57.0
+2016-06-01 08:00:00,Uptown,Weekday,Paid Parking,No,532.0,163.0,77.0
+2016-06-01 08:00:00,Uptown,Weekday,Paid Parking,Yes,21.0,0.0,100.0
+2016-06-01 08:00:00,Uptown,Weekday,Time Limited Parking,No,125.0,109.0,53.0
+2016-06-01 08:00:00,Uptown,Weekday,Time Limited Parking,Yes,4.0,4.0,50.0
+2016-06-01 08:00:00,Uptown,Weekday,Unrestricted Parking,No,132.0,160.0,45.0
+2016-06-01 09:00:00,Uptown,Weekday,Carpool Parking,No,4.0,4.0,50.0
+2016-06-01 09:00:00,Uptown,Weekday,Paid Parking,No,553.0,227.0,71.0
+2016-06-01 09:00:00,Uptown,Weekday,Time Limited Parking,No,129.0,119.0,52.0
+2016-06-01 09:00:00,Uptown,Weekday,Unrestricted Parking,No,132.0,157.0,46.0
+2016-06-01 10:00:00,Uptown,Weekday,Carpool Parking,No,4.0,3.0,57.0
+2016-06-01 10:00:00,Uptown,Weekday,Paid Parking,No,553.0,308.0,64.0
+2016-06-01 10:00:00,Uptown,Weekday,Time Limited Parking,No,129.0,116.0,53.0
+2016-06-01 10:00:00,Uptown,Weekday,Unrestricted Parking,No,132.0,157.0,46.0
+2016-06-01 11:00:00,Uptown,Weekday,Carpool Parking,No,4.0,4.0,50.0
+2016-06-01 11:00:00,Uptown,Weekday,Paid Parking,No,553.0,366.0,60.0
+2016-06-01 11:00:00,Uptown,Weekday,Time Limited Parking,No,129.0,124.0,51.0
+2016-06-01 11:00:00,Uptown,Weekday,Unrestricted Parking,No,132.0,158.0,46.0
+2016-06-01 12:00:00,Uptown,Weekday,Carpool Parking,No,4.0,4.0,50.0
+2016-06-01 12:00:00,Uptown,Weekday,Paid Parking,No,553.0,405.0,58.0
+2016-06-01 12:00:00,Uptown,Weekday,Time Limited Parking,No,129.0,124.0,51.0
+2016-06-01 12:00:00,Uptown,Weekday,Unrestricted Parking,No,132.0,162.0,45.0
+2016-06-01 13:00:00,Uptown,Weekday,Carpool Parking,No,4.0,4.0,50.0
+2016-06-01 13:00:00,Uptown,Weekday,Paid Parking,No,553.0,386.0,59.0
+2016-06-01 13:00:00,Uptown,Weekday,Time Limited Parking,No,129.0,113.0,53.0
+2016-06-01 13:00:00,Uptown,Weekday,Unrestricted Parking,No,132.0,160.0,45.0
+2016-06-01 14:00:00,Uptown,Weekday,Carpool Parking,No,4.0,4.0,50.0
+2016-06-01 14:00:00,Uptown,Weekday,Paid Parking,No,553.0,340.0,62.0
+2016-06-01 14:00:00,Uptown,Weekday,Time Limited Parking,No,129.0,116.0,53.0
+2016-06-01 14:00:00,Uptown,Weekday,Unrestricted Parking,No,132.0,152.0,46.0
+2016-06-01 15:00:00,Uptown,Weekday,Carpool Parking,No,4.0,5.0,44.0
+2016-06-01 15:00:00,Uptown,Weekday,Paid Parking,No,523.0,348.0,60.0
+2016-06-01 15:00:00,Uptown,Weekday,Paid Parking,Yes,21.0,0.0,100.0
+2016-06-01 15:00:00,Uptown,Weekday,Time Limited Parking,No,129.0,118.0,52.0
+2016-06-01 15:00:00,Uptown,Weekday,Unrestricted Parking,No,132.0,153.0,46.0
+2016-06-01 16:00:00,Uptown,Weekday,Carpool Parking,No,4.0,3.0,57.0
+2016-06-01 16:00:00,Uptown,Weekday,Paid Parking,No,523.0,413.0,56.0
+2016-06-01 16:00:00,Uptown,Weekday,Paid Parking,Yes,21.0,0.0,100.0
+2016-06-01 16:00:00,Uptown,Weekday,Time Limited Parking,No,129.0,114.0,53.0
+2016-06-01 16:00:00,Uptown,Weekday,Unrestricted Parking,No,132.0,156.0,46.0
+2016-06-01 17:00:00,Uptown,Weekday,Carpool Parking,No,4.0,4.0,50.0
+2016-06-01 17:00:00,Uptown,Weekday,Paid Parking,No,523.0,469.0,53.0
+2016-06-01 17:00:00,Uptown,Weekday,Paid Parking,Yes,21.0,0.0,100.0
+2016-06-01 17:00:00,Uptown,Weekday,Time Limited Parking,No,129.0,126.0,51.0
+2016-06-01 17:00:00,Uptown,Weekday,Unrestricted Parking,No,132.0,140.0,49.0
+2016-06-01 18:00:00,Uptown,Weekday,Carpool Parking,No,4.0,3.0,57.0
+2016-06-01 18:00:00,Uptown,Weekday,Paid Parking,No,523.0,507.0,51.0
+2016-06-01 18:00:00,Uptown,Weekday,Paid Parking,Yes,21.0,0.0,100.0
+2016-06-01 18:00:00,Uptown,Weekday,Time Limited Parking,No,129.0,125.0,51.0
+2016-06-01 18:00:00,Uptown,Weekday,Unrestricted Parking,No,132.0,141.0,48.0
+2016-06-01 19:00:00,Uptown,Weekday,Carpool Parking,No,4.0,4.0,50.0
+2016-06-01 19:00:00,Uptown,Weekday,Paid Parking,No,553.0,553.0,50.0
+2016-06-01 19:00:00,Uptown,Weekday,Time Limited Parking,No,129.0,133.0,49.0
+2016-06-01 19:00:00,Uptown,Weekday,Unrestricted Parking,No,132.0,141.0,48.0
+2016-06-01 20:00:00,Uptown,Weekday,Carpool Parking,No,4.0,7.0,36.0
+2016-06-01 20:00:00,Uptown,Weekday,Paid Parking,No,553.0,540.0,51.0
+2016-06-01 20:00:00,Uptown,Weekday,Time Limited Parking,No,129.0,128.0,50.0
+2016-06-01 20:00:00,Uptown,Weekday,Unrestricted Parking,No,132.0,147.0,47.0
+2016-06-01 21:00:00,Uptown,Weekday,Carpool Parking,No,4.0,4.0,50.0
+2016-06-01 21:00:00,Uptown,Weekday,Paid Parking,No,553.0,558.0,50.0
+2016-06-01 21:00:00,Uptown,Weekday,Time Limited Parking,No,129.0,124.0,51.0
+2016-06-01 21:00:00,Uptown,Weekday,Unrestricted Parking,No,132.0,150.0,47.0
+2016-06-02 08:00:00,South Lake Union,Weekday,Paid Parking,No,1255.0,790.0,61.0
+2016-06-02 08:00:00,South Lake Union,Weekday,Paid Parking,Yes,14.0,0.0,100.0
+2016-06-02 08:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,104.0,97.0,52.0
+2016-06-02 08:00:00,South Lake Union,Weekday,Unrestricted Parking,No,37.0,41.0,47.0
+2016-06-02 09:00:00,South Lake Union,Weekday,Paid Parking,No,1269.0,917.0,58.0
+2016-06-02 09:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,104.0,96.0,52.0
+2016-06-02 09:00:00,South Lake Union,Weekday,Unrestricted Parking,No,37.0,40.0,48.0
+2016-06-02 10:00:00,South Lake Union,Weekday,Paid Parking,No,1269.0,1028.0,55.0
+2016-06-02 10:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,104.0,103.0,50.0
+2016-06-02 10:00:00,South Lake Union,Weekday,Unrestricted Parking,No,37.0,40.0,48.0
+2016-06-02 11:00:00,South Lake Union,Weekday,Paid Parking,No,1269.0,1047.0,55.0
+2016-06-02 11:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,104.0,101.0,51.0
+2016-06-02 11:00:00,South Lake Union,Weekday,Unrestricted Parking,No,37.0,40.0,48.0
+2016-06-02 12:00:00,South Lake Union,Weekday,Paid Parking,No,1269.0,1134.0,53.0
+2016-06-02 12:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,104.0,105.0,50.0
+2016-06-02 12:00:00,South Lake Union,Weekday,Unrestricted Parking,No,37.0,40.0,48.0
+2016-06-02 13:00:00,South Lake Union,Weekday,Paid Parking,No,1269.0,1092.0,54.0
+2016-06-02 13:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,104.0,101.0,51.0
+2016-06-02 13:00:00,South Lake Union,Weekday,Unrestricted Parking,No,37.0,43.0,46.0
+2016-06-02 14:00:00,South Lake Union,Weekday,Paid Parking,No,1269.0,1018.0,55.0
+2016-06-02 14:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,104.0,99.0,51.0
+2016-06-02 14:00:00,South Lake Union,Weekday,Unrestricted Parking,No,37.0,43.0,46.0
+2016-06-02 15:00:00,South Lake Union,Weekday,Paid Parking,No,1261.0,935.0,57.0
+2016-06-02 15:00:00,South Lake Union,Weekday,Paid Parking,Yes,8.0,0.0,100.0
+2016-06-02 15:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,104.0,98.0,51.0
+2016-06-02 15:00:00,South Lake Union,Weekday,Unrestricted Parking,No,37.0,42.0,47.0
+2016-06-02 16:00:00,South Lake Union,Weekday,Paid Parking,No,1257.0,807.0,61.0
+2016-06-02 16:00:00,South Lake Union,Weekday,Paid Parking,Yes,12.0,0.0,100.0
+2016-06-02 16:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,96.0,92.0,51.0
+2016-06-02 16:00:00,South Lake Union,Weekday,Restricted Parking Zone,Yes,8.0,0.0,100.0
+2016-06-02 16:00:00,South Lake Union,Weekday,Unrestricted Parking,No,37.0,42.0,47.0
+2016-06-02 17:00:00,South Lake Union,Weekday,Paid Parking,No,1257.0,772.0,62.0
+2016-06-02 17:00:00,South Lake Union,Weekday,Paid Parking,Yes,12.0,0.0,100.0
+2016-06-02 17:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,96.0,96.0,50.0
+2016-06-02 17:00:00,South Lake Union,Weekday,Restricted Parking Zone,Yes,8.0,0.0,100.0
+2016-06-02 17:00:00,South Lake Union,Weekday,Unrestricted Parking,No,37.0,38.0,49.0
+2016-06-02 18:00:00,South Lake Union,Weekday,Paid Parking,No,1261.0,825.0,60.0
+2016-06-02 18:00:00,South Lake Union,Weekday,Paid Parking,Yes,8.0,0.0,100.0
+2016-06-02 18:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,104.0,100.0,51.0
+2016-06-02 18:00:00,South Lake Union,Weekday,Unrestricted Parking,No,37.0,21.0,64.0
+2016-06-02 19:00:00,South Lake Union,Weekday,Paid Parking,No,1269.0,822.0,61.0
+2016-06-02 19:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,104.0,101.0,51.0
+2016-06-02 19:00:00,South Lake Union,Weekday,Unrestricted Parking,No,37.0,20.0,65.0
+2016-06-02 20:00:00,South Lake Union,Weekday,Paid Parking,No,1269.0,802.0,61.0
+2016-06-02 20:00:00,South Lake Union,Weekday,Restricted Parking Zone,No,104.0,100.0,51.0
+2016-06-02 20:00:00,South Lake Union,Weekday,Unrestricted Parking,No,37.0,14.0,73.0
+2016-06-15 08:00:00,Pioneer Square,Weekday,Paid Parking,No,415.0,334.0,55.0
+2016-06-15 08:00:00,Pioneer Square,Weekday,Paid Parking,Yes,95.0,0.0,100.0
+2016-06-15 09:00:00,Pioneer Square,Weekday,Paid Parking,No,510.0,377.0,57.0
+2016-06-15 10:00:00,Pioneer Square,Weekday,Paid Parking,No,512.0,491.0,51.0
+2016-06-15 11:00:00,Pioneer Square,Weekday,Paid Parking,No,512.0,512.0,50.0
+2016-06-15 12:00:00,Pioneer Square,Weekday,Paid Parking,No,512.0,548.0,48.0
+2016-06-15 13:00:00,Pioneer Square,Weekday,Paid Parking,No,512.0,512.0,50.0
+2016-06-15 14:00:00,Pioneer Square,Weekday,Paid Parking,No,512.0,484.0,51.0
+2016-06-15 15:00:00,Pioneer Square,Weekday,Paid Parking,No,459.0,402.0,53.0
+2016-06-15 15:00:00,Pioneer Square,Weekday,Paid Parking,Yes,51.0,0.0,100.0
+2016-06-15 16:00:00,Pioneer Square,Weekday,Paid Parking,No,449.0,404.0,53.0
+2016-06-15 16:00:00,Pioneer Square,Weekday,Paid Parking,Yes,63.0,0.0,100.0
+2016-06-15 17:00:00,Pioneer Square,Weekday,Paid Parking,No,449.0,354.0,56.0
+2016-06-15 17:00:00,Pioneer Square,Weekday,Paid Parking,Yes,63.0,0.0,100.0
+2016-06-15 18:00:00,Pioneer Square,Weekday,Paid Parking,No,482.0,384.0,56.0
+2016-06-15 18:00:00,Pioneer Square,Weekday,Paid Parking,Yes,30.0,0.0,100.0
+2016-06-15 19:00:00,Pioneer Square,Weekday,Paid Parking,No,512.0,426.0,55.0
+2016-06-15 20:00:00,Pioneer Square,Weekday,Paid Parking,No,512.0,402.0,56.0
+2016-07-05 08:00:00,Ballard,Weekday,Paid Parking,No,80.0,2.0,98.0
+2016-07-05 09:00:00,Ballard,Weekday,Paid Parking,No,80.0,0.0,100.0
+2016-07-05 10:00:00,Ballard,Weekday,Paid Parking,No,80.0,24.0,77.0
+2016-07-05 11:00:00,Ballard,Weekday,Paid Parking,No,80.0,46.0,63.0
+2016-07-05 12:00:00,Ballard,Weekday,Paid Parking,No,80.0,58.0,58.0
+2016-07-05 13:00:00,Ballard,Weekday,Paid Parking,No,80.0,67.0,54.0
+2016-07-05 14:00:00,Ballard,Weekday,Paid Parking,No,80.0,56.0,59.0
+2016-07-05 15:00:00,Ballard,Weekday,Paid Parking,No,80.0,66.0,55.0
+2016-07-05 16:00:00,Ballard,Weekday,Paid Parking,No,80.0,67.0,54.0
+2016-07-05 17:00:00,Ballard,Weekday,Paid Parking,No,80.0,49.0,62.0
+2016-07-05 18:00:00,Ballard,Weekday,Paid Parking,No,80.0,43.0,65.0
+2016-07-05 19:00:00,Ballard,Weekday,Paid Parking,No,80.0,55.0,59.0
+2016-07-05 20:00:00,Ballard,Weekday,Paid Parking,No,80.0,65.0,55.0
